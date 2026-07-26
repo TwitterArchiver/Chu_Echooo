@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051188566848684267",
+    "created_at": "2026-05-04T08:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T09:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051211923497357334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051211923497357334",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051202727561330877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 啊啊啊啊贰贰我害羞（˶･֊･˶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051188566848684267",
+        "created_at": "2026-05-04T08:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051211923497357334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051211923497357334",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051202727561330877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 啊啊啊啊贰贰我害羞（˶･֊･˶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788642156111863808",
+        "conversation_id": "2051188566848684267",
+        "created_at": "2026-05-04T07:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051202727561330877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051202727561330877",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051188566848684267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 啊啊啊啊我女神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 70,
+          "like_count": 3443,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 880
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 296,
+          "like_count": 14848,
+          "listed_count": 2,
+          "media_count": 1205,
+          "tweet_count": 9721
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2056670394724347970",
+    "created_at": "2026-05-19T10:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056683330213736905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2051919325490274304",
+          "start": 0,
+          "username": "Sye2z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056683330213736905",
+    "in_reply_to_user_id": "2051919325490274304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056674946064306610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sye2z1 早晚找个机会，让阿云把这句话中间的两个字摘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2056670394724347970",
+        "created_at": "2026-05-19T10:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056683330213736905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2051919325490274304",
+              "start": 0,
+              "username": "Sye2z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056683330213736905",
+        "in_reply_to_user_id": "2051919325490274304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056674946064306610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sye2z1 早晚找个机会，让阿云把这句话中间的两个字摘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051919325490274304",
+        "conversation_id": "2056670394724347970",
+        "created_at": "2026-05-19T09:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056674946064306610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056674946064306610",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056670394724347970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 阿楚漂亮死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 82,
+          "like_count": 4731,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1219
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T06:58:16.000Z",
+        "description": "云",
+        "id": "2051919325490274304",
+        "name": "朔云小号",
+        "pinned_tweet_id": "2052135162889269423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052138115125678080/tdv9VnXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 184,
+          "like_count": 2419,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 974
+        },
+        "username": "Sye2z1",
+        "verified": false
+      }
+    ]
+  }
+}

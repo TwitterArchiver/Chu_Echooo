@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067178511308349909",
+    "created_at": "2026-06-17T10:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067190214146269463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785303923538161664",
+          "start": 0,
+          "username": "marci7639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067190214146269463",
+    "in_reply_to_user_id": "1785303923538161664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067178511308349909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marci7639 年轻真好呀~~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067178484645191680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAX4SCbYAAWb-W.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067178511308349909",
+        "created_at": "2026-06-17T10:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067190214146269463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785303923538161664",
+              "start": 0,
+              "username": "marci7639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067190214146269463",
+        "in_reply_to_user_id": "1785303923538161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067178511308349909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marci7639 年轻真好呀~~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067178484645191680"
+          ]
+        },
+        "author_id": "1785303923538161664",
+        "conversation_id": "2067178511308349909",
+        "created_at": "2026-06-17T09:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067178511308349909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRe7DhEKeH",
+              "end": 57,
+              "expanded_url": "https://x.com/marci7639/status/2067178511308349909/photo/1",
+              "media_key": "3_2067178484645191680",
+              "start": 34,
+              "url": "https://t.co/pRe7DhEKeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067178511308349909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次心理课去朋友越聊越开心，非常激情地一节课写完了行程，寒假就去！ https://t.co/pRe7DhEKeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 88,
+          "like_count": 6797,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2117
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:43:30.000Z",
+        "description": "这是什么？我吃一下谢谢😋\n小星星@xiaoxingxing90",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "xiaoxingxing90"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marci7639",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marci7639",
+                "start": 0,
+                "url": "https://t.co/m0aPE8aCfl"
+              }
+            ]
+          }
+        },
+        "id": "1785303923538161664",
+        "location": "肠粉国",
+        "name": "一颗星星🌟",
+        "pinned_tweet_id": "1936131439839629378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004854393662029824/b9YDZKsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 411,
+          "like_count": 35824,
+          "listed_count": 1,
+          "media_count": 1189,
+          "tweet_count": 6028
+        },
+        "url": "https://t.co/m0aPE8aCfl",
+        "username": "marci7639",
+        "verified": false
+      }
+    ]
+  }
+}

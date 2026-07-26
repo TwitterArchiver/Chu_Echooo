@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074355237331116512",
+    "created_at": "2026-07-07T07:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074388007650766919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074388007650766919",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074355237331116512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074355237331116512",
+        "created_at": "2026-07-07T07:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074388007650766919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074388007650766919",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074355237331116512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2074355237331116512",
+        "created_at": "2026-07-07T04:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074355237331116512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074355237331116512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 192,
+                "start": 184,
+                "tag": "佳怡的恋爱日常"
+              }
+            ]
+          },
+          "text": "刚才男朋友突然跟我说，看我直播感觉我特别累，我很纳闷，怎么突然说起这个问题，我就好奇的问他为什么会这样想，他说因为我一直在保持一种高能量的状态，给别人提供情绪价值，但是没有人给我提供情绪价值。听他说完我的眼泪一下子就要流出来了🥹🥹不知道你们能不能理解到这种感觉，虽然只是日常工作的一部分而已，我早已经麻木了，但是突然有人能够理解你，共情你的感受，这种感觉让我好感动\n\n#佳怡的恋爱日常"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2774,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚才男朋友突然跟我说，看我直播感觉我特别累，我很纳闷，怎么突然说起这个问题，我就好奇的问他为什么会这样想，他说因为我一直在保持一种高能量的状态，给别人提供情绪价值，但是没有人给我提供情绪价值。听他说完我的眼泪一下子就要流出来了🥹🥹不知道你们能不能理解到这种感觉，虽然只是日常工作的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 100,
+          "like_count": 8001,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2790
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9278,
+          "following_count": 100,
+          "like_count": 11640,
+          "listed_count": 27,
+          "media_count": 272,
+          "tweet_count": 2638
+        },
+        "url": "",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

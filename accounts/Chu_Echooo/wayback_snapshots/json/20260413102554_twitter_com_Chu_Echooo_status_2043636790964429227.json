@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2043629889740493252",
+    "created_at": "2026-04-13T10:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043636790964429227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1620135489746669572",
+          "start": 0,
+          "username": "yiaoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043636790964429227",
+    "in_reply_to_user_id": "1620135489746669572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043629889740493252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiaoer 那你对我也是见色起意吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2043629889740493252",
+        "created_at": "2026-04-13T10:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043636790964429227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1620135489746669572",
+              "start": 0,
+              "username": "yiaoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043636790964429227",
+        "in_reply_to_user_id": "1620135489746669572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043629889740493252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiaoer 那你对我也是见色起意吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620135489746669572",
+        "conversation_id": "2043629889740493252",
+        "created_at": "2026-04-13T09:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043629889740493252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043629889740493252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我男女不忌纯粹是色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 44,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 320
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T19:03:09.000Z",
+        "description": "这是个精神不正常且无聊的用户 | 如果看到不能理解的忽略取关拉黑都行，别骂我，我只是个内心脆弱的小老鼠 | 不打女拳不打男拳，只打鼠拳，一切发言鼠鼠承担",
+        "id": "1620135489746669572",
+        "name": "查无此鼠",
+        "pinned_tweet_id": "2025618588422521035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032528822147624961/dXuC1ojR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 875,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1920
+        },
+        "username": "yiaoer",
+        "verified": false
+      }
+    ]
+  }
+}

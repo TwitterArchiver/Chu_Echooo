@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074761121547096258",
+    "created_at": "2026-07-08T09:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074783934412706231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788026680889802752",
+          "start": 0,
+          "username": "suuulii99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074783934412706231",
+    "in_reply_to_user_id": "1788026680889802752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074761121547096258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suuulii99 ！椰椰要给我买吗那多不好意思宝宝我收货地址发你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5601,
+        "height": 1280,
+        "media_key": "13_2074760985127301120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074760985127301120/img/d1q5OAsWc1wdzQvm.jpg",
+        "public_metrics": {
+          "view_count": 68
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074760985127301120/vid/avc1/320x568/-MmAxuQ69X6cSGyL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074760985127301120/vid/avc1/480x852/KFAN1gELnGzcjGDN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074760985127301120/vid/avc1/720x1280/NVRhbbVlmH8PpoDF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074760985127301120/pl/li-FqdiDuN6qd50C.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074761121547096258",
+        "created_at": "2026-07-08T09:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074783934412706231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788026680889802752",
+              "start": 0,
+              "username": "suuulii99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074783934412706231",
+        "in_reply_to_user_id": "1788026680889802752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074761121547096258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suuulii99 ！椰椰要给我买吗那多不好意思宝宝我收货地址发你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074760985127301120"
+          ]
+        },
+        "author_id": "1788026680889802752",
+        "conversation_id": "2074761121547096258",
+        "created_at": "2026-07-08T07:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074761121547096258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nhlMK7kop",
+              "end": 27,
+              "expanded_url": "https://x.com/suuulii99/status/2074761121547096258/video/1",
+              "media_key": "13_2074760985127301120",
+              "start": 4,
+              "url": "https://t.co/3nhlMK7kop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074761121547096258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关看 https://t.co/3nhlMK7kop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 100,
+          "like_count": 8051,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 2821
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T02:02:47.000Z",
+        "description": "只是我的废话空间 和其他社媒无差｜纯绿 请先阅读置顶｜提问箱⬇️\nhttps://t.co/Y9SHFTfK3H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suuuli25",
+                "end": 56,
+                "expanded_url": "https://ngl.link/suuuli25",
+                "start": 33,
+                "url": "https://t.co/Y9SHFTfK3H"
+              }
+            ]
+          }
+        },
+        "id": "1788026680889802752",
+        "location": "🐈",
+        "name": "椰蓉早点睡觉",
+        "pinned_tweet_id": "2063307593536438679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646287497699328/9cuL0C6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 262,
+          "like_count": 9639,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 1839
+        },
+        "url": "",
+        "username": "suuulii99",
+        "verified": false
+      }
+    ]
+  }
+}

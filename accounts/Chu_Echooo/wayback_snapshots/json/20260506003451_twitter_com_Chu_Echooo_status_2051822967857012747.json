@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051723864972099987",
+    "created_at": "2026-05-06T00:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T01:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051822967857012747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983040217654407172",
+          "start": 0,
+          "username": "NIKI1209forever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051822967857012747",
+    "in_reply_to_user_id": "1983040217654407172",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051723864972099987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NIKI1209forever 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051723864972099987",
+        "created_at": "2026-05-06T00:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051822967857012747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983040217654407172",
+              "start": 0,
+              "username": "NIKI1209forever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051822967857012747",
+        "in_reply_to_user_id": "1983040217654407172",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051723864972099987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NIKI1209forever 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983040217654407172",
+        "conversation_id": "2051723864972099987",
+        "created_at": "2026-05-05T18:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051723864972099987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051723864972099987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己迟早被普瑞巴林害死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 71,
+          "like_count": 3640,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 959
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:16:56.000Z",
+        "description": "泛性恋/烟代 电子烟外烟都有",
+        "id": "1983040217654407172",
+        "name": "渺渺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046280360498253824/danQXtYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 45,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 287
+        },
+        "username": "NIKI1209forever",
+        "verified": false
+      }
+    ]
+  }
+}

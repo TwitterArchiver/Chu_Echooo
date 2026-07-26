@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2065718001387893204",
+    "created_at": "2026-06-13T13:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065792399809667142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025610787109359616",
+          "start": 0,
+          "username": "LapisPulse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065792399809667142",
+    "in_reply_to_user_id": "2025610787109359616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065759615594181014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LapisPulse つ⩊⊂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2065718001387893204",
+        "created_at": "2026-06-13T13:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065792399809667142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025610787109359616",
+              "start": 0,
+              "username": "LapisPulse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065792399809667142",
+        "in_reply_to_user_id": "2025610787109359616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065759615594181014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LapisPulse つ⩊⊂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025610787109359616",
+        "conversation_id": "2065718001387893204",
+        "created_at": "2026-06-13T11:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065759615594181014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065759615594181014",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065718001387893204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 姐姐我好喜欢你的长相和气质哦🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 90,
+          "like_count": 6302,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1891
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T16:37:09.000Z",
+        "description": "欢迎来到我们的荒原。\n两个野孩子，并不理会什么，只管尽情地跑。@aftermoor_notes\n提问箱： https://t.co/9wHOSgtwdV 回复在置顶🫶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "aftermoor_notes"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurex67020",
+                "end": 76,
+                "expanded_url": "https://ngl.link/aurex67020",
+                "start": 53,
+                "url": "https://t.co/9wHOSgtwdV"
+              }
+            ]
+          }
+        },
+        "id": "2025610787109359616",
+        "location": "Aevi & Aurex",
+        "name": "LapisPulse💗",
+        "pinned_tweet_id": "2040121390100324396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040043393087336448/40f1caht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 261,
+          "like_count": 9119,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 2206
+        },
+        "username": "LapisPulse",
+        "verified": true
+      }
+    ]
+  }
+}

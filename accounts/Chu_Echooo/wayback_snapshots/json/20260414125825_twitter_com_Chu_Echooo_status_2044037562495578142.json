@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2044026794668634474",
+    "created_at": "2026-04-14T12:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044037562495578142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1969243292367011840",
+          "start": 0,
+          "username": "wwenwann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044037562495578142",
+    "in_reply_to_user_id": "1969243292367011840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044026794668634474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwenwann 辣酱，麻仁金丝，五仁酱丁，老干妈，培根，酱牛肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044026773940387840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3XhWwawAAU17v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2044026794668634474",
+        "created_at": "2026-04-14T12:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044037562495578142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1969243292367011840",
+              "start": 0,
+              "username": "wwenwann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044037562495578142",
+        "in_reply_to_user_id": "1969243292367011840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044026794668634474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwenwann 辣酱，麻仁金丝，五仁酱丁，老干妈，培根，酱牛肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044026773940387840"
+          ]
+        },
+        "author_id": "1969243292367011840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044026794668634474",
+        "created_at": "2026-04-14T12:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044026794668634474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50BscIjX0k",
+              "end": 56,
+              "expanded_url": "https://x.com/wwenwann/status/2044026794668634474/photo/1",
+              "media_key": "3_2044026773940387840",
+              "start": 33,
+              "url": "https://t.co/50BscIjX0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044026794668634474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈给寄了许多烙饼，得尽快大吃特吃。当早饭的话能用烙饼配什么呢？ https://t.co/50BscIjX0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2043165840355574263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 45,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 353
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T03:32:55.000Z",
+        "description": "少女的祈祷📜",
+        "id": "1969243292367011840",
+        "name": "温婉",
+        "pinned_tweet_id": "2009516668507074731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041034794319155200/saBmOQh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 16,
+          "like_count": 9026,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 932
+        },
+        "username": "wwenwann",
+        "verified": false
+      }
+    ]
+  }
+}

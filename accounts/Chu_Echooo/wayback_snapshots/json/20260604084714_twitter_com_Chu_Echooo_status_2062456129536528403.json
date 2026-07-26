@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062416429228716332",
+    "created_at": "2026-06-04T08:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062456129536528403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "897361072117620736",
+          "start": 0,
+          "username": "Johnathan0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062456129536528403",
+    "in_reply_to_user_id": "897361072117620736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062425476963127751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Johnathan0827 女孩子随便试，男孩子随便逝！（⎚˕⎚^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062416429228716332",
+        "created_at": "2026-06-04T08:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062456129536528403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "897361072117620736",
+              "start": 0,
+              "username": "Johnathan0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062456129536528403",
+        "in_reply_to_user_id": "897361072117620736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062425476963127751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johnathan0827 女孩子随便试，男孩子随便逝！（⎚˕⎚^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897361072117620736",
+        "conversation_id": "2062416429228716332",
+        "created_at": "2026-06-04T06:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062425476963127751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062425476963127751",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062416429228716332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 真的可以试试嘛，请勿伤害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 86,
+          "like_count": 5390,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1442
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-15T07:35:26.000Z",
+        "description": "Looking for beginner tennis🎾 partners around NTRP 2.0–2.5 to hit with regularly. \nPreferably near Science Park / Kent Ridge in Singapore.",
+        "id": "897361072117620736",
+        "location": "Singapore",
+        "name": "Johnathan Zhao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053308924011692032/q2AZDPEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 332,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 166
+        },
+        "username": "Johnathan0827",
+        "verified": false
+      }
+    ]
+  }
+}

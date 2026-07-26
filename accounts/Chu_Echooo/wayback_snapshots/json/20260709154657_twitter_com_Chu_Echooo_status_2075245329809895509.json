@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2075245034790953447",
+    "created_at": "2026-07-09T15:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075245329809895509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785303923538161664",
+          "start": 0,
+          "username": "marci7639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075245329809895509",
+    "in_reply_to_user_id": "1785303923538161664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075245034790953447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marci7639 我点开图片直接一个秒困！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075245023093039104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzAWndboAAksp_.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2075245034790953447",
+        "created_at": "2026-07-09T15:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075245329809895509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785303923538161664",
+              "start": 0,
+              "username": "marci7639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075245329809895509",
+        "in_reply_to_user_id": "1785303923538161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075245034790953447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marci7639 我点开图片直接一个秒困！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075245023093039104"
+          ]
+        },
+        "author_id": "1785303923538161664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2075245034790953447",
+        "created_at": "2026-07-09T15:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075245034790953447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7y2ZqXQht",
+              "end": 46,
+              "expanded_url": "https://x.com/marci7639/status/2075245034790953447/photo/1",
+              "media_key": "3_2075245023093039104",
+              "start": 23,
+              "url": "https://t.co/d7y2ZqXQht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075245034790953447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经严肃复习完植物地理，继续复习土壤地理…. https://t.co/d7y2ZqXQht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 100,
+          "like_count": 8117,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 2851
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:43:30.000Z",
+        "description": "这是什么？我吃一下谢谢😋\n小星星@xiaoxingxing90",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "xiaoxingxing90"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marci7639",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marci7639",
+                "start": 0,
+                "url": "https://t.co/m0aPE8aCfl"
+              }
+            ]
+          }
+        },
+        "id": "1785303923538161664",
+        "location": "肠粉国",
+        "name": "一颗星星🌟",
+        "pinned_tweet_id": "1936131439839629378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004854393662029824/b9YDZKsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 408,
+          "like_count": 36769,
+          "listed_count": 1,
+          "media_count": 1237,
+          "tweet_count": 6235
+        },
+        "url": "https://t.co/m0aPE8aCfl",
+        "username": "marci7639",
+        "verified": false
+      }
+    ]
+  }
+}

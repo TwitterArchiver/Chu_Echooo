@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2078436583829823557",
+    "created_at": "2026-07-18T12:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078459708701278425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1502290571833995266",
+          "start": 0,
+          "username": "3a4kura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078459708701278425",
+    "in_reply_to_user_id": "1502290571833995266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078450282716139662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3a4kura 他不会哭，只要给他冻干和罐罐就行，孩子贼好骗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2078436583829823557",
+        "created_at": "2026-07-18T12:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078459708701278425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1502290571833995266",
+              "start": 0,
+              "username": "3a4kura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078459708701278425",
+        "in_reply_to_user_id": "1502290571833995266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078450282716139662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3a4kura 他不会哭，只要给他冻干和罐罐就行，孩子贼好骗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502290571833995266",
+        "conversation_id": "2078436583829823557",
+        "created_at": "2026-07-18T12:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078450282716139662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078450282716139662",
+        "in_reply_to_user_id": "1502290571833995266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078450075400118390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 如果小猫知道将来会发生什么……那小猫也会哭的吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 100,
+          "like_count": 8146,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 2970
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T14:29:28.000Z",
+        "description": "好闺闺与姐姐大人： @tsumugi_oe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "tsumugi_oe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaskuraMiku",
+                "end": 23,
+                "expanded_url": "http://t.me/SaskuraMiku",
+                "start": 0,
+                "url": "https://t.co/ZuTqpGwx8H"
+              }
+            ]
+          }
+        },
+        "id": "1502290571833995266",
+        "name": "3a4kura oe🍥",
+        "pinned_tweet_id": "2078105831636099482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077554550760955904/7RreIfGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 244,
+          "like_count": 23301,
+          "listed_count": 1,
+          "media_count": 2928,
+          "tweet_count": 9802
+        },
+        "url": "https://t.co/ZuTqpGwx8H",
+        "username": "3a4kura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063224877461729719",
+    "created_at": "2026-06-06T12:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063235135303287176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1536308137057062912",
+          "start": 0,
+          "username": "xm77cooky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063235135303287176",
+    "in_reply_to_user_id": "1536308137057062912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063226188978671783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xm77cooky 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063224877461729719",
+        "created_at": "2026-06-06T12:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063235135303287176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1536308137057062912",
+              "start": 0,
+              "username": "xm77cooky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063235135303287176",
+        "in_reply_to_user_id": "1536308137057062912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063226188978671783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm77cooky 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536308137057062912",
+        "conversation_id": "2063224877461729719",
+        "created_at": "2026-06-06T11:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063226188978671783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063226188978671783",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063224877461729719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好幸福的一碗🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 87,
+          "like_count": 5636,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1579
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T11:23:13.000Z",
+        "description": "🌈les /04/h偏p/推上发日常或发些弹唱片段🎶/私信长久不关，可以分享、倾诉/兔兔教🐰\n⚠蝻勿扰，打扰直接蔽\n提问箱https://t.co/IqjGu8sWwL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%85%94%E5%8…",
+                "end": 84,
+                "expanded_url": "https://ngl.link/%E5%85%94%E5%86%BB%E6%B4%BE",
+                "start": 61,
+                "url": "https://t.co/IqjGu8sWwL"
+              }
+            ]
+          }
+        },
+        "id": "1536308137057062912",
+        "name": "小林选手",
+        "pinned_tweet_id": "2057088623410028648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033926746857476099/nSHvWC4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3997,
+          "following_count": 159,
+          "like_count": 7515,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 754
+        },
+        "username": "xm77cooky",
+        "verified": false
+      }
+    ]
+  }
+}

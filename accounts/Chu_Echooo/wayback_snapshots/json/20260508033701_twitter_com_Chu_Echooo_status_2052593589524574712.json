@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052564599740994016",
+    "created_at": "2026-05-08T03:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052593589524574712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900094261087133698",
+          "start": 0,
+          "username": "aichijichidouya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052593589524574712",
+    "in_reply_to_user_id": "1900094261087133698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052566596846329928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aichijichidouya 姐姐，你问问咱爸愿不愿意收养一只流浪狗单身狗，很乖，下雨会回家，吃得也不多🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052566578517172224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwubZ5a4AAQI6H.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052566578512924672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwubZ4aEAA6ADL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052566578512924674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwubZ4aEAIkqUN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2052566579368624128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwubdEbAAApU3s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052564599740994016",
+        "created_at": "2026-05-08T03:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052593589524574712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900094261087133698",
+              "start": 0,
+              "username": "aichijichidouya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052593589524574712",
+        "in_reply_to_user_id": "1900094261087133698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052566596846329928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aichijichidouya 姐姐，你问问咱爸愿不愿意收养一只流浪狗单身狗，很乖，下雨会回家，吃得也不多🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052566578517172224",
+            "3_2052566578512924672",
+            "3_2052566578512924674",
+            "3_2052566579368624128"
+          ]
+        },
+        "author_id": "1900094261087133698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052564599740994016",
+        "created_at": "2026-05-08T01:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052566596846329928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/klszWPnFHj",
+              "end": 76,
+              "expanded_url": "https://x.com/aichijichidouya/status/2052566596846329928/photo/1",
+              "media_key": "3_2052566578517172224",
+              "start": 53,
+              "url": "https://t.co/klszWPnFHj"
+            },
+            {
+              "display_url": "pic.x.com/klszWPnFHj",
+              "end": 76,
+              "expanded_url": "https://x.com/aichijichidouya/status/2052566596846329928/photo/1",
+              "media_key": "3_2052566578512924672",
+              "start": 53,
+              "url": "https://t.co/klszWPnFHj"
+            },
+            {
+              "display_url": "pic.x.com/klszWPnFHj",
+              "end": 76,
+              "expanded_url": "https://x.com/aichijichidouya/status/2052566596846329928/photo/1",
+              "media_key": "3_2052566578512924674",
+              "start": 53,
+              "url": "https://t.co/klszWPnFHj"
+            },
+            {
+              "display_url": "pic.x.com/klszWPnFHj",
+              "end": 76,
+              "expanded_url": "https://x.com/aichijichidouya/status/2052566596846329928/photo/1",
+              "media_key": "3_2052566579368624128",
+              "start": 53,
+              "url": "https://t.co/klszWPnFHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052566596846329928",
+        "in_reply_to_user_id": "1900094261087133698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052564599740994016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给你们看p1就是我爸之前做的冬阴功特别美味，其他的菜我爸也很会做，各种好吃的他都会做，还有很多摆不下了🤤 https://t.co/klszWPnFHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 77,
+          "like_count": 3903,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 979
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T07:59:21.000Z",
+        "description": "关注了我就不许嫌我吵/大概是只回关我喜欢的女孩子/私信只回互关",
+        "id": "1900094261087133698",
+        "name": "可乐鸡翅豆芽菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929057382908461056/ELdxFyBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 39,
+          "like_count": 6485,
+          "listed_count": 0,
+          "media_count": 1560,
+          "tweet_count": 4816
+        },
+        "username": "aichijichidouya",
+        "verified": false
+      }
+    ]
+  }
+}

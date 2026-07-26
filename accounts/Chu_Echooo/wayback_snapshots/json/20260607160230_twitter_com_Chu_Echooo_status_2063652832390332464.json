@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063642025464037411",
+    "created_at": "2026-06-07T16:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063652832390332464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900094261087133698",
+          "start": 0,
+          "username": "aichijichidouya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063652832390332464",
+    "in_reply_to_user_id": "1900094261087133698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063642025464037411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aichijichidouya 女人，不要再散发你的可爱了，我会心动。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2063642014248574976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOHenLboAAmlth.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063642025464037411",
+        "created_at": "2026-06-07T16:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063652832390332464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900094261087133698",
+              "start": 0,
+              "username": "aichijichidouya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063652832390332464",
+        "in_reply_to_user_id": "1900094261087133698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063642025464037411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aichijichidouya 女人，不要再散发你的可爱了，我会心动。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063642014248574976"
+          ]
+        },
+        "author_id": "1900094261087133698",
+        "conversation_id": "2063642025464037411",
+        "created_at": "2026-06-07T15:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063642025464037411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9ODPI4rbO",
+              "end": 44,
+              "expanded_url": "https://x.com/aichijichidouya/status/2063642025464037411/photo/1",
+              "media_key": "3_2063642014248574976",
+              "start": 21,
+              "url": "https://t.co/W9ODPI4rbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063642025464037411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知为何感觉自己老了\n装嫩的表情让人心酸 https://t.co/W9ODPI4rbO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 87,
+          "like_count": 5776,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1655
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T07:59:21.000Z",
+        "description": "关注了我就不许嫌我吵/大概是只回关我喜欢的女孩子/私信只回互关",
+        "id": "1900094261087133698",
+        "name": "可乐鸡翅豆芽菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929057382908461056/ELdxFyBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 36,
+          "like_count": 7071,
+          "listed_count": 0,
+          "media_count": 1690,
+          "tweet_count": 5302
+        },
+        "username": "aichijichidouya",
+        "verified": false
+      }
+    ]
+  }
+}

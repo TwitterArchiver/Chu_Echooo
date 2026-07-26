@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067055999408844864",
+    "created_at": "2026-06-17T01:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067057883628597417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061242157453983744",
+          "start": 0,
+          "username": "YingZaisamadesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067057883628597417",
+    "in_reply_to_user_id": "2061242157453983744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067055999408844864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisamadesu 我以为你在日夜苦读挑灯备战考试周"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067055999408844864",
+        "created_at": "2026-06-17T01:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067057883628597417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061242157453983744",
+              "start": 0,
+              "username": "YingZaisamadesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067057883628597417",
+        "in_reply_to_user_id": "2061242157453983744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067055999408844864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisamadesu 我以为你在日夜苦读挑灯备战考试周"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061242157453983744",
+        "conversation_id": "2067055999408844864",
+        "created_at": "2026-06-17T01:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067055999408844864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067055999408844864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天一直没发推，因为现实里我也燃尽了，你们知道对于一个运动能力为0，死宅了好几天的人来说，参加这种几百人的现场活动，我像一只没有毛的猴子抓耳挠腮，我的身体协调的像一只成年章鱼四处扭动，我讨厌人群，我不知道怎么躲开车辆，怎么走前面有人的路，我讨厌这一切，都去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 88,
+          "like_count": 6723,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2080
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T00:25:59.000Z",
+        "description": "06/目前就读于异世界大学➧ 猫头鹰教教主👑   ⚠️阴暗死宅（重度二次元）我只是一只猫头鹰，也只是一只猫头鹰. 「中二病严重患者」⚠️❌ 坚定的纯爱主义者.⚠️照片高P线下查无此人⚠️双重人格⚠️ 遇到自己兴趣方面会变得疯癫⚠️我从来不是什么正常人，这里只有我的阴暗和疯癫面，我也只是一个缺爱阴暗老鼠🐭",
+        "id": "2061242157453983744",
+        "location": "彼岸",
+        "name": "✞ Nocturne Eagle ✞",
+        "pinned_tweet_id": "2061397668979696104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061242991994699776/R6ZXROtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 38,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 50
+        },
+        "username": "YingZaisamadesu",
+        "verified": false
+      }
+    ]
+  }
+}

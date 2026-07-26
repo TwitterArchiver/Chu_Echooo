@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034299084484546890",
+    "created_at": "2026-03-19T03:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T04:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034478969115087206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914679801847308288",
+          "start": 0,
+          "username": "Hidden_Summer_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034478969115087206",
+    "in_reply_to_user_id": "914679801847308288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034299084484546890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hidden_Summer_ 生日快乐，不止生日快乐，要天天快乐~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034299084484546890",
+        "created_at": "2026-03-19T03:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034478969115087206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914679801847308288",
+              "start": 0,
+              "username": "Hidden_Summer_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034478969115087206",
+        "in_reply_to_user_id": "914679801847308288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034299084484546890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hidden_Summer_ 生日快乐，不止生日快乐，要天天快乐~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914679801847308288",
+        "conversation_id": "2034299084484546890",
+        "created_at": "2026-03-18T16:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034299084484546890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034299084484546890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又老一岁\n25咯。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 48,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 94
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-02T02:33:53.000Z",
+        "description": "NEVER FADE AWAY.",
+        "id": "914679801847308288",
+        "location": "诺文斯克 塔科夫市",
+        "name": "Hidden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700092664560115712/_urqn_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 104,
+          "like_count": 3159,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1334
+        },
+        "username": "Hidden_Summer_",
+        "verified": false
+      }
+    ]
+  }
+}

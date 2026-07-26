@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074036394763391379",
+    "created_at": "2026-07-06T08:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074042160924782649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235212836856631296",
+          "start": 0,
+          "username": "yeyebigco_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074042160924782649",
+    "in_reply_to_user_id": "1235212836856631296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074040213819773332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyebigco_ 唉🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074036394763391379",
+        "created_at": "2026-07-06T08:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074042160924782649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235212836856631296",
+              "start": 0,
+              "username": "yeyebigco_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074042160924782649",
+        "in_reply_to_user_id": "1235212836856631296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074040213819773332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyebigco_ 唉🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235212836856631296",
+        "conversation_id": "2074036394763391379",
+        "created_at": "2026-07-06T07:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074040213819773332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074040213819773332",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074036394763391379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 真的给我看力竭了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 99,
+          "like_count": 7918,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2756
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T14:38:01.000Z",
+        "description": "人类只是我的兼职＆5G小椰冲浪中",
+        "id": "1235212836856631296",
+        "name": "耶耶比格椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063632175053058048/oyVMUN5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 47,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "yeyebigco_",
+        "verified": false
+      }
+    ]
+  }
+}

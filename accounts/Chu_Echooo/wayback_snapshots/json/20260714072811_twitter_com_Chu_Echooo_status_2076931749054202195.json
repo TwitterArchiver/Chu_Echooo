@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2076524935149936874",
+    "created_at": "2026-07-14T07:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076931749054202195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788026680889802752",
+          "start": 0,
+          "username": "suuulii99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076931749054202195",
+    "in_reply_to_user_id": "1788026680889802752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076532092339646814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suuulii99 别抱，我脏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2076524935149936874",
+        "created_at": "2026-07-14T07:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076931749054202195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788026680889802752",
+              "start": 0,
+              "username": "suuulii99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076931749054202195",
+        "in_reply_to_user_id": "1788026680889802752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076532092339646814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suuulii99 别抱，我脏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788026680889802752",
+        "conversation_id": "2076524935149936874",
+        "created_at": "2026-07-13T05:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076532092339646814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076532092339646814",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076524935149936874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 抱抱阿楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 102,
+          "like_count": 8157,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2912
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T02:02:47.000Z",
+        "description": "只是我的废话空间 和其他社媒无差｜纯绿 请先阅读置顶｜提问箱⬇️\nhttps://t.co/Y9SHFTfK3H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suuuli25",
+                "end": 56,
+                "expanded_url": "https://ngl.link/suuuli25",
+                "start": 33,
+                "url": "https://t.co/Y9SHFTfK3H"
+              }
+            ]
+          }
+        },
+        "id": "1788026680889802752",
+        "location": "🐈",
+        "name": "椰蓉修行中",
+        "pinned_tweet_id": "2063307593536438679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646287497699328/9cuL0C6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 271,
+          "like_count": 10396,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 2044
+        },
+        "url": "",
+        "username": "suuulii99",
+        "verified": false
+      }
+    ]
+  }
+}

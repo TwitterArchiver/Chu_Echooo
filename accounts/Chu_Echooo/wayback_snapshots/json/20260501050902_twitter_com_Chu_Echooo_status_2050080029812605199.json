@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050071462959354050",
+    "created_at": "2026-05-01T05:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050080029812605199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1043818398612893696",
+          "start": 0,
+          "username": "oodoII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050080029812605199",
+    "in_reply_to_user_id": "1043818398612893696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050078077011775854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oodoII 都是P的🤫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050071462959354050",
+        "created_at": "2026-05-01T05:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050080029812605199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1043818398612893696",
+              "start": 0,
+              "username": "oodoII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050080029812605199",
+        "in_reply_to_user_id": "1043818398612893696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050078077011775854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oodoII 都是P的🤫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1043818398612893696",
+        "conversation_id": "2050071462959354050",
+        "created_at": "2026-05-01T05:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050078077011775854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050078077011775854",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050071462959354050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 楚楚好美啊😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 70,
+          "like_count": 3220,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 761
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-23T11:04:34.000Z",
+        "description": "",
+        "id": "1043818398612893696",
+        "name": "🍋‍🟩",
+        "pinned_tweet_id": "2044287688157843841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044422297902338048/UJ5fPeVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 83,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 101
+        },
+        "username": "oodoII",
+        "verified": false
+      }
+    ]
+  }
+}

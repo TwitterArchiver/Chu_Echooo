@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047415665922085316",
+    "created_at": "2026-04-24T08:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047600228325564506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047600228325564506",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047415665922085316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 我我我我我！我也是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047415665922085316",
+        "created_at": "2026-04-24T08:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047600228325564506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047600228325564506",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047415665922085316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 我我我我我！我也是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788642156111863808",
+        "conversation_id": "2047415665922085316",
+        "created_at": "2026-04-23T20:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047415665922085316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047415665922085316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "红楼梦 越看越想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 61,
+          "like_count": 2636,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 421
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 296,
+          "like_count": 14399,
+          "listed_count": 2,
+          "media_count": 1183,
+          "tweet_count": 9523
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

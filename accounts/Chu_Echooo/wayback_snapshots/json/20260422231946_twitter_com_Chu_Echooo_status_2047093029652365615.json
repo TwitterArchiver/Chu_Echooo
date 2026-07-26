@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047006985196130410",
+    "created_at": "2026-04-22T23:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047093029652365615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644985773488320512",
+          "start": 0,
+          "username": "HLay127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047093029652365615",
+    "in_reply_to_user_id": "1644985773488320512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047006985196130410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLay127 咖啡豆：滚，莫挨老子！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047006982293577728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhuAUBaYAAunJE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047006985196130410",
+        "created_at": "2026-04-22T23:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047093029652365615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644985773488320512",
+              "start": 0,
+              "username": "HLay127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047093029652365615",
+        "in_reply_to_user_id": "1644985773488320512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047006985196130410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLay127 咖啡豆：滚，莫挨老子！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047006982293577728"
+          ]
+        },
+        "author_id": "1644985773488320512",
+        "conversation_id": "2047006985196130410",
+        "created_at": "2026-04-22T17:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047006985196130410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UA7b4xpdX1",
+              "end": 46,
+              "expanded_url": "https://x.com/HLay127/status/2047006985196130410/photo/1",
+              "media_key": "3_2047006982293577728",
+              "start": 23,
+              "url": "https://t.co/UA7b4xpdX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047006985196130410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能选择死法的话 我愿意在咖啡豆的怀里闷死 https://t.co/UA7b4xpdX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 63,
+          "like_count": 2283,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 450
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T08:49:15.000Z",
+        "description": "咖啡爱好者，不是在喝咖啡就是在喝咖啡的路上，我的好大儿叫咖啡豆是个虎斑美短白手套 我和我的儿子都是异性恋",
+        "id": "1644985773488320512",
+        "name": "浮笙",
+        "pinned_tweet_id": "2045206524084244704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039349599006277632/eavCWhy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 85,
+          "like_count": 28538,
+          "listed_count": 5,
+          "media_count": 1409,
+          "tweet_count": 11288
+        },
+        "username": "HLay127",
+        "verified": false
+      }
+    ]
+  }
+}

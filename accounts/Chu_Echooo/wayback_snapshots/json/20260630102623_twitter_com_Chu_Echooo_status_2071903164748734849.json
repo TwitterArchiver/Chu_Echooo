@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071903154782773248"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2071903164748734849",
+    "created_at": "2026-06-30T10:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071903164748734849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Di7ZkI8nwx",
+          "end": 110,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2071903164748734849/photo/1",
+          "media_key": "3_2071903154782773248",
+          "start": 87,
+          "url": "https://t.co/Di7ZkI8nwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071903164748734849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好像，被表白了...\n怪不得我下班了一直找借口不让我走...\n我就说年下不喊姐，一定有问题吧...\n我都说过我喜欢女生了，可能他以为是开玩笑吧...\n现在心情有点乱... https://t.co/Di7ZkI8nwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2071903154782773248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDg8R3WoAAlvmr.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071903154782773248"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2071903164748734849",
+        "created_at": "2026-06-30T10:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071903164748734849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Di7ZkI8nwx",
+              "end": 110,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2071903164748734849/photo/1",
+              "media_key": "3_2071903154782773248",
+              "start": 87,
+              "url": "https://t.co/Di7ZkI8nwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071903164748734849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像，被表白了...\n怪不得我下班了一直找借口不让我走...\n我就说年下不喊姐，一定有问题吧...\n我都说过我喜欢女生了，可能他以为是开玩笑吧...\n现在心情有点乱... https://t.co/Di7ZkI8nwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 92,
+          "like_count": 7653,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 2548
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

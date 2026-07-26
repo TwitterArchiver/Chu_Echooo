@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2078059070653935973",
+    "created_at": "2026-07-17T12:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078099677527085197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761225327651774464",
+          "start": 0,
+          "username": "tutu19900124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078099677527085197",
+    "in_reply_to_user_id": "1761225327651774464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078059070653935973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu19900124 我愿意无偿做瓜的辩护律师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078059059396423680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa_tFmbMAAOJzz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078059059316686848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa_tFTagAALk3O.jpg",
+        "width": 1726
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078059059325140992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa_tFVbgAAt0jO.jpg",
+        "width": 1632
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078059059325149184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa_tFVboAApcdw.jpg",
+        "width": 1670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2078059070653935973",
+        "created_at": "2026-07-17T12:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078099677527085197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761225327651774464",
+              "start": 0,
+              "username": "tutu19900124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078099677527085197",
+        "in_reply_to_user_id": "1761225327651774464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078059070653935973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu19900124 我愿意无偿做瓜的辩护律师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078059059396423680",
+            "3_2078059059316686848",
+            "3_2078059059325140992",
+            "3_2078059059325149184"
+          ]
+        },
+        "author_id": "1761225327651774464",
+        "conversation_id": "2078059070653935973",
+        "created_at": "2026-07-17T10:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078059070653935973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHsMfFKTwz",
+              "end": 28,
+              "expanded_url": "https://x.com/tutu19900124/status/2078059070653935973/photo/1",
+              "media_key": "3_2078059059396423680",
+              "start": 5,
+              "url": "https://t.co/SHsMfFKTwz"
+            },
+            {
+              "display_url": "pic.x.com/SHsMfFKTwz",
+              "end": 28,
+              "expanded_url": "https://x.com/tutu19900124/status/2078059070653935973/photo/1",
+              "media_key": "3_2078059059316686848",
+              "start": 5,
+              "url": "https://t.co/SHsMfFKTwz"
+            },
+            {
+              "display_url": "pic.x.com/SHsMfFKTwz",
+              "end": 28,
+              "expanded_url": "https://x.com/tutu19900124/status/2078059070653935973/photo/1",
+              "media_key": "3_2078059059325140992",
+              "start": 5,
+              "url": "https://t.co/SHsMfFKTwz"
+            },
+            {
+              "display_url": "pic.x.com/SHsMfFKTwz",
+              "end": 28,
+              "expanded_url": "https://x.com/tutu19900124/status/2078059070653935973/photo/1",
+              "media_key": "3_2078059059325149184",
+              "start": 5,
+              "url": "https://t.co/SHsMfFKTwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078059070653935973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1431,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈好坏 https://t.co/SHsMfFKTwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 100,
+          "like_count": 8152,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2955
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T03:03:47.000Z",
+        "description": "永远坚持，随时放弃₍˄·͈༝·͈˄*₎◞ ̑̑ 祝我们玩得开心🫶🏻欢迎提问♡https://t.co/IsPRloKt1B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tutu80779",
+                "end": 61,
+                "expanded_url": "https://ngl.link/tutu80779",
+                "start": 38,
+                "url": "https://t.co/IsPRloKt1B"
+              }
+            ]
+          }
+        },
+        "id": "1761225327651774464",
+        "name": "tutu",
+        "pinned_tweet_id": "2073283014734512170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835696742593085440/rIEhqw-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19277,
+          "following_count": 1076,
+          "like_count": 98467,
+          "listed_count": 51,
+          "media_count": 5122,
+          "tweet_count": 50021
+        },
+        "url": "",
+        "username": "tutu19900124",
+        "verified": false
+      }
+    ]
+  }
+}

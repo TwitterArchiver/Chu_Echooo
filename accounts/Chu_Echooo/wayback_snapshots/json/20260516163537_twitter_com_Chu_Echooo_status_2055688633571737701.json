@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055686910115524754",
+    "created_at": "2026-05-16T16:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055688633571737701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053114193222479874",
+          "start": 0,
+          "username": "zip_zip0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055688633571737701",
+    "in_reply_to_user_id": "2053114193222479874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055688122902397325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zip_zip0101 我立马贴了创可贴，不然再晚点伤口就愈合了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055686910115524754",
+        "created_at": "2026-05-16T16:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055688633571737701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053114193222479874",
+              "start": 0,
+              "username": "zip_zip0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055688633571737701",
+        "in_reply_to_user_id": "2053114193222479874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055688122902397325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zip_zip0101 我立马贴了创可贴，不然再晚点伤口就愈合了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053114193222479874",
+        "conversation_id": "2055686910115524754",
+        "created_at": "2026-05-16T16:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055688122902397325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055688122902397325",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055686910115524754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 楚点点好坏！姐姐注意消毒呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 83,
+          "like_count": 4691,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1240
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:07:29.000Z",
+        "description": "只回一个人的消息",
+        "id": "2053114193222479874",
+        "name": "Cocoya",
+        "pinned_tweet_id": "2055250973237391651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053115257418059778/qd9shK9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 52,
+          "like_count": 2032,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 205
+        },
+        "username": "zip_zip0101",
+        "verified": false
+      }
+    ]
+  }
+}

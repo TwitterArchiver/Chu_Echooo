@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055549808602202574",
+    "created_at": "2026-05-16T08:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T09:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055570819506647147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697606014768709632",
+          "start": 0,
+          "username": "Jias227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055570819506647147",
+    "in_reply_to_user_id": "1697606014768709632",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055554413604041200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jias227 （˶･֊･˶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055549808602202574",
+        "created_at": "2026-05-16T08:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055570819506647147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697606014768709632",
+              "start": 0,
+              "username": "Jias227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055570819506647147",
+        "in_reply_to_user_id": "1697606014768709632",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055554413604041200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jias227 （˶･֊･˶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697606014768709632",
+        "conversation_id": "2055549808602202574",
+        "created_at": "2026-05-16T07:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055554413604041200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055554413604041200",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055549808602202574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 美啊楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 84,
+          "like_count": 4612,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1230
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T13:43:14.000Z",
+        "description": "这里是我的日记本 绿🚪门槛\n互关可以直接➕",
+        "id": "1697606014768709632",
+        "location": "耳机里的世界",
+        "name": "灵魂在拥抱中回暖",
+        "pinned_tweet_id": "2028358435168026665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042578147896606720/q8HGzEc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 50,
+          "like_count": 93894,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1317
+        },
+        "username": "Jias227",
+        "verified": false
+      }
+    ]
+  }
+}

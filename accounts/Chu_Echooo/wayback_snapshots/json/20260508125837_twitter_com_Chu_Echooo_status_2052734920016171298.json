@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052734701023211727",
+    "created_at": "2026-05-08T12:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052734920016171298"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052734920016171298",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052734701023211727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "娶我也行。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_2052734688259977216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzHUrfbsAAuCbQ.jpg",
+        "width": 2062
+      },
+      {
+        "height": 1042,
+        "media_key": "3_2052734688159256576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzHUrHa0AAYwpW.jpg",
+        "width": 2062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052734701023211727",
+        "created_at": "2026-05-08T12:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052734920016171298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052734920016171298",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052734701023211727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "娶我也行。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052734688259977216",
+            "3_2052734688159256576"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052734701023211727",
+        "created_at": "2026-05-08T12:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052734701023211727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWn9eqLpBO",
+              "end": 40,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2052734701023211727/photo/1",
+              "media_key": "3_2052734688259977216",
+              "start": 17,
+              "url": "https://t.co/SWn9eqLpBO"
+            },
+            {
+              "display_url": "pic.x.com/SWn9eqLpBO",
+              "end": 40,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2052734701023211727/photo/1",
+              "media_key": "3_2052734688159256576",
+              "start": 17,
+              "url": "https://t.co/SWn9eqLpBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052734701023211727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想柏拉图了，有人愿意嫁给我吗 https://t.co/SWn9eqLpBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 79,
+          "like_count": 3933,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 848
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

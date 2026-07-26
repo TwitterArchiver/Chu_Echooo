@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064515297634357372",
+    "created_at": "2026-06-10T03:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064547965415657814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1972911474801827840",
+          "start": 0,
+          "username": "ocamppoedu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064547965415657814",
+    "in_reply_to_user_id": "1972911474801827840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064547317181747375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ocamppoedu 对的对的，我就是自私，我就是爱猫猫狗狗，我也爱人我只是不爱你，因为我没把你当人😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T03:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064547965415657814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972911474801827840",
+              "start": 0,
+              "username": "ocamppoedu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064547965415657814",
+        "in_reply_to_user_id": "1972911474801827840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064547317181747375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ocamppoedu 对的对的，我就是自私，我就是爱猫猫狗狗，我也爱人我只是不爱你，因为我没把你当人😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972911474801827840",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T03:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064547317181747375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064547317181747375",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064515297634357372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 只爱猫狗不爱人的伪善者，你说你爱猫猫狗狗，本质上只是爱你自己而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 89,
+          "like_count": 6009,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1767
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T06:28:51.000Z",
+        "description": "Out of fuel. Floating now.",
+        "id": "1972911474801827840",
+        "location": "San Jose, CA",
+        "name": "Aidan🎯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972911745858715648/dP-0i6xj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 34,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "ocamppoedu",
+        "verified": false
+      }
+    ]
+  }
+}

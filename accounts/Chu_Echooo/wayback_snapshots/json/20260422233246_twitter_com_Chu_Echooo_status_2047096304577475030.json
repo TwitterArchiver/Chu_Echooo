@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047095293569868109",
+    "created_at": "2026-04-22T23:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047096304577475030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047096304577475030",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047095293569868109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 安慰的话我实在不会讲，我抱抱抱不到的你~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047095293569868109",
+        "created_at": "2026-04-22T23:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047096304577475030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047096304577475030",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047095293569868109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 安慰的话我实在不会讲，我抱抱抱不到的你~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788642156111863808",
+        "conversation_id": "2047095293569868109",
+        "created_at": "2026-04-22T23:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047095293569868109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047095293569868109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我累了，我什么都不想干。我懒得活，我也懒得死。我觉得活着和死亡都是很痛苦的事情。这个世界是个监狱，生命是囚徒。我不知道我能干什么。根本无法逃离。死亡是唯一逃离生存的方式吗？那活着也是逃离死亡的唯一方式。我们活着的时候认为死是救赎。死了又发现新生才是救赎。这不就是无限循环游戏吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 63,
+          "like_count": 2296,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 454
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 294,
+          "like_count": 14325,
+          "listed_count": 1,
+          "media_count": 1180,
+          "tweet_count": 9472
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

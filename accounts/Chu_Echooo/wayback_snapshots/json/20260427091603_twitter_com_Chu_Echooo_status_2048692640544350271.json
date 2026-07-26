@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048692629416878080"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048690841599070305",
+    "created_at": "2026-04-27T09:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048692640544350271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644985773488320512",
+          "start": 0,
+          "username": "HLay127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kkbrGDx4KM",
+          "end": 32,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2048692640544350271/photo/1",
+          "media_key": "3_2048692629416878080",
+          "start": 9,
+          "url": "https://t.co/kkbrGDx4KM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048692640544350271",
+    "in_reply_to_user_id": "1644985773488320512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048691870931488921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLay127 https://t.co/kkbrGDx4KM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048692629416878080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5rF45aoAA2L3b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048691859829219328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5qZF9a4AAcZUo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048692629416878080"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048690841599070305",
+        "created_at": "2026-04-27T09:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048692640544350271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644985773488320512",
+              "start": 0,
+              "username": "HLay127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkbrGDx4KM",
+              "end": 32,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2048692640544350271/photo/1",
+              "media_key": "3_2048692629416878080",
+              "start": 9,
+              "url": "https://t.co/kkbrGDx4KM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048692640544350271",
+        "in_reply_to_user_id": "1644985773488320512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048691870931488921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLay127 https://t.co/kkbrGDx4KM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048691859829219328"
+          ]
+        },
+        "author_id": "1644985773488320512",
+        "conversation_id": "2048690841599070305",
+        "created_at": "2026-04-27T09:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048691870931488921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSgscTUYTy",
+              "end": 44,
+              "expanded_url": "https://x.com/HLay127/status/2048691870931488921/photo/1",
+              "media_key": "3_2048691859829219328",
+              "start": 21,
+              "url": "https://t.co/fSgscTUYTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048691870931488921",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048690841599070305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 不许哈气（盯～） https://t.co/fSgscTUYTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 65,
+          "like_count": 2895,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 608
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T08:49:15.000Z",
+        "description": "咖啡爱好者，不是在喝咖啡就是在喝咖啡的路上，我的好大儿叫咖啡豆是个虎斑美短白手套 我和我的儿子都是异性恋",
+        "id": "1644985773488320512",
+        "name": "浮笙",
+        "pinned_tweet_id": "2045206524084244704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039349599006277632/eavCWhy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 86,
+          "like_count": 28638,
+          "listed_count": 5,
+          "media_count": 1426,
+          "tweet_count": 11354
+        },
+        "username": "HLay127",
+        "verified": false
+      }
+    ]
+  }
+}

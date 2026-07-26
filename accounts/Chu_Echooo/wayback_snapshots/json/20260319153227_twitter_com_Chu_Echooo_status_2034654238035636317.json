@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034654232838918144"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034654238035636317",
+    "created_at": "2026-03-19T15:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034654238035636317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iKrgaXy8Fh",
+          "end": 157,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2034654238035636317/photo/1",
+          "media_key": "3_2034654232838918144",
+          "start": 134,
+          "url": "https://t.co/iKrgaXy8Fh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034654238035636317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果要爱。\n​爱笑起来的眼睛，软软的唇。\n爱撒娇的语调。\n​爱紧张的告白，惆怅的叹息。\n​爱从背后环过来的手，落在额头上的吻，胸膛炽热又沉闷的回声。\n​爱吵架时红了的眼眶，冷战的沉默，多年倥偬一朝尘埃落定的欢喜。\n爱鲜血淋漓。\n爱或爱欲都是值得的体验，\n​当然要爱。 https://t.co/iKrgaXy8Fh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1702,
+        "media_key": "3_2034654232838918144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyLPqUb0AAkDuI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034654232838918144"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034654238035636317",
+        "created_at": "2026-03-19T15:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034654238035636317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKrgaXy8Fh",
+              "end": 157,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2034654238035636317/photo/1",
+              "media_key": "3_2034654232838918144",
+              "start": 134,
+              "url": "https://t.co/iKrgaXy8Fh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034654238035636317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果要爱。\n​爱笑起来的眼睛，软软的唇。\n爱撒娇的语调。\n​爱紧张的告白，惆怅的叹息。\n​爱从背后环过来的手，落在额头上的吻，胸膛炽热又沉闷的回声。\n​爱吵架时红了的眼眶，冷战的沉默，多年倥偬一朝尘埃落定的欢喜。\n爱鲜血淋漓。\n爱或爱欲都是值得的体验，\n​当然要爱。 https://t.co/iKrgaXy8Fh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 96
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055482087243985077",
+    "created_at": "2026-05-16T03:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055484402218795208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053114193222479874",
+          "start": 0,
+          "username": "zip_zip0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055484402218795208",
+    "in_reply_to_user_id": "2053114193222479874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055482989107130439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zip_zip0101 我不信，寄给我让我检查检查🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055482087243985077",
+        "created_at": "2026-05-16T03:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055484402218795208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053114193222479874",
+              "start": 0,
+              "username": "zip_zip0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055484402218795208",
+        "in_reply_to_user_id": "2053114193222479874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055482989107130439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zip_zip0101 我不信，寄给我让我检查检查🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053114193222479874",
+        "conversation_id": "2055482087243985077",
+        "created_at": "2026-05-16T02:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055482989107130439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055482989107130439",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055482087243985077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我家猫也爱玩这个，嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 84,
+          "like_count": 4602,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1224
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:07:29.000Z",
+        "description": "08/双 /我的小猫天下第一萌\n发点有的没的，可以找我聊天互fo什么的\n说我小猫的死了\n不回我消息的也死了",
+        "id": "2053114193222479874",
+        "name": "Cocoya",
+        "pinned_tweet_id": "2053474019471483233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053115257418059778/qd9shK9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 61,
+          "like_count": 1824,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 189
+        },
+        "username": "zip_zip0101",
+        "verified": false
+      }
+    ]
+  }
+}

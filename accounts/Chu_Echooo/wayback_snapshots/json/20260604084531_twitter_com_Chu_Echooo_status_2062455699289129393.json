@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062455111155347742",
+    "created_at": "2026-06-04T08:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062455699289129393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788026680889802752",
+          "start": 0,
+          "username": "suuulii99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062455699289129393",
+    "in_reply_to_user_id": "1788026680889802752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062455111155347742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suuulii99 小山竹：憋扒拉我~！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13370,
+        "height": 1280,
+        "media_key": "13_2062455034592542721",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062455034592542721/img/n2ugVuLSSW3NK3lj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062455034592542721/vid/avc1/320x568/MNQCIjjgEYbYLBRE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062455034592542721/vid/avc1/480x852/MLVjav_gDHiVwI9p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062455034592542721/vid/avc1/720x1280/vxxdxWXk75-bvSSJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062455034592542721/pl/z0A1vioFs6BZpazl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062455111155347742",
+        "created_at": "2026-06-04T08:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062455699289129393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788026680889802752",
+              "start": 0,
+              "username": "suuulii99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062455699289129393",
+        "in_reply_to_user_id": "1788026680889802752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062455111155347742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suuulii99 小山竹：憋扒拉我~！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062455034592542721"
+          ]
+        },
+        "author_id": "1788026680889802752",
+        "conversation_id": "2062455111155347742",
+        "created_at": "2026-06-04T08:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062455111155347742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Biq26VkuTW",
+              "end": 30,
+              "expanded_url": "https://x.com/suuulii99/status/2062455111155347742/video/1",
+              "media_key": "13_2062455034592542721",
+              "start": 7,
+              "url": "https://t.co/Biq26VkuTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062455111155347742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "q弹的小山竹 https://t.co/Biq26VkuTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 86,
+          "like_count": 5387,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1440
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T02:02:47.000Z",
+        "description": "只是我的废话空间 和其他社媒无差 会突发性的话很多 ｜纯绿 不看🐔，别来骚扰我｜欢迎有趣的人互fo",
+        "id": "1788026680889802752",
+        "name": "椰蓉好塞牙",
+        "pinned_tweet_id": "2057394161238868337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028902457716445184/2V2BwbZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 180,
+          "like_count": 3440,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 492
+        },
+        "username": "suuulii99",
+        "verified": false
+      }
+    ]
+  }
+}

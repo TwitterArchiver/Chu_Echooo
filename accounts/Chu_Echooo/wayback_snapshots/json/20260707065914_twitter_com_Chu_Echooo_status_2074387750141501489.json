@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074366986575048874",
+    "created_at": "2026-07-07T06:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074387750141501489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929464299115679745",
+          "start": 0,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074387750141501489",
+    "in_reply_to_user_id": "1929464299115679745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074366986575048874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devastated1726 好明媚的小忧伤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11888,
+        "height": 1280,
+        "media_key": "7_2074366867515613185",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074366867515613185/pu/img/Z6OwpvRHkBuXg87e.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074366867515613185/pu/vid/avc1/320x568/uwNwH0eI0CxoOy2e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074366867515613185/pu/vid/avc1/480x852/E4YXiyUBG1yzZjlC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074366867515613185/pu/vid/avc1/720x1280/W3rPeFu3IYWkalTB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074366867515613185/pu/pl/CZs7-WvJr9ehHsTX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074366986575048874",
+        "created_at": "2026-07-07T06:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074387750141501489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929464299115679745",
+              "start": 0,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074387750141501489",
+        "in_reply_to_user_id": "1929464299115679745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074366986575048874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devastated1726 好明媚的小忧伤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074366867515613185"
+          ]
+        },
+        "author_id": "1929464299115679745",
+        "conversation_id": "2074366986575048874",
+        "created_at": "2026-07-07T05:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074366986575048874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbEYRVEMot",
+              "end": 35,
+              "expanded_url": "https://x.com/Devastated1726/status/2074366986575048874/video/1",
+              "media_key": "7_2074366867515613185",
+              "start": 12,
+              "url": "https://t.co/VbEYRVEMot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074366986575048874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最好没有人明白我说什么 https://t.co/VbEYRVEMot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 100,
+          "like_count": 7995,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2789
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸。\n当抖音发",
+        "id": "1929464299115679745",
+        "location": "蛋仔岛",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2066137333611876366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057452165770162176/Qa_B0ZB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 141,
+          "like_count": 301,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1596
+        },
+        "url": "",
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

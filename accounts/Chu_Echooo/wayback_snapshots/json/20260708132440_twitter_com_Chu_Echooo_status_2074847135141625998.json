@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074808111513362462",
+    "created_at": "2026-07-08T13:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074847135141625998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907430109747011584",
+          "start": 0,
+          "username": "meowww_ni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074847135141625998",
+    "in_reply_to_user_id": "1907430109747011584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074808111513362462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowww_ni 每日小笨蛋（1/1）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074807742242713600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsyphWbcAAJ8xe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074808111513362462",
+        "created_at": "2026-07-08T13:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074847135141625998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907430109747011584",
+              "start": 0,
+              "username": "meowww_ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074847135141625998",
+        "in_reply_to_user_id": "1907430109747011584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074808111513362462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowww_ni 每日小笨蛋（1/1）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074807742242713600"
+          ]
+        },
+        "author_id": "1907430109747011584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074808111513362462",
+        "created_at": "2026-07-08T10:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074808111513362462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUtiWO4WTi",
+              "end": 117,
+              "expanded_url": "https://x.com/meowww_ni/status/2074808111513362462/photo/1",
+              "media_key": "3_2074807742242713600",
+              "start": 94,
+              "url": "https://t.co/RUtiWO4WTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074808111513362462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前陣子在推看到一個檸檬蝦沙拉，還是檸檬雞胸肉的食譜，酸酸甜甜很清爽，我都快流口水了，當時只想著要記得買檸檬。\n今天買了檸檬，才發現食譜沒有存！我都做好大吃一頓的心理準備，誰有推薦的食譜🥹 https://t.co/RUtiWO4WTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 100,
+          "like_count": 8072,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 2837
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T13:49:20.000Z",
+        "description": "𝑰𝑵𝑻𝑱 \n妮的嘰哩咕嚕日常",
+        "id": "1907430109747011584",
+        "name": "Nini♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028522109295878144/T7aRBzx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 63,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "meowww_ni",
+        "verified": false
+      }
+    ]
+  }
+}

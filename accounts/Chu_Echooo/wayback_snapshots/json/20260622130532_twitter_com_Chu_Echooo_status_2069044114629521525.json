@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068993424527917550",
+    "created_at": "2026-06-22T13:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069044114629521525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "194859435",
+          "start": 0,
+          "username": "stagerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069044114629521525",
+    "in_reply_to_user_id": "194859435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068993424527917550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stagerain 这已经是我最近几天刷到的数不清第几碗泡面了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2068993412683231232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaKi_2bcAAQZTe.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068993424527917550",
+        "created_at": "2026-06-22T13:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069044114629521525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "194859435",
+              "start": 0,
+              "username": "stagerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069044114629521525",
+        "in_reply_to_user_id": "194859435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068993424527917550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stagerain 这已经是我最近几天刷到的数不清第几碗泡面了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068993412683231232"
+          ]
+        },
+        "author_id": "194859435",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068993424527917550",
+        "created_at": "2026-06-22T09:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068993424527917550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZiUWxmr0V",
+              "end": 38,
+              "expanded_url": "https://x.com/stagerain/status/2068993424527917550/photo/1",
+              "media_key": "3_2068993412683231232",
+              "start": 15,
+              "url": "https://t.co/dZiUWxmr0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068993424527917550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为下大雨所以选择在家吃泡面 https://t.co/dZiUWxmr0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 93,
+          "like_count": 7279,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2306
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T04:34:24.000Z",
+        "description": "Love u more than can I say",
+        "id": "194859435",
+        "name": "能量雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059505660262494208/NdJfx0xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 53,
+          "like_count": 7611,
+          "listed_count": 1,
+          "media_count": 866,
+          "tweet_count": 2415
+        },
+        "url": "",
+        "username": "stagerain",
+        "verified": false
+      }
+    ]
+  }
+}

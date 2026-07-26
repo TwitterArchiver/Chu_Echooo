@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2071971588065591631",
+    "created_at": "2026-06-30T15:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071977655256387670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1114159753410670594",
+          "start": 0,
+          "username": "yeyi0401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071977655256387670",
+    "in_reply_to_user_id": "1114159753410670594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071972622913376306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyi0401 我还是太善良了，总不能真的给他说我要去死了🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2071971588065591631",
+        "created_at": "2026-06-30T15:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071977655256387670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1114159753410670594",
+              "start": 0,
+              "username": "yeyi0401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071977655256387670",
+        "in_reply_to_user_id": "1114159753410670594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071972622913376306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyi0401 我还是太善良了，总不能真的给他说我要去死了🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114159753410670594",
+        "conversation_id": "2071971588065591631",
+        "created_at": "2026-06-30T15:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071972622913376306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071972622913376306",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071971588065591631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 这样和谐且算得美好的结局真是太好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 92,
+          "like_count": 7716,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 2577
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T13:36:00.000Z",
+        "description": "根正苗红，碌碌无为，失败的man。INFP-T，至于到底是E还是I我也不知道。",
+        "id": "1114159753410670594",
+        "location": "JO30BS17",
+        "name": "叶奕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1114160255695351808/rgetUkvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "yeyi0401",
+        "verified": false
+      }
+    ]
+  }
+}

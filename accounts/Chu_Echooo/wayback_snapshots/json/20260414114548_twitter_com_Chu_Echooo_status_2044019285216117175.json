@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2043911261742871018",
+    "created_at": "2026-04-14T11:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044019285216117175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3192913952",
+          "start": 0,
+          "username": "cboob77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044019285216117175",
+    "in_reply_to_user_id": "3192913952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044018074085666950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cboob77 可是再怎样看也只有一次日落，没有四十四次。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2043911261742871018",
+        "created_at": "2026-04-14T11:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044019285216117175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3192913952",
+              "start": 0,
+              "username": "cboob77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044019285216117175",
+        "in_reply_to_user_id": "3192913952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044018074085666950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cboob77 可是再怎样看也只有一次日落，没有四十四次。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3192913952",
+        "conversation_id": "2043911261742871018",
+        "created_at": "2026-04-14T11:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044018074085666950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044018074085666950",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043911261742871018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 搬个椅子看日落吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2043165840355574263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 45,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 350
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-12T07:18:43.000Z",
+        "description": "不要因为互联网而失去了人与人之间的尊重",
+        "id": "3192913952",
+        "location": "Fujian",
+        "name": "某葬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018858273538228224/kmxQczhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 54,
+          "like_count": 419,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 368
+        },
+        "username": "cboob77",
+        "verified": false
+      }
+    ]
+  }
+}

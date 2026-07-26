@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2036823835392290969",
+    "created_at": "2026-03-25T15:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036824949307117712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795638197436682240",
+          "start": 0,
+          "username": "xiao1727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036824949307117712",
+    "in_reply_to_user_id": "1795638197436682240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036823835392290969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao1727 我投娃哈哈一票，娃哈哈真的好喝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2036823835392290969",
+        "created_at": "2026-03-25T15:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036824949307117712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795638197436682240",
+              "start": 0,
+              "username": "xiao1727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036824949307117712",
+        "in_reply_to_user_id": "1795638197436682240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036823835392290969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao1727 我投娃哈哈一票，娃哈哈真的好喝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795638197436682240",
+        "conversation_id": "2036823835392290969",
+        "created_at": "2026-03-25T15:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036823835392290969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036823835392290969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旺仔和爽歪歪 巅峰对决 我都喜欢喝=ᗜωᗜ="
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 51,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 231
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T02:08:21.000Z",
+        "description": "switch 1i 4i都沾点 ENTP 无聊刷推，看到有趣的会回复 不知道介绍什么了 没有门 不约",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c0860",
+                "end": 23,
+                "expanded_url": "https://ngl.link/c0860",
+                "start": 0,
+                "url": "https://t.co/0GoB7lwc7g"
+              }
+            ]
+          }
+        },
+        "id": "1795638197436682240",
+        "location": "Washington, DC",
+        "name": "C",
+        "pinned_tweet_id": "1992423492026057108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992094476844548096/4X-ehSvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 139,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/0GoB7lwc7g",
+        "username": "xiao1727",
+        "verified": false
+      }
+    ]
+  }
+}

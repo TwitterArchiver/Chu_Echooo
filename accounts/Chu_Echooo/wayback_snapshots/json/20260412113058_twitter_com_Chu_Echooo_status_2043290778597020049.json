@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2043183201951387984",
+    "created_at": "2026-04-12T11:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043290778597020049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395969352537624577",
+          "start": 0,
+          "username": "zoe06281738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043290778597020049",
+    "in_reply_to_user_id": "1395969352537624577",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043183201951387984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zoe06281738 ...................................."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043183191037730816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrYSXjaYAALx4t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2043183201951387984",
+        "created_at": "2026-04-12T11:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043290778597020049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395969352537624577",
+              "start": 0,
+              "username": "zoe06281738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043290778597020049",
+        "in_reply_to_user_id": "1395969352537624577",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043183201951387984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zoe06281738 ...................................."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043183191037730816"
+          ]
+        },
+        "author_id": "1395969352537624577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043183201951387984",
+        "created_at": "2026-04-12T04:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043183201951387984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Og9Ulfy3ZJ",
+              "end": 34,
+              "expanded_url": "https://x.com/zoe06281738/status/2043183201951387984/photo/1",
+              "media_key": "3_2043183191037730816",
+              "start": 11,
+              "url": "https://t.co/Og9Ulfy3ZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043183201951387984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好吃虽然看着很恶心 https://t.co/Og9Ulfy3ZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 46,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 300
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T05:06:51.000Z",
+        "description": "日常推 碎碎念而已… 提问箱https://t.co/eDfEXHpLLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xox_8",
+                "end": 37,
+                "expanded_url": "https://ngl.link/xox_8",
+                "start": 14,
+                "url": "https://t.co/eDfEXHpLLk"
+              }
+            ]
+          }
+        },
+        "id": "1395969352537624577",
+        "name": "狗屎小蛋糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006774861629423616/F-VV5RbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 161,
+          "like_count": 4190,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 670
+        },
+        "username": "zoe06281738",
+        "verified": false
+      }
+    ]
+  }
+}

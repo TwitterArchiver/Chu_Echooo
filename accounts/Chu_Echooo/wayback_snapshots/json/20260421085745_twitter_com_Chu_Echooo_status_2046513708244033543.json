@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2046496141005750752",
+    "created_at": "2026-04-21T08:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046513708244033543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1895407237524545536",
+          "start": 0,
+          "username": "haruqq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046513708244033543",
+    "in_reply_to_user_id": "1895407237524545536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046496141005750752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruqq_ 阿梨谁说你不好了，你又对谁好了，我不管我吃醋了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2046496141005750752",
+        "created_at": "2026-04-21T08:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046513708244033543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1895407237524545536",
+              "start": 0,
+              "username": "haruqq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046513708244033543",
+        "in_reply_to_user_id": "1895407237524545536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046496141005750752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruqq_ 阿梨谁说你不好了，你又对谁好了，我不管我吃醋了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895407237524545536",
+        "conversation_id": "2046496141005750752",
+        "created_at": "2026-04-21T07:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046496141005750752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046496141005750752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再怎么不好也没有对你不好过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 54,
+          "like_count": 2170,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 438
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T09:34:56.000Z",
+        "description": "可以叫我哈露/haru/🍐｜火雞面螺螄粉重度依賴。｜此帳號for碎碎唸｜不是🚪姐 暫時沒🚪",
+        "id": "1895407237524545536",
+        "location": "你心里",
+        "name": "梨涡钉",
+        "pinned_tweet_id": "1985344173449630075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033765442993664000/JZ-Hs1a6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 82,
+          "like_count": 3003,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 576
+        },
+        "username": "haruqq_",
+        "verified": false
+      }
+    ]
+  }
+}

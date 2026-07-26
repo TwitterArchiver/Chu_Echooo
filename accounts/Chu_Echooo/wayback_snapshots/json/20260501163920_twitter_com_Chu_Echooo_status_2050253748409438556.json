@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050251197823750318",
+    "created_at": "2026-05-01T16:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050253748409438556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050253748409438556",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050252811619967107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 只有在吃东西这件事上，行动力超绝（ŏ̥ㅁŏ̥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050252799922049024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHP2Dw8akAAVI4U.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050251197823750318",
+        "created_at": "2026-05-01T16:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050253748409438556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050253748409438556",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050252811619967107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 只有在吃东西这件事上，行动力超绝（ŏ̥ㅁŏ̥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050252799922049024"
+          ]
+        },
+        "author_id": "1788642156111863808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050251197823750318",
+        "created_at": "2026-05-01T16:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050252811619967107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAq1Pwq7QV",
+              "end": 46,
+              "expanded_url": "https://x.com/22wbxsx/status/2050252811619967107/photo/1",
+              "media_key": "3_2050252799922049024",
+              "start": 23,
+              "url": "https://t.co/UAq1Pwq7QV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050252811619967107",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050251197823750318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 如此迅速的吗 陪一碗 https://t.co/UAq1Pwq7QV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 65,
+          "like_count": 3272,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 790
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 294,
+          "like_count": 14725,
+          "listed_count": 2,
+          "media_count": 1204,
+          "tweet_count": 9693
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

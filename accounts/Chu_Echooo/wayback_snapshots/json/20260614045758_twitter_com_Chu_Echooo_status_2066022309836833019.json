@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2066022245064232960"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066022309836833019",
+    "created_at": "2026-06-14T04:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066022309836833019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9NgGzQi17",
+          "end": 49,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2066022309836833019/video/1",
+          "media_key": "7_2066022245064232960",
+          "start": 26,
+          "url": "https://t.co/A9NgGzQi17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066022309836833019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点师傅好像很忙的样子，但是并不知道他在忙什么啊喂！ https://t.co/A9NgGzQi17"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15166,
+        "height": 960,
+        "media_key": "7_2066022245064232960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066022245064232960/pu/img/BqLTKpto9fd4A2gI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066022245064232960/pu/vid/avc1/320x426/8D76MfGc_ef84a80.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066022245064232960/pu/vid/avc1/480x640/wjc5DhoCN_RH_1sS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066022245064232960/pu/vid/avc1/720x960/q0c051iryKyeJPF3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066022245064232960/pu/pl/iSLG1TMMfln4cH5a.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066022245064232960"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066022309836833019",
+        "created_at": "2026-06-14T04:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066022309836833019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9NgGzQi17",
+              "end": 49,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2066022309836833019/video/1",
+              "media_key": "7_2066022245064232960",
+              "start": 26,
+              "url": "https://t.co/A9NgGzQi17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066022309836833019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点师傅好像很忙的样子，但是并不知道他在忙什么啊喂！ https://t.co/A9NgGzQi17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 90,
+          "like_count": 6408,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1913
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

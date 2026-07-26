@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062899741336183202",
+    "created_at": "2026-06-05T14:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062912132661006702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1860364507236757504",
+          "start": 0,
+          "username": "w2014ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062912132661006702",
+    "in_reply_to_user_id": "1860364507236757504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062899741336183202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w2014ai 那咋了，又不多吃一口你家大米饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062899741336183202",
+        "created_at": "2026-06-05T14:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062912132661006702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1860364507236757504",
+              "start": 0,
+              "username": "w2014ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062912132661006702",
+        "in_reply_to_user_id": "1860364507236757504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062899741336183202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w2014ai 那咋了，又不多吃一口你家大米饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860364507236757504",
+        "conversation_id": "2062899741336183202",
+        "created_at": "2026-06-05T14:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062899741336183202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062899741336183202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很笨，那又怎样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 87,
+          "like_count": 5520,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1543
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T16:47:29.000Z",
+        "description": "🫧☁️",
+        "id": "1860364507236757504",
+        "location": "月球",
+        "name": "落月",
+        "pinned_tweet_id": "2062205256784601597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061975849826758656/GTd0BtOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 90,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "w2014ai",
+        "verified": false
+      }
+    ]
+  }
+}

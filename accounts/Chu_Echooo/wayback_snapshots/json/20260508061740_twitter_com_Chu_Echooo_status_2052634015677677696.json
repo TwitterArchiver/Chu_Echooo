@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052619718717300970",
+    "created_at": "2026-05-08T06:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052634015677677696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783919780833140738",
+          "start": 0,
+          "username": "RenPingSheng_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052634015677677696",
+    "in_reply_to_user_id": "1783919780833140738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052619718717300970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenPingSheng_27 能不能给孩子开个灯，孩子近视眼咋办！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052619705278693376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxevygagAAazfc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052619718717300970",
+        "created_at": "2026-05-08T06:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052634015677677696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783919780833140738",
+              "start": 0,
+              "username": "RenPingSheng_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052634015677677696",
+        "in_reply_to_user_id": "1783919780833140738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052619718717300970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenPingSheng_27 能不能给孩子开个灯，孩子近视眼咋办！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052619705278693376"
+          ]
+        },
+        "author_id": "1783919780833140738",
+        "conversation_id": "2052619718717300970",
+        "created_at": "2026-05-08T05:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052619718717300970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0jXk2nLM1",
+              "end": 29,
+              "expanded_url": "https://x.com/RenPingSheng_27/status/2052619718717300970/photo/1",
+              "media_key": "3_2052619705278693376",
+              "start": 6,
+              "url": "https://t.co/R0jXk2nLM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052619718717300970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "英语比我好 https://t.co/R0jXk2nLM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 78,
+          "like_count": 3926,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 959
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T18:03:29.000Z",
+        "description": "abandon fantasy",
+        "id": "1783919780833140738",
+        "location": "永不再见",
+        "name": "栩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030877890104242177/6cYPvaE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 199,
+          "like_count": 23199,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 3518
+        },
+        "username": "RenPingSheng_27",
+        "verified": false
+      }
+    ]
+  }
+}

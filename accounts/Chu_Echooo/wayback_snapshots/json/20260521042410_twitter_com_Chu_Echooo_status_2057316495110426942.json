@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2057311155744588281",
+    "created_at": "2026-05-21T04:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057316495110426942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2057293437016358912",
+          "start": 0,
+          "username": "z3zn22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057316495110426942",
+    "in_reply_to_user_id": "2057293437016358912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057311816590770297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z3zn22 先别忙了...你...好像...转生失败了..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 327,
+        "media_key": "3_2057311814132944896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0KMeGb0AAxK4x.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2057311155744588281",
+        "created_at": "2026-05-21T04:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057316495110426942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2057293437016358912",
+              "start": 0,
+              "username": "z3zn22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057316495110426942",
+        "in_reply_to_user_id": "2057293437016358912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057311816590770297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z3zn22 先别忙了...你...好像...转生失败了..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057311814132944896"
+          ]
+        },
+        "author_id": "2057293437016358912",
+        "conversation_id": "2057311155744588281",
+        "created_at": "2026-05-21T04:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057311816590770297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOHrqHB5C0",
+              "end": 37,
+              "expanded_url": "https://x.com/z3zn22/status/2057311816590770297/photo/1",
+              "media_key": "3_2057311814132944896",
+              "start": 14,
+              "url": "https://t.co/xOHrqHB5C0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057311816590770297",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057311155744588281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 😋 https://t.co/xOHrqHB5C0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 83,
+          "like_count": 4937,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1301
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T02:54:07.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aiwei50911",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aiwei50911",
+                "start": 0,
+                "url": "https://t.co/NIZFlWyRR4"
+              }
+            ]
+          }
+        },
+        "id": "2057293437016358912",
+        "location": "山卡拉",
+        "name": "转生成为海绵宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057304443897700353/z4sbF5Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/NIZFlWyRR4",
+        "username": "z3zn22",
+        "verified": false
+      }
+    ]
+  }
+}

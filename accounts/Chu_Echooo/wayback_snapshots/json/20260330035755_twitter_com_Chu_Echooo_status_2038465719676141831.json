@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2038464654670975321",
+    "created_at": "2026-03-30T03:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T04:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038465719676141831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713953985013698560",
+          "start": 0,
+          "username": "xcxhb111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038465719676141831",
+    "in_reply_to_user_id": "1713953985013698560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038464654670975321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcxhb111 云吸猫云养猫，零元购小流浪，小红书也有很多免费领养或者小几张那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2038464654670975321",
+        "created_at": "2026-03-30T03:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038465719676141831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713953985013698560",
+              "start": 0,
+              "username": "xcxhb111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038465719676141831",
+        "in_reply_to_user_id": "1713953985013698560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038464654670975321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcxhb111 云吸猫云养猫，零元购小流浪，小红书也有很多免费领养或者小几张那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713953985013698560",
+        "conversation_id": "2038464654670975321",
+        "created_at": "2026-03-30T03:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038464654670975321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038464654670975321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想养只猫的心达到顶峰，到底有什么靠谱的渠道哇，要不让我手慢无一只修猫咪吧诶嘿嘿嘿嘿嘿嘿嘿嘿吸溜嘿嘿嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋/嫌我话多可以随意单取！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 39,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 287
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T16:24:25.000Z",
+        "description": "isfp 狮子座/变身打工人/日常吐槽分享/呼叫聊天搭子",
+        "id": "1713953985013698560",
+        "name": "蟹黄堡好吃吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789853746798931968/Zf5id4ST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 40,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 91
+        },
+        "username": "xcxhb111",
+        "verified": false
+      }
+    ]
+  }
+}

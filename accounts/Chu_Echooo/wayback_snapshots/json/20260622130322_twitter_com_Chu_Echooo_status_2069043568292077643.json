@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068868711679967288",
+    "created_at": "2026-06-22T13:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069043568292077643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035490035265634304",
+          "start": 0,
+          "username": "keegan78202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069043568292077643",
+    "in_reply_to_user_id": "2035490035265634304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069018739149086939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keegan78202 害羞（〃∀〃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068868711679967288",
+        "created_at": "2026-06-22T13:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069043568292077643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035490035265634304",
+              "start": 0,
+              "username": "keegan78202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069043568292077643",
+        "in_reply_to_user_id": "2035490035265634304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069018739149086939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keegan78202 害羞（〃∀〃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035490035265634304",
+        "conversation_id": "2068868711679967288",
+        "created_at": "2026-06-22T11:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069018739149086939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069018739149086939",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068868711679967288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好美呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 93,
+          "like_count": 7276,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2305
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T22:53:46.000Z",
+        "description": "喜欢女生🌈随时找我聊天！\n女外勿扰",
+        "id": "2035490035265634304",
+        "name": "˶⍤⃝˶꒳ᵒ꒳ᵎᵎᵎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067798718905307136/PPVdT8jr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 360,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "keegan78202",
+        "verified": false
+      }
+    ]
+  }
+}

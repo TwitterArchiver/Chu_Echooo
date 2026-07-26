@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074336199532323175",
+    "created_at": "2026-07-07T07:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074391264464953818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1980499386389147648",
+          "start": 0,
+          "username": "TTQuAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074391264464953818",
+    "in_reply_to_user_id": "1980499386389147648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074390155750985811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTQuAi 苟延残喘ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074336199532323175",
+        "created_at": "2026-07-07T07:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074391264464953818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980499386389147648",
+              "start": 0,
+              "username": "TTQuAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074391264464953818",
+        "in_reply_to_user_id": "1980499386389147648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074390155750985811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTQuAi 苟延残喘ing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980499386389147648",
+        "conversation_id": "2074336199532323175",
+        "created_at": "2026-07-07T07:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074390155750985811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074390155750985811",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074386475337314524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我去。。。古网还活着么 我记得去年的网元官网说因为业务调整转移账号信息，但我当时没搞，然后我的古网账号也无了（虽然我不咋玩，但里面有我当时买的两个实体专辑的cdkey！特别好看的步影！）ps：现在转玩燕云了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 100,
+          "like_count": 8011,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2795
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T05:00:36.000Z",
+        "description": "我也不是啥正经人？",
+        "id": "1980499386389147648",
+        "location": "上海",
+        "name": "瓜田月下🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054943940869234688/mLPWJtC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "TTQuAi",
+        "verified": false
+      }
+    ]
+  }
+}

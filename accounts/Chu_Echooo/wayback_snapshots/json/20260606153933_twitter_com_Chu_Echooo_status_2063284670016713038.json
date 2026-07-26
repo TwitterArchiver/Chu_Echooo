@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063237856445989160",
+    "created_at": "2026-06-06T15:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063284670016713038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1718275785948286976",
+          "start": 0,
+          "username": "Tinkles_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063284670016713038",
+    "in_reply_to_user_id": "1718275785948286976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063281100412313825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinkles_12 灵摆十年！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063237856445989160",
+        "created_at": "2026-06-06T15:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063284670016713038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718275785948286976",
+              "start": 0,
+              "username": "Tinkles_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063284670016713038",
+        "in_reply_to_user_id": "1718275785948286976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063281100412313825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinkles_12 灵摆十年！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718275785948286976",
+        "conversation_id": "2063237856445989160",
+        "created_at": "2026-06-06T15:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063281100412313825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063281100412313825",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063237856445989160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo woc，现在还能看到灵摆啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 87,
+          "like_count": 5644,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1584
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T14:37:47.000Z",
+        "description": "无趣且乏味，但这就是我。\n我喜欢变态，但我不是变态。\n小帮手 @kitsunezk_ri   我蝶→ @IXXA00    \n种族矛盾和立场分歧可以随时代化解，但是正邪永不两立。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "kitsunezk_ri"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "IXXA00"
+              }
+            ]
+          }
+        },
+        "id": "1718275785948286976",
+        "location": "哥谭市阿卡姆学院",
+        "name": "丨鎮魂丨Tinkles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008732031925325824/0NrrOM5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1735,
+          "like_count": 137386,
+          "listed_count": 15,
+          "media_count": 365,
+          "tweet_count": 19954
+        },
+        "username": "Tinkles_12",
+        "verified": false
+      }
+    ]
+  }
+}

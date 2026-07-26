@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2071608978979881252",
+    "created_at": "2026-06-29T15:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071623617360855055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068676915381108736",
+          "start": 0,
+          "username": "caicaixi9927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071623617360855055",
+    "in_reply_to_user_id": "2068676915381108736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071621684331762011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicaixi9927 我给你寄，你拍视频喝给我看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2071608978979881252",
+        "created_at": "2026-06-29T15:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071623617360855055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068676915381108736",
+              "start": 0,
+              "username": "caicaixi9927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071623617360855055",
+        "in_reply_to_user_id": "2068676915381108736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071621684331762011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicaixi9927 我给你寄，你拍视频喝给我看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068676915381108736",
+        "conversation_id": "2071608978979881252",
+        "created_at": "2026-06-29T15:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071621684331762011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071621684331762011",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071608978979881252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 老大你想吃啥我给你寄，豆汁就算了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 92,
+          "like_count": 7624,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2511
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T12:48:57.000Z",
+        "description": "前世@xixijun8827\n发点碎碎念和日常\n欢迎互fo，祝幸运🍀常在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "xixijun8827"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 0,
+                "url": "https://t.co/n5aoNSvcZm"
+              }
+            ]
+          }
+        },
+        "id": "2068676915381108736",
+        "name": "君兮熙君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068677772927549440/TfVKr61c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 39,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/n5aoNSvcZm",
+        "username": "caicaixi9927",
+        "verified": false
+      }
+    ]
+  }
+}

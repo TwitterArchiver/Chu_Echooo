@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048357573951447547",
+    "created_at": "2026-04-26T13:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048389989432733847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1295640838182060033",
+          "start": 0,
+          "username": "pv_wen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048389989432733847",
+    "in_reply_to_user_id": "1295640838182060033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048385211445190742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pv_wen 备菜我还可以乐在其中，洗碗真的是要我命！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048357573951447547",
+        "created_at": "2026-04-26T13:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048389989432733847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1295640838182060033",
+              "start": 0,
+              "username": "pv_wen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048389989432733847",
+        "in_reply_to_user_id": "1295640838182060033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048385211445190742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pv_wen 备菜我还可以乐在其中，洗碗真的是要我命！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295640838182060033",
+        "conversation_id": "2048357573951447547",
+        "created_at": "2026-04-26T12:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048385211445190742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048385211445190742",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048357573951447547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 做饭还挺爽的。。！但是备菜跟洗碗真是要命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 61,
+          "like_count": 2837,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 546
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-18T08:37:09.000Z",
+        "description": "好想死啊",
+        "id": "1295640838182060033",
+        "name": "今天也要加油努力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837119933827928066/LUG9v1wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2020,
+          "like_count": 2608,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 724
+        },
+        "username": "pv_wen",
+        "verified": false
+      }
+    ]
+  }
+}

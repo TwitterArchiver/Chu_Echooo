@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052366458009891121",
+    "created_at": "2026-05-07T15:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052415050762367465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1534555361100713984",
+          "start": 0,
+          "username": "VitaNovitX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052415050762367465",
+    "in_reply_to_user_id": "1534555361100713984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052409078178295940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VitaNovitX 啊哈哈哈万一这是绿豆芽呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052366458009891121",
+        "created_at": "2026-05-07T15:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052415050762367465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1534555361100713984",
+              "start": 0,
+              "username": "VitaNovitX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052415050762367465",
+        "in_reply_to_user_id": "1534555361100713984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052409078178295940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VitaNovitX 啊哈哈哈万一这是绿豆芽呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534555361100713984",
+        "conversation_id": "2052366458009891121",
+        "created_at": "2026-05-07T15:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052409078178295940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052409078178295940",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052366458009891121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 黄豆芽最好吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 75,
+          "like_count": 3848,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 970
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T15:18:12.000Z",
+        "description": "如果能够让你驱散心中所有的雾霾/祝大家都能有良好的睡眠/纵使你脚下有一千名挑战者 那就把我算作第一千零一名/我以前的账号@PetrichorAwake/自用🪜 稳定速度快 https://t.co/IlLvS265lj /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "PetrichorAwake"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "console.xenolink.net/#/register?cod…",
+                "end": 109,
+                "expanded_url": "https://console.xenolink.net/#/register?code=NWLXT76Q",
+                "start": 86,
+                "url": "https://t.co/IlLvS265lj"
+              }
+            ]
+          }
+        },
+        "id": "1534555361100713984",
+        "name": "野草蛮生",
+        "pinned_tweet_id": "2024867919184924936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052073889799524352/dXV_j9VO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 364,
+          "like_count": 18730,
+          "listed_count": 2,
+          "media_count": 844,
+          "tweet_count": 9730
+        },
+        "username": "VitaNovitX",
+        "verified": false
+      }
+    ]
+  }
+}

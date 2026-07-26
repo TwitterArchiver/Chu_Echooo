@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2072180339511058869",
+    "created_at": "2026-07-01T04:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072183129297899937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026154754074972160",
+          "start": 0,
+          "username": "linx2desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072183129297899937",
+    "in_reply_to_user_id": "2026154754074972160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072180339511058869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linx2desu 我也好想去，我想去西藏，想去玉龙雪山，但我根本承受不住高反。如果你真的决定去，一定记得要想起我，替我远眺，替我感受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2072180339511058869",
+        "created_at": "2026-07-01T04:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072183129297899937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026154754074972160",
+              "start": 0,
+              "username": "linx2desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072183129297899937",
+        "in_reply_to_user_id": "2026154754074972160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072180339511058869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linx2desu 我也好想去，我想去西藏，想去玉龙雪山，但我根本承受不住高反。如果你真的决定去，一定记得要想起我，替我远眺，替我感受。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026154754074972160",
+        "conversation_id": "2072180339511058869",
+        "created_at": "2026-07-01T04:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072180339511058869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072180339511058869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说年底想去爬雪山，所有人都劝我别去。他们不知道的是，当我下定决心爬雪山的时候，说明我这段时间的痛苦已经到达了一个临界值，企图通过宏大的世界稀释这份来源不明的痛苦。生死状签后，活下来我命大，死于雪山我福薄……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 92,
+          "like_count": 7742,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 2609
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T04:38:45.000Z",
+        "description": "重度爱猫女/一些日常/慢热/希望你天天开心",
+        "id": "2026154754074972160",
+        "location": "呆胶布",
+        "name": "不为菠萝emo",
+        "pinned_tweet_id": "2046800926019891709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053022497495523328/GGMf8x10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 21,
+          "like_count": 4220,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "linx2desu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2049898557654589921",
+    "created_at": "2026-04-30T17:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049899519496933474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929464299115679745",
+          "start": 0,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049899519496933474",
+    "in_reply_to_user_id": "1929464299115679745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049898557654589921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devastated1726 ？宝宝你大半夜勾引我什么意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10913,
+        "height": 1280,
+        "media_key": "7_2049898482777931776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049898482777931776/pu/img/J2IxiC_F26XSkbtN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049898482777931776/pu/vid/avc1/320x568/hTyBqaKy5vNMA_By.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049898482777931776/pu/vid/avc1/480x852/Xtm9ZUfyPEjy44oK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049898482777931776/pu/vid/avc1/720x1280/XnIs5IS7NZzKyiWH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049898482777931776/pu/pl/jTNIZfvjV7lThvUb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2049898557654589921",
+        "created_at": "2026-04-30T17:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049899519496933474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929464299115679745",
+              "start": 0,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049899519496933474",
+        "in_reply_to_user_id": "1929464299115679745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049898557654589921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devastated1726 ？宝宝你大半夜勾引我什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049898482777931776"
+          ]
+        },
+        "author_id": "1929464299115679745",
+        "conversation_id": "2049898557654589921",
+        "created_at": "2026-04-30T17:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049898557654589921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsXTmToR2Q",
+              "end": 31,
+              "expanded_url": "https://x.com/Devastated1726/status/2049898557654589921/video/1",
+              "media_key": "7_2049898482777931776",
+              "start": 8,
+              "url": "https://t.co/KsXTmToR2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049898557654589921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "say so～ https://t.co/KsXTmToR2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/先天性心疾随时会死掉别可怜我也别心疼我/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 65,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 734
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸 \n私信胯下二两肉的爱骚扰的你明天就死绝户\n想互fo直接关注我呀 女生直接互fo",
+        "id": "1929464299115679745",
+        "location": "蛋仔岛",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2047815640342241486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042008358832762882/7uQCgUTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 141,
+          "like_count": 863,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 1486
+        },
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

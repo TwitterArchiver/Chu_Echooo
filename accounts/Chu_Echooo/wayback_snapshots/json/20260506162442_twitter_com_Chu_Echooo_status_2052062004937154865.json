@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052007570513228224",
+    "created_at": "2026-05-06T16:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052062004937154865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1842979020570542080",
+          "start": 0,
+          "username": "7497_bety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052062004937154865",
+    "in_reply_to_user_id": "1842979020570542080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052058896378859949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7497_bety 你寄几带勺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052007570513228224",
+        "created_at": "2026-05-06T16:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052062004937154865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1842979020570542080",
+              "start": 0,
+              "username": "7497_bety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052062004937154865",
+        "in_reply_to_user_id": "1842979020570542080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052058896378859949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7497_bety 你寄几带勺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842979020570542080",
+        "conversation_id": "2052007570513228224",
+        "created_at": "2026-05-06T16:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052058896378859949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052058896378859949",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052007570513228224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我吃一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 72,
+          "like_count": 3750,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 978
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T17:23:44.000Z",
+        "description": "ISTJ",
+        "id": "1842979020570542080",
+        "location": "小破诊所",
+        "name": "小小的钠钾泵",
+        "pinned_tweet_id": "2051690156411785321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047182532920160256/TA7Cakij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 16,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 331
+        },
+        "username": "7497_bety",
+        "verified": false
+      }
+    ]
+  }
+}

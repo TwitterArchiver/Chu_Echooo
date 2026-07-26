@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2071887058642027002",
+    "created_at": "2026-06-30T12:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071928197600743610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1895407237524545536",
+          "start": 0,
+          "username": "haruqq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071928197600743610",
+    "in_reply_to_user_id": "1895407237524545536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071887058642027002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruqq_ 蛋分我一半！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071887052199653376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDSS_EXcAAcy7d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2071887058642027002",
+        "created_at": "2026-06-30T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071928197600743610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1895407237524545536",
+              "start": 0,
+              "username": "haruqq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071928197600743610",
+        "in_reply_to_user_id": "1895407237524545536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071887058642027002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruqq_ 蛋分我一半！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071887052199653376"
+          ]
+        },
+        "author_id": "1895407237524545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071887058642027002",
+        "created_at": "2026-06-30T09:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071887058642027002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QbkfnooMVc",
+              "end": 82,
+              "expanded_url": "https://x.com/haruqq_/status/2071887058642027002/photo/1",
+              "media_key": "3_2071887052199653376",
+              "start": 59,
+              "url": "https://t.co/QbkfnooMVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071887058642027002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啃草中…我只是想炫耀這顆蛋我弄的很完美\n其實我也不是很懂減脂餐這些的 但是這樣的份量我吃下去好飽。（應該算是減脂餐吧 https://t.co/QbkfnooMVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 92,
+          "like_count": 7672,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 2565
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T09:34:56.000Z",
+        "description": "可以叫我哈露/haru/🍐｜火雞面螺螄粉重度依賴。｜此帳號for碎碎唸｜淡推",
+        "id": "1895407237524545536",
+        "location": "你心里",
+        "name": "梨涡钉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033765442993664000/JZ-Hs1a6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 67,
+          "like_count": 3342,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "haruqq_",
+        "verified": false
+      }
+    ]
+  }
+}

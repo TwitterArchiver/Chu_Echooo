@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064515297634357372",
+    "created_at": "2026-06-10T04:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064572610722304332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3315160158",
+          "start": 0,
+          "username": "heiyeyulanhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064572610722304332",
+    "in_reply_to_user_id": "3315160158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064571783403942185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiyeyulanhai 这孩子还怪懂事的，还替你爸你妈羡慕上了。先滚回去问问你爸你妈吃肉的时候是不是虐待死了再吃的，当然了如果你没有爸妈，当我没说。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T04:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064572610722304332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3315160158",
+              "start": 0,
+              "username": "heiyeyulanhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064572610722304332",
+        "in_reply_to_user_id": "3315160158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064571783403942185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiyeyulanhai 这孩子还怪懂事的，还替你爸你妈羡慕上了。先滚回去问问你爸你妈吃肉的时候是不是虐待死了再吃的，当然了如果你没有爸妈，当我没说。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3315160158",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T04:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064571783403942185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064571783403942185",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064515297634357372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 猪哥，鸡哥，鸭哥投来羡慕的眼光！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 88,
+          "like_count": 6012,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1779
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-14T16:14:48.000Z",
+        "description": "",
+        "id": "3315160158",
+        "name": "风眠",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 152
+        },
+        "username": "heiyeyulanhai",
+        "verified": false
+      }
+    ]
+  }
+}

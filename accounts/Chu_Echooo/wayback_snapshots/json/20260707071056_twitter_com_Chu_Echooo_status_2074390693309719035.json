@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074296495315280045",
+    "created_at": "2026-07-07T07:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074390693309719035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "741127492614950913",
+          "start": 0,
+          "username": "Lakr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074390693309719035",
+    "in_reply_to_user_id": "741127492614950913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074385923392110972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lakr233 捏吧，把我捏成你喜欢的样子~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074296495315280045",
+        "created_at": "2026-07-07T07:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074390693309719035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "741127492614950913",
+              "start": 0,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074390693309719035",
+        "in_reply_to_user_id": "741127492614950913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074385923392110972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lakr233 捏吧，把我捏成你喜欢的样子~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "741127492614950913",
+        "conversation_id": "2074296495315280045",
+        "created_at": "2026-07-07T06:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074385923392110972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074385923392110972",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074296495315280045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 捏捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 100,
+          "like_count": 8011,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2792
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-10T04:38:58.000Z",
+        "description": "我不会在个人资料里头放除了 https://t.co/kOWUWwvGx5 的链接。 #-a-different-kind-of-human.\n\nPs: 若是被认定为生成式推文账号，则会被关小黑屋。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 37,
+                "expanded_url": "http://qaq.wiki",
+                "start": 14,
+                "url": "https://t.co/kOWUWwvGx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 23,
+                "expanded_url": "https://qaq.wiki",
+                "start": 0,
+                "url": "https://t.co/FIGSbdf6qu"
+              }
+            ]
+          }
+        },
+        "id": "741127492614950913",
+        "location": "!?(･_･;? 天方夜谭.spaceCraft",
+        "name": "砍砍.ᐟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056772763550146561/MONJFRR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32897,
+          "following_count": 395,
+          "like_count": 62972,
+          "listed_count": 232,
+          "media_count": 103,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/FIGSbdf6qu",
+        "username": "Lakr233",
+        "verified": true
+      }
+    ]
+  }
+}

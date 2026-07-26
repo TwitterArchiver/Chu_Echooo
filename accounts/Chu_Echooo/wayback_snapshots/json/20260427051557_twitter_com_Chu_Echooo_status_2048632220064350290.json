@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048631511860298139",
+    "created_at": "2026-04-27T05:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048632220064350290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1969243292367011840",
+          "start": 0,
+          "username": "wwenwann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048632220064350290",
+    "in_reply_to_user_id": "1969243292367011840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048631511860298139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwenwann 路过，偷一颗圆子吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048631492566454272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4zfQYaEAAyzSU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048631511860298139",
+        "created_at": "2026-04-27T05:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048632220064350290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1969243292367011840",
+              "start": 0,
+              "username": "wwenwann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048632220064350290",
+        "in_reply_to_user_id": "1969243292367011840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048631511860298139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwenwann 路过，偷一颗圆子吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048631492566454272"
+          ]
+        },
+        "author_id": "1969243292367011840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048631511860298139",
+        "created_at": "2026-04-27T05:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048631511860298139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgziNSRqzF",
+              "end": 78,
+              "expanded_url": "https://x.com/wwenwann/status/2048631511860298139/photo/1",
+              "media_key": "3_2048631492566454272",
+              "start": 55,
+              "url": "https://t.co/jgziNSRqzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048631511860298139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午餐依然永和大王，在抖音19.9元买了套餐券。第一次吃这样赤裸版宫保鸡丁，吃前发现美团只要16.6元，可恶。 https://t.co/jgziNSRqzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 65,
+          "like_count": 2872,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 591
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T03:32:55.000Z",
+        "description": "少女的祈祷📜",
+        "id": "1969243292367011840",
+        "name": "温婉",
+        "pinned_tweet_id": "2009516668507074731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041034794319155200/saBmOQh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 17,
+          "like_count": 9192,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 988
+        },
+        "username": "wwenwann",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063126251515302123",
+    "created_at": "2026-06-06T07:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063160225281224916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1279008399695286272",
+          "start": 0,
+          "username": "xF4Ner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063160225281224916",
+    "in_reply_to_user_id": "1279008399695286272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063147498987024471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xF4Ner 跟豆花学的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063126251515302123",
+        "created_at": "2026-06-06T07:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063160225281224916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1279008399695286272",
+              "start": 0,
+              "username": "xF4Ner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063160225281224916",
+        "in_reply_to_user_id": "1279008399695286272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063147498987024471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xF4Ner 跟豆花学的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279008399695286272",
+        "conversation_id": "2063126251515302123",
+        "created_at": "2026-06-06T06:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063147498987024471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063147498987024471",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063126251515302123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 点点你要躺一辈子吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 87,
+          "like_count": 5591,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1567
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-03T11:05:48.000Z",
+        "description": "梦一样开始 梦一样结束/点赞bot/crud工程师/不是gay/特摄厨",
+        "id": "1279008399695286272",
+        "location": "🌍",
+        "name": "小饭= ⩌_⩌.",
+        "pinned_tweet_id": "1967921533596340511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967658028511174656/Gw0qv8vO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3434,
+          "following_count": 666,
+          "like_count": 32449,
+          "listed_count": 9,
+          "media_count": 1397,
+          "tweet_count": 6439
+        },
+        "username": "xF4Ner",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2069644871221264792",
+    "created_at": "2026-06-24T07:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069678170484425137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362745661318332419",
+          "start": 0,
+          "username": "BlueAquaray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069678170484425137",
+    "in_reply_to_user_id": "1362745661318332419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069644871221264792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueAquaray 你先别说话，我在找煎蛋在哪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069644859133382656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjbCK_b0AA8-fq.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2069644871221264792",
+        "created_at": "2026-06-24T07:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069678170484425137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362745661318332419",
+              "start": 0,
+              "username": "BlueAquaray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069678170484425137",
+        "in_reply_to_user_id": "1362745661318332419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069644871221264792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueAquaray 你先别说话，我在找煎蛋在哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069644859133382656"
+          ]
+        },
+        "author_id": "1362745661318332419",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069644871221264792",
+        "created_at": "2026-06-24T04:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069644871221264792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eB683pXvGT",
+              "end": 48,
+              "expanded_url": "https://x.com/BlueAquaray/status/2069644871221264792/photo/1",
+              "media_key": "3_2069644859133382656",
+              "start": 25,
+              "url": "https://t.co/eB683pXvGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069644871221264792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐知道我是最后一次来吃，\n给我默默送了一个煎蛋 https://t.co/eB683pXvGT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 96,
+          "like_count": 7485,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2378
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T12:48:36.000Z",
+        "description": "像浪花一样消失。",
+        "id": "1362745661318332419",
+        "location": "涟漪中心",
+        "name": "潮",
+        "pinned_tweet_id": "2068597849869398339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068474149710995456/H-1V3oMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 87,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "BlueAquaray",
+        "verified": true
+      }
+    ]
+  }
+}

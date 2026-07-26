@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2045007335370936522",
+    "created_at": "2026-04-17T05:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045008140341793201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862727510720663552",
+          "start": 0,
+          "username": "aivCnjpgxg66595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045008140341793201",
+    "in_reply_to_user_id": "1862727510720663552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045007335370936522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aivCnjpgxg66595 哦不，快让学习这种脏东西从我的眼睛里消失！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_2045007327393386496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFTVFBakAAiwVJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2045007335370936522",
+        "created_at": "2026-04-17T05:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045008140341793201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862727510720663552",
+              "start": 0,
+              "username": "aivCnjpgxg66595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045008140341793201",
+        "in_reply_to_user_id": "1862727510720663552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045007335370936522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aivCnjpgxg66595 哦不，快让学习这种脏东西从我的眼睛里消失！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045007327393386496"
+          ]
+        },
+        "author_id": "1862727510720663552",
+        "conversation_id": "2045007335370936522",
+        "created_at": "2026-04-17T05:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045007335370936522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfOB8XUDsw",
+              "end": 33,
+              "expanded_url": "https://x.com/aivCnjpgxg66595/status/2045007335370936522/photo/1",
+              "media_key": "3_2045007327393386496",
+              "start": 10,
+              "url": "https://t.co/PfOB8XUDsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045007335370936522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 我看见都力竭了 https://t.co/PfOB8XUDsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "互关送手写/猫叫楚点点/爱恨随意/亲疏随缘/间歇性人格分裂/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 53,
+          "like_count": 1891,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 334
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:17:20.000Z",
+        "description": "",
+        "id": "1862727510720663552",
+        "name": "Lixx",
+        "pinned_tweet_id": "2031708691972653150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043736612501352448/UMja5aQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 110,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 521
+        },
+        "username": "aivCnjpgxg66595",
+        "verified": false
+      }
+    ]
+  }
+}

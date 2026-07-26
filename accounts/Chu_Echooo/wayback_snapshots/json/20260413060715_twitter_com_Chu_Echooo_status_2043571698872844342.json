@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2043510664128610656",
+    "created_at": "2026-04-13T06:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043571698872844342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782946371924004864",
+          "start": 0,
+          "username": "Yuki1529Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043571698872844342",
+    "in_reply_to_user_id": "1782946371924004864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043564024668037164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1529Yuki 🤫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2043510664128610656",
+        "created_at": "2026-04-13T06:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043571698872844342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782946371924004864",
+              "start": 0,
+              "username": "Yuki1529Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043571698872844342",
+        "in_reply_to_user_id": "1782946371924004864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043564024668037164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1529Yuki 🤫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782946371924004864",
+        "conversation_id": "2043510664128610656",
+        "created_at": "2026-04-13T05:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043564024668037164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043564024668037164",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043510664128610656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 黄你是只字不提🙂‍↔️🙂‍↔️🙂‍↔️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 46,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 316
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T01:35:23.000Z",
+        "description": "饭团/不定时狂吐黑泥 /喜欢小猫🥰/重度手控！青筋！血管控/私信请发手部照片/照片随时删/日常碎碎念…",
+        "id": "1782946371924004864",
+        "name": "饭困",
+        "pinned_tweet_id": "2025587375288807639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812593772707864576/V1yc4Irl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 107,
+          "like_count": 9735,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2515
+        },
+        "username": "Yuki1529Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

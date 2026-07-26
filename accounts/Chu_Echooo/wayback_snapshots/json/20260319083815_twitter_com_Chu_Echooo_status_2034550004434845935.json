@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034545966381252960",
+    "created_at": "2026-03-19T08:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034550004434845935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999869438393556992",
+          "start": 0,
+          "username": "Haki1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034550004434845935",
+    "in_reply_to_user_id": "1999869438393556992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034545966381252960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haki1019 妹妹你好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2034545941336952832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDwowRCaEAAuB2e.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDwowRCaEAAuB2e.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034545966381252960",
+        "created_at": "2026-03-19T08:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034550004434845935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999869438393556992",
+              "start": 0,
+              "username": "Haki1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034550004434845935",
+        "in_reply_to_user_id": "1999869438393556992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034545966381252960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haki1019 妹妹你好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2034545941336952832"
+          ]
+        },
+        "author_id": "1999869438393556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2034545966381252960",
+        "created_at": "2026-03-19T08:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034545966381252960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kJJjgfDb0",
+              "end": 45,
+              "expanded_url": "https://x.com/Haki1019/status/2034545966381252960/photo/1",
+              "media_key": "16_2034545941336952832",
+              "start": 22,
+              "url": "https://t.co/5kJJjgfDb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034545966381252960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐在第一排我就照着ipad看着自己的妹妹头 https://t.co/5kJJjgfDb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 95
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:50:16.000Z",
+        "description": "Nonsense 06/顺直男",
+        "id": "1999869438393556992",
+        "name": "Hakiiiii！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030494424955015168/mvsUPdbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 272,
+          "like_count": 18726,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 4947
+        },
+        "username": "Haki1019",
+        "verified": false
+      }
+    ]
+  }
+}

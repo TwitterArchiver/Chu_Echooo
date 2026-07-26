@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034777905235185887",
+    "created_at": "2026-03-19T23:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T00:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034779212650094621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971586240693825536",
+          "start": 0,
+          "username": "dotdoitlikebrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034779212650094621",
+    "in_reply_to_user_id": "1971586240693825536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034777905235185887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dotdoitlikebrat “我发起疯来连自己都吃？”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034777890324361216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDz7teWaMAA9el5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034777890324455425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDz7teWboAEOMW0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034777905235185887",
+        "created_at": "2026-03-19T23:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T00:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034779212650094621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971586240693825536",
+              "start": 0,
+              "username": "dotdoitlikebrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034779212650094621",
+        "in_reply_to_user_id": "1971586240693825536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034777905235185887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dotdoitlikebrat “我发起疯来连自己都吃？”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034777890324361216",
+            "3_2034777890324455425"
+          ]
+        },
+        "author_id": "1971586240693825536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034777905235185887",
+        "created_at": "2026-03-19T23:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T00:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034777905235185887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FqJ31KjHkd",
+              "end": 48,
+              "expanded_url": "https://x.com/dotdoitlikebrat/status/2034777905235185887/photo/1",
+              "media_key": "3_2034777890324361216",
+              "start": 25,
+              "url": "https://t.co/FqJ31KjHkd"
+            },
+            {
+              "display_url": "pic.x.com/FqJ31KjHkd",
+              "end": 48,
+              "expanded_url": "https://x.com/dotdoitlikebrat/status/2034777905235185887/photo/1",
+              "media_key": "3_2034777890324455425",
+              "start": 25,
+              "url": "https://t.co/FqJ31KjHkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034777905235185887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于昨晚的暴力运输，牛马已经损坏了，不过很美味哟 https://t.co/FqJ31KjHkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 40,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 101
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T14:43:08.000Z",
+        "description": "屁事分享家！嘴馋区博主？！想到啥说啥！四季豆型人格（油盐不进，不熟的时候有毒）无门槛，可以找我聊天💬 #不聊骚不线下不私联（私联互关除外） #ddlg#ENFP小狗puppy（可以提问1️⃣⬇️🦭）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 51,
+                "tag": "不聊骚不线下不私联"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wybie21836",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wybie21836",
+                "start": 0,
+                "url": "https://t.co/UQm2Nl8My0"
+              }
+            ]
+          }
+        },
+        "id": "1971586240693825536",
+        "location": "幸福路",
+        "name": "香辛料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971586994351288320/AI4RVD1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 100,
+          "like_count": 5311,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/UQm2Nl8My0",
+        "username": "dotdoitlikebrat",
+        "verified": false
+      }
+    ]
+  }
+}

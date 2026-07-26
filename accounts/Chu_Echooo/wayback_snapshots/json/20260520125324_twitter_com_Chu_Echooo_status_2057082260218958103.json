@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2057074964562579667",
+    "created_at": "2026-05-20T12:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057082260218958103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769750489661345792",
+          "start": 0,
+          "username": "i_abi55504"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057082260218958103",
+    "in_reply_to_user_id": "1769750489661345792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057080043529207823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i_abi55504 好的老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2057074964562579667",
+        "created_at": "2026-05-20T12:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057082260218958103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769750489661345792",
+              "start": 0,
+              "username": "i_abi55504"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057082260218958103",
+        "in_reply_to_user_id": "1769750489661345792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057080043529207823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_abi55504 好的老婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769750489661345792",
+        "conversation_id": "2057074964562579667",
+        "created_at": "2026-05-20T12:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057080043529207823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057080043529207823",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057074964562579667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好的老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 83,
+          "like_count": 4884,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1270
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T15:39:42.000Z",
+        "description": "我当朋友圈发的 我们和平一点好吗 你说的都对\n欢迎女生找我聊天互关 私信礼貌的会回\n别骂我 谢谢 请问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%BA%8A%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%BA%8A%E5%8D%95%E6%B9%BF%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E",
+                "start": 0,
+                "url": "https://t.co/JoNzmtNYlx"
+              }
+            ]
+          }
+        },
+        "id": "1769750489661345792",
+        "location": "距你2.1km",
+        "name": "床单湿了怎么办",
+        "pinned_tweet_id": "2051539024192626741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051354285108236288/qPBphEl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 75,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/JoNzmtNYlx",
+        "username": "i_abi55504",
+        "verified": false
+      }
+    ]
+  }
+}

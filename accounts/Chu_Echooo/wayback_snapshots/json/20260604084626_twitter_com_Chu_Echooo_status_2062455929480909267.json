@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062393792892961136",
+    "created_at": "2026-06-04T08:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062455929480909267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900094261087133698",
+          "start": 0,
+          "username": "aichijichidouya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062455929480909267",
+    "in_reply_to_user_id": "1900094261087133698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062425704822947847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aichijichidouya 那在这一刻，你就是我的全世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062393792892961136",
+        "created_at": "2026-06-04T08:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062455929480909267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900094261087133698",
+              "start": 0,
+              "username": "aichijichidouya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062455929480909267",
+        "in_reply_to_user_id": "1900094261087133698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062425704822947847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aichijichidouya 那在这一刻，你就是我的全世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900094261087133698",
+        "conversation_id": "2062393792892961136",
+        "created_at": "2026-06-04T06:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062425704822947847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062425704822947847",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062393792892961136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 就这么轻易地美翻全世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 86,
+          "like_count": 5390,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1441
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T07:59:21.000Z",
+        "description": "关注了我就不许嫌我吵/大概是只回关我喜欢的女孩子/私信只回互关",
+        "id": "1900094261087133698",
+        "name": "可乐鸡翅豆芽菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929057382908461056/ELdxFyBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 36,
+          "like_count": 6967,
+          "listed_count": 0,
+          "media_count": 1664,
+          "tweet_count": 5226
+        },
+        "username": "aichijichidouya",
+        "verified": false
+      }
+    ]
+  }
+}

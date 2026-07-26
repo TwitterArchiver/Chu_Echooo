@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066582021586190383",
+    "created_at": "2026-06-16T00:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066685955923497419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867025756842250240",
+          "start": 0,
+          "username": "jing560476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066685955923497419",
+    "in_reply_to_user_id": "1867025756842250240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066582021586190383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing560476 我也想，我也想你，我也想你活着，我也想你好好活着。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2066582018914390016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK35ZaCaEAAhJWO.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066582021586190383",
+        "created_at": "2026-06-16T00:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066685955923497419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867025756842250240",
+              "start": 0,
+              "username": "jing560476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066685955923497419",
+        "in_reply_to_user_id": "1867025756842250240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066582021586190383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing560476 我也想，我也想你，我也想你活着，我也想你好好活着。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066582018914390016"
+          ]
+        },
+        "author_id": "1867025756842250240",
+        "conversation_id": "2066582021586190383",
+        "created_at": "2026-06-15T18:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066582021586190383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dba6LbN0jH",
+              "end": 29,
+              "expanded_url": "https://x.com/jing560476/status/2066582021586190383/photo/1",
+              "media_key": "3_2066582018914390016",
+              "start": 6,
+              "url": "https://t.co/dba6LbN0jH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066582021586190383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好活着。 https://t.co/dba6LbN0jH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 88,
+          "like_count": 6609,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2005
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T01:56:56.000Z",
+        "description": "叫我小骑&江江/泛性恋/中度焦虑症/DOM&M/此推持续更新女喘/喜欢做女孩的赛博妈咪，不约炮，喜欢聊天，聊骚也行，欢迎找我玩/精神病&碎碎念发言转移到小号@qishibingjiang，愿意看我另一面发疯的可以关爱一下ˆㅅˆ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "qishibingjiang"
+              }
+            ]
+          }
+        },
+        "id": "1867025756842250240",
+        "name": "骑士病",
+        "pinned_tweet_id": "2063139512021389487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063289283088441344/EE0A4Idh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 28,
+          "like_count": 2185,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 246
+        },
+        "username": "jing560476",
+        "verified": false
+      }
+    ]
+  }
+}

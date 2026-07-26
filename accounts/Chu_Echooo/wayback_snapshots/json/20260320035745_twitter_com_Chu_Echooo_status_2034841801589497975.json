@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034807371038663042",
+    "created_at": "2026-03-20T03:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T04:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034841801589497975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029257641579720704",
+          "start": 0,
+          "username": "cangshu_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034841801589497975",
+    "in_reply_to_user_id": "2029257641579720704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034807371038663042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cangshu_king 大师，收徒吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034807371038663042",
+        "created_at": "2026-03-20T03:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034841801589497975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029257641579720704",
+              "start": 0,
+              "username": "cangshu_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034841801589497975",
+        "in_reply_to_user_id": "2029257641579720704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034807371038663042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cangshu_king 大师，收徒吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029257641579720704",
+        "conversation_id": "2034807371038663042",
+        "created_at": "2026-03-20T01:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034807371038663042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034807371038663042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1576,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮看乳相，祖上就是干这个的，乳大免费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好。",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 39,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 96
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T18:08:29.000Z",
+        "description": "4i=1i switch千千万万 明心见己\n别给我发私信想加我微信就给我转五千",
+        "id": "2029257641579720704",
+        "name": "好学的仓鼠大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033369181723451392/fjQ7T8yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 32,
+          "like_count": 418,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 207
+        },
+        "username": "cangshu_king",
+        "verified": false
+      }
+    ]
+  }
+}

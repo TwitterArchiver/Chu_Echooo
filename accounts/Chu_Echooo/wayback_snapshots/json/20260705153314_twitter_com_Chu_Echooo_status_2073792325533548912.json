@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2073717093284168147",
+    "created_at": "2026-07-05T15:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073792325533548912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1895407237524545536",
+          "start": 0,
+          "username": "haruqq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073792325533548912",
+    "in_reply_to_user_id": "1895407237524545536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073717093284168147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruqq_ 老婆！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073717087495979008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdStDzbAAA-FYo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2073717093284168147",
+        "created_at": "2026-07-05T15:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073792325533548912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1895407237524545536",
+              "start": 0,
+              "username": "haruqq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073792325533548912",
+        "in_reply_to_user_id": "1895407237524545536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073717093284168147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruqq_ 老婆！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073717087495979008"
+          ]
+        },
+        "author_id": "1895407237524545536",
+        "conversation_id": "2073717093284168147",
+        "created_at": "2026-07-05T10:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073717093284168147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3feSnuGqok",
+              "end": 23,
+              "expanded_url": "https://x.com/haruqq_/status/2073717093284168147/photo/1",
+              "media_key": "3_2073717087495979008",
+              "start": 0,
+              "url": "https://t.co/3feSnuGqok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073717093284168147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3feSnuGqok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 99,
+          "like_count": 7851,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 2746
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T09:34:56.000Z",
+        "description": "可以叫我哈露/haru/🍐｜火雞面螺螄粉重度依賴。｜此帳號for碎碎唸｜淡推",
+        "id": "1895407237524545536",
+        "location": "你心里",
+        "name": "梨涡钉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033765442993664000/JZ-Hs1a6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 68,
+          "like_count": 3373,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "haruqq_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066824480073408622",
+    "created_at": "2026-06-17T07:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067143372314390936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622482617370288128",
+          "start": 0,
+          "username": "luoxiaxinniang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067143372314390936",
+    "in_reply_to_user_id": "1622482617370288128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067101839372497292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoxiaxinniang hhhhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066824480073408622",
+        "created_at": "2026-06-17T07:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067143372314390936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622482617370288128",
+              "start": 0,
+              "username": "luoxiaxinniang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067143372314390936",
+        "in_reply_to_user_id": "1622482617370288128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067101839372497292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoxiaxinniang hhhhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622482617370288128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2066824480073408622",
+        "created_at": "2026-06-17T04:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067101839372497292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067101839372497292",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066824480073408622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 差点就要推荐电影了，突然发现不太对哈哈哈。其实我还真多一张票……朋友给她推冲一下票房"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 88,
+          "like_count": 6764,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2103
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T06:29:52.000Z",
+        "description": "ISFP，基本都是碎碎念以及光夜和EXO比较多，其实也是很无趣的一个人了",
+        "id": "1622482617370288128",
+        "name": "八爪鱼大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063341473182240768/v3XKomz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 95,
+          "like_count": 21682,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1453
+        },
+        "username": "luoxiaxinniang",
+        "verified": false
+      }
+    ]
+  }
+}

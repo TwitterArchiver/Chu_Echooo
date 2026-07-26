@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2042671453469053436",
+    "created_at": "2026-04-10T18:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042671453469053436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chu_Echooo/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Chu_Echooo/status/2042652126082666932",
+          "start": 19,
+          "url": "https://t.co/cYf6yfYjWx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042671453469053436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042652126082666932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么没人找我下单，我看起来很无聊吗 https://t.co/cYf6yfYjWx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2042671453469053436",
+        "created_at": "2026-04-10T18:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042671453469053436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chu_Echooo/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Chu_Echooo/status/2042652126082666932",
+              "start": 19,
+              "url": "https://t.co/cYf6yfYjWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042671453469053436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042652126082666932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么没人找我下单，我看起来很无聊吗 https://t.co/cYf6yfYjWx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2042652126082666932",
+        "created_at": "2026-04-10T17:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042652126082666932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042652126082666932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可能要通宵了，接陪玩，接聊天，接假装女朋友回家过周末。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 40,
+          "like_count": 1241,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 283
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

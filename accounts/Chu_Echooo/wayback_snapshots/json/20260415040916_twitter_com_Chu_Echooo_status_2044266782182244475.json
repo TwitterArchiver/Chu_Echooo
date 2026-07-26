@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2044223369210642747",
+    "created_at": "2026-04-15T04:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044266782182244475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1598983658206945280",
+          "start": 0,
+          "username": "ganjiuchawuduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044266782182244475",
+    "in_reply_to_user_id": "1598983658206945280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044264353810227263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganjiuchawuduo 悄悄话，知心话，专属于两个人的小心思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2044223369210642747",
+        "created_at": "2026-04-15T04:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044266782182244475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1598983658206945280",
+              "start": 0,
+              "username": "ganjiuchawuduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044266782182244475",
+        "in_reply_to_user_id": "1598983658206945280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044264353810227263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganjiuchawuduo 悄悄话，知心话，专属于两个人的小心思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598983658206945280",
+        "conversation_id": "2044223369210642747",
+        "created_at": "2026-04-15T03:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044264353810227263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044264353810227263",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044223369210642747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 体己话是什么🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/猫叫楚点点/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 50,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 379
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T10:13:17.000Z",
+        "description": "感受更多的终会被逐渐忘却，但也会想起往昔的痕迹的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aiwei50911",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aiwei50911",
+                "start": 0,
+                "url": "https://t.co/xgUp1VIO01"
+              }
+            ]
+          }
+        },
+        "id": "1598983658206945280",
+        "location": "山卡拉",
+        "name": "看到我就去喝杯水好吗",
+        "pinned_tweet_id": "2044049607169323111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004366356872155138/cVxb7fKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 428,
+          "like_count": 21326,
+          "listed_count": 0,
+          "media_count": 738,
+          "tweet_count": 4835
+        },
+        "url": "https://t.co/xgUp1VIO01",
+        "username": "ganjiuchawuduo",
+        "verified": false
+      }
+    ]
+  }
+}

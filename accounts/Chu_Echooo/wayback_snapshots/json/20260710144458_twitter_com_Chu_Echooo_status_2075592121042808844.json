@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075592115699200001"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2075592121042808844",
+    "created_at": "2026-07-10T14:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075592121042808844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/unWOecDvgF",
+          "end": 28,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2075592121042808844/photo/1",
+          "media_key": "3_2075592115699200001",
+          "start": 5,
+          "url": "https://t.co/unWOecDvgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075592121042808844",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你瞅啥？ https://t.co/unWOecDvgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075592115699200001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM38CELaMAEr3Le.jpg",
+        "width": 1605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075592115699200001"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2075592121042808844",
+        "created_at": "2026-07-10T14:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075592121042808844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/unWOecDvgF",
+              "end": 28,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2075592121042808844/photo/1",
+              "media_key": "3_2075592115699200001",
+              "start": 5,
+              "url": "https://t.co/unWOecDvgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075592121042808844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你瞅啥？ https://t.co/unWOecDvgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 100,
+          "like_count": 8175,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2880
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

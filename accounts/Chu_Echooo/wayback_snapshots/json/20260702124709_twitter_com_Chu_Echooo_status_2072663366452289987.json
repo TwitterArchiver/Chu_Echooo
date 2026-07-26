@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2072658499834876414",
+    "created_at": "2026-07-02T12:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072663366452289987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761225327651774464",
+          "start": 0,
+          "username": "tutu19900124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072663366452289987",
+    "in_reply_to_user_id": "1761225327651774464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072658499834876414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu19900124 瓜这个正面照看着像被小蜜蜂蛰了一样，好好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072658467849162752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOP5STa0AAZJmG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072658467845025792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOP5SSbsAAHz37.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2072658499834876414",
+        "created_at": "2026-07-02T12:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072663366452289987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761225327651774464",
+              "start": 0,
+              "username": "tutu19900124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072663366452289987",
+        "in_reply_to_user_id": "1761225327651774464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072658499834876414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu19900124 瓜这个正面照看着像被小蜜蜂蛰了一样，好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072658467849162752",
+            "3_2072658467845025792"
+          ]
+        },
+        "author_id": "1761225327651774464",
+        "conversation_id": "2072658499834876414",
+        "created_at": "2026-07-02T12:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072658499834876414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QnLC5tNRoe",
+              "end": 72,
+              "expanded_url": "https://x.com/tutu19900124/status/2072658499834876414/photo/1",
+              "media_key": "3_2072658467849162752",
+              "start": 49,
+              "url": "https://t.co/QnLC5tNRoe"
+            },
+            {
+              "display_url": "pic.x.com/QnLC5tNRoe",
+              "end": 72,
+              "expanded_url": "https://x.com/tutu19900124/status/2072658499834876414/photo/1",
+              "media_key": "3_2072658467845025792",
+              "start": 49,
+              "url": "https://t.co/QnLC5tNRoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072658499834876414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花咪再出道，又把自己头挠破了，左眼皮肿起来大小眼嘞。\n火速把指甲全剪了，瓜可能对大麦苗有点过敏。 https://t.co/QnLC5tNRoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 100,
+          "like_count": 7644,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 2676
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T03:03:47.000Z",
+        "description": "永远坚持，随时放弃₍˄·͈༝·͈˄*₎◞ ̑̑ 祝我们玩得开心🫶🏻欢迎提问♡https://t.co/IsPRloKt1B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tutu80779",
+                "end": 61,
+                "expanded_url": "https://ngl.link/tutu80779",
+                "start": 38,
+                "url": "https://t.co/IsPRloKt1B"
+              }
+            ]
+          }
+        },
+        "id": "1761225327651774464",
+        "name": "tutu",
+        "pinned_tweet_id": "2036372929320194488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835696742593085440/rIEhqw-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18606,
+          "following_count": 1057,
+          "like_count": 96228,
+          "listed_count": 49,
+          "media_count": 5016,
+          "tweet_count": 48886
+        },
+        "url": "",
+        "username": "tutu19900124",
+        "verified": false
+      }
+    ]
+  }
+}

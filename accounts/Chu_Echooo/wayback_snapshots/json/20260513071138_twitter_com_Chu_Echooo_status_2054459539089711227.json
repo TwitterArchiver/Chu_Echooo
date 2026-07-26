@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054459539089711227",
+    "created_at": "2026-05-13T07:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054459539089711227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chu_Echooo/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Chu_Echooo/status/2048690797483368620",
+          "start": 5,
+          "url": "https://t.co/WiNXXGVEIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054459539089711227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048690797483368620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "望周知。 https://t.co/WiNXXGVEIU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054459539089711227",
+        "created_at": "2026-05-13T07:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054459539089711227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chu_Echooo/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Chu_Echooo/status/2048690797483368620",
+              "start": 5,
+              "url": "https://t.co/WiNXXGVEIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054459539089711227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048690797483368620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "望周知。 https://t.co/WiNXXGVEIU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048690797483368620",
+        "created_at": "2026-04-27T09:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048690797483368620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048690797483368620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请不要夸我可爱，我御姐来的（⦁֊⦁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 85,
+          "like_count": 4335,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1084
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

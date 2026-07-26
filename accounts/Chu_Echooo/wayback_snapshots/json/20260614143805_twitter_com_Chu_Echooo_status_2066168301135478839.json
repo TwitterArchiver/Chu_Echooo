@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066058293642928382",
+    "created_at": "2026-06-14T14:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066168301135478839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788026680889802752",
+          "start": 0,
+          "username": "suuulii99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066168301135478839",
+    "in_reply_to_user_id": "1788026680889802752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066058293642928382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suuulii99 妈，，，妈咪？（๑ ̯๑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2066058290455310336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwdEZfW8AA_bTz.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066058293642928382",
+        "created_at": "2026-06-14T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066168301135478839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788026680889802752",
+              "start": 0,
+              "username": "suuulii99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066168301135478839",
+        "in_reply_to_user_id": "1788026680889802752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066058293642928382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suuulii99 妈，，，妈咪？（๑ ̯๑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066058290455310336"
+          ]
+        },
+        "author_id": "1788026680889802752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066058293642928382",
+        "created_at": "2026-06-14T07:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066058293642928382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1709433659990626304",
+              "start": 38,
+              "username": "UzhienI14890"
+            },
+            {
+              "end": 66,
+              "id": "1424575077312434183",
+              "start": 52,
+              "username": "Aiden60245052"
+            },
+            {
+              "end": 84,
+              "id": "2049811110199771136",
+              "start": 77,
+              "username": "Siqib5"
+            },
+            {
+              "end": 108,
+              "id": "2033228136180219904",
+              "start": 97,
+              "username": "Chu_Echooo"
+            },
+            {
+              "end": 121,
+              "id": "307630365",
+              "start": 109,
+              "username": "kinderking2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree",
+              "end": 149,
+              "expanded_url": "https://infinitetweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063924582226997248/EC8yn-Pk?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063924582226997248/EC8yn-Pk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 126,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree",
+              "url": "https://t.co/nyIGA3jqP7"
+            },
+            {
+              "display_url": "pic.x.com/lRJgEyg18q",
+              "end": 173,
+              "expanded_url": "https://x.com/suuulii99/status/2066058293642928382/photo/1",
+              "media_key": "3_2066058290455310336",
+              "start": 150,
+              "url": "https://t.co/lRJgEyg18q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066058293642928382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 My Twitter Family:\n👫 Parents: @UzhienI14890 @Aiden60245052\n👰 Spouse: @Siqib5\n👶 Children: @Chu_Echooo @kinderking2\n\n➡️ https://t.co/nyIGA3jqP7 https://t.co/lRJgEyg18q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 90,
+          "like_count": 6460,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1929
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T02:02:47.000Z",
+        "description": "只是我的废话空间 和其他社媒无差｜纯绿 请先阅读置顶｜提问箱⬇️\nhttps://t.co/Y9SHFTfK3H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suuuli25",
+                "end": 56,
+                "expanded_url": "https://ngl.link/suuuli25",
+                "start": 33,
+                "url": "https://t.co/Y9SHFTfK3H"
+              }
+            ]
+          }
+        },
+        "id": "1788026680889802752",
+        "location": "🐈",
+        "name": "椰蓉好塞牙",
+        "pinned_tweet_id": "2063307593536438679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646287497699328/9cuL0C6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 215,
+          "like_count": 5731,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1103
+        },
+        "username": "suuulii99",
+        "verified": false
+      }
+    ]
+  }
+}

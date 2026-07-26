@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2056726990577955115",
+    "created_at": "2026-05-21T08:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T09:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057371248381071373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2056581303060123648",
+          "start": 0,
+          "username": "dndn762572"
+        },
+        {
+          "end": 28,
+          "id": "2035543085766336512",
+          "start": 12,
+          "username": "IMphGxkAte18549"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057371248381071373",
+    "in_reply_to_user_id": "2056581303060123648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057308018300387399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dndn762572 @IMphGxkAte18549 真傻哔啊，你都说没一个宿舍厌恶的，你在这叫nm呢？不会是不识字打错了吧？还有为什么只说初高中啊，没念过大学？也是，你这个脑子能念高中都属于你爹把你家祖坟炸了来的，你，这，个，废，物。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2056726990577955115",
+        "created_at": "2026-05-21T08:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057371248381071373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2056581303060123648",
+              "start": 0,
+              "username": "dndn762572"
+            },
+            {
+              "end": 28,
+              "id": "2035543085766336512",
+              "start": 12,
+              "username": "IMphGxkAte18549"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057371248381071373",
+        "in_reply_to_user_id": "2056581303060123648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057308018300387399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dndn762572 @IMphGxkAte18549 真傻哔啊，你都说没一个宿舍厌恶的，你在这叫nm呢？不会是不识字打错了吧？还有为什么只说初高中啊，没念过大学？也是，你这个脑子能念高中都属于你爹把你家祖坟炸了来的，你，这，个，废，物。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056581303060123648",
+        "conversation_id": "2056726990577955115",
+        "created_at": "2026-05-21T03:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057308018300387399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            },
+            {
+              "end": 28,
+              "id": "2035543085766336512",
+              "start": 12,
+              "username": "IMphGxkAte18549"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057308018300387399",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057129516049531146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo @IMphGxkAte18549 哈哈我相信我就是那大部分男生之一，你还说代表不了？初高中没一个宿舍里面的男生都和我说厌恶男同性恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 83,
+          "like_count": 4950,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1289
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T03:42:59.000Z",
+        "description": "",
+        "id": "2056581303060123648",
+        "name": "蛋淡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056581357586055168/7y5ndi7y_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "dndn762572",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T02:24:46.000Z",
+        "description": "友好的聊些什么吧，我很无聊",
+        "id": "2035543085766336512",
+        "name": "爱喝冷饮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057113110545145856/FGi9-uWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 85,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 83
+        },
+        "username": "IMphGxkAte18549",
+        "verified": false
+      }
+    ]
+  }
+}

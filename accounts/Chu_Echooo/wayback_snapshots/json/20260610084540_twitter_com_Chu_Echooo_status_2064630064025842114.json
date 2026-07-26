@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064623007415615977",
+    "created_at": "2026-06-10T08:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064630064025842114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062557406442487808",
+          "start": 0,
+          "username": "linsez680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064630064025842114",
+    "in_reply_to_user_id": "2062557406442487808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064623007415615977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linsez680 一时间不知道该羡慕谁！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064622995298308096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcDrOXb0AANFtC.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064623007415615977",
+        "created_at": "2026-06-10T08:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064630064025842114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062557406442487808",
+              "start": 0,
+              "username": "linsez680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064630064025842114",
+        "in_reply_to_user_id": "2062557406442487808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064623007415615977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linsez680 一时间不知道该羡慕谁！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064622995298308096"
+          ]
+        },
+        "author_id": "2062557406442487808",
+        "conversation_id": "2064623007415615977",
+        "created_at": "2026-06-10T08:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064623007415615977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6AigOwq8SQ",
+              "end": 37,
+              "expanded_url": "https://x.com/linsez680/status/2064623007415615977/photo/1",
+              "media_key": "3_2064622995298308096",
+              "start": 14,
+              "url": "https://t.co/6AigOwq8SQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064623007415615977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐即使穿高跟鞋也要抱我吗 https://t.co/6AigOwq8SQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 89,
+          "like_count": 6020,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1801
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T15:32:00.000Z",
+        "description": "菠萝宇宙繁殖中……",
+        "id": "2062557406442487808",
+        "location": "空气里的纤维粒",
+        "name": "菠萝菠萝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064005278056787968/EH43p3fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 27
+        },
+        "username": "linsez680",
+        "verified": false
+      }
+    ]
+  }
+}

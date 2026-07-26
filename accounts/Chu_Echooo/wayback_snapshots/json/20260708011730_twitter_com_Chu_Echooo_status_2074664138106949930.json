@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074664130016141312"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074527919419125889",
+    "created_at": "2026-07-08T01:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074664138106949930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053717016092295169",
+          "start": 0,
+          "username": "xixijun8827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dg58M8q8n9",
+          "end": 36,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2074664138106949930/photo/1",
+          "media_key": "3_2074664130016141312",
+          "start": 13,
+          "url": "https://t.co/dg58M8q8n9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074664138106949930",
+    "in_reply_to_user_id": "2053717016092295169",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074527919419125889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixijun8827 https://t.co/dg58M8q8n9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2238,
+        "media_key": "3_2074664130016141312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqwCMHbYAAXDJ-.jpg",
+        "width": 1720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074527915539374080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo0JdpbIAAoOdt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074664130016141312"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074527919419125889",
+        "created_at": "2026-07-08T01:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074664138106949930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053717016092295169",
+              "start": 0,
+              "username": "xixijun8827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dg58M8q8n9",
+              "end": 36,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2074664138106949930/photo/1",
+              "media_key": "3_2074664130016141312",
+              "start": 13,
+              "url": "https://t.co/dg58M8q8n9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074664138106949930",
+        "in_reply_to_user_id": "2053717016092295169",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074527919419125889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixijun8827 https://t.co/dg58M8q8n9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074527915539374080"
+          ]
+        },
+        "author_id": "2053717016092295169",
+        "conversation_id": "2074527919419125889",
+        "created_at": "2026-07-07T16:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074527919419125889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbv7ZI1iNq",
+              "end": 50,
+              "expanded_url": "https://x.com/xixijun8827/status/2074527919419125889/photo/1",
+              "media_key": "3_2074527915539374080",
+              "start": 27,
+              "url": "https://t.co/bbv7ZI1iNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074527919419125889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕完药精力好集中，摘抄了点东西(写的咋这么难看，🌿) https://t.co/bbv7ZI1iNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 100,
+          "like_count": 8046,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 2812
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟鬼/od 已转生@caicaixi9927\n祝你天天开心,来都来了，互fo再走吧https://t.co/HZW0mjBRD7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "caicaixi9927"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 69,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 46,
+                "url": "https://t.co/HZW0mjBRD7"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "location": "Uryu-cho, Hokkaidō",
+        "name": "无问",
+        "pinned_tweet_id": "2070813338951704920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 179,
+          "like_count": 4336,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "xixijun8827",
+        "verified": false
+      }
+    ]
+  }
+}

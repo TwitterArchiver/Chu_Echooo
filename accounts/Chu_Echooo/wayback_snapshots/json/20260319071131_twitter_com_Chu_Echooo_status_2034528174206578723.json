@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034527317691900029",
+    "created_at": "2026-03-19T07:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034528174206578723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900094261087133698",
+          "start": 0,
+          "username": "aichijichidouya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034528174206578723",
+    "in_reply_to_user_id": "1900094261087133698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034527317691900029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aichijichidouya 你快说，是苦的，不好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034527301074116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwXzQpbYAAYIuy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034527301069930496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwXzQobgAAf6jX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034527317691900029",
+        "created_at": "2026-03-19T07:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034528174206578723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900094261087133698",
+              "start": 0,
+              "username": "aichijichidouya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034528174206578723",
+        "in_reply_to_user_id": "1900094261087133698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034527317691900029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aichijichidouya 你快说，是苦的，不好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034527301074116608",
+            "3_2034527301069930496"
+          ]
+        },
+        "author_id": "1900094261087133698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034527317691900029",
+        "created_at": "2026-03-19T07:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034527317691900029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1CxUfKSl7",
+              "end": 31,
+              "expanded_url": "https://x.com/aichijichidouya/status/2034527317691900029/photo/1",
+              "media_key": "3_2034527301074116608",
+              "start": 8,
+              "url": "https://t.co/U1CxUfKSl7"
+            },
+            {
+              "display_url": "pic.x.com/U1CxUfKSl7",
+              "end": 31,
+              "expanded_url": "https://x.com/aichijichidouya/status/2034527317691900029/photo/1",
+              "media_key": "3_2034527301069930496",
+              "start": 8,
+              "url": "https://t.co/U1CxUfKSl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034527317691900029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又吃了一些东西 https://t.co/U1CxUfKSl7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 89
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T07:59:21.000Z",
+        "description": "关注了我就不许嫌我吵/大概是只回关我喜欢的女孩子/私信只回互关",
+        "id": "1900094261087133698",
+        "name": "可乐鸡翅豆芽菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929057382908461056/ELdxFyBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 38,
+          "like_count": 5642,
+          "listed_count": 1,
+          "media_count": 1401,
+          "tweet_count": 4229
+        },
+        "username": "aichijichidouya",
+        "verified": false
+      }
+    ]
+  }
+}

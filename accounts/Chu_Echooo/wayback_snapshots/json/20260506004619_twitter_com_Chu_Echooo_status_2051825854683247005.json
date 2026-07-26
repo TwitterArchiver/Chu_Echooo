@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051824313616277921",
+    "created_at": "2026-05-06T00:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T01:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051825854683247005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882615086826872832",
+          "start": 0,
+          "username": "7_black_tea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051825854683247005",
+    "in_reply_to_user_id": "1882615086826872832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051824313616277921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_black_tea 人到工位十三分钟，绝望。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051824313616277921",
+        "created_at": "2026-05-06T00:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051825854683247005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882615086826872832",
+              "start": 0,
+              "username": "7_black_tea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051825854683247005",
+        "in_reply_to_user_id": "1882615086826872832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051824313616277921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_black_tea 人到工位十三分钟，绝望。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882615086826872832",
+        "conversation_id": "2051824313616277921",
+        "created_at": "2026-05-06T00:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051824313616277921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051824313616277921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人到工位，绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 71,
+          "like_count": 3651,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 961
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T02:23:16.000Z",
+        "description": "暖心Dom,欢迎跟我分享生活\n提问箱📭https://t.co/vIArcmVdHb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cloud56241",
+                "end": 42,
+                "expanded_url": "https://ngl.link/cloud56241",
+                "start": 19,
+                "url": "https://t.co/vIArcmVdHb"
+              }
+            ]
+          }
+        },
+        "id": "1882615086826872832",
+        "location": "南京",
+        "name": "红茶",
+        "pinned_tweet_id": "1943306203762954414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029538826063122432/BT4lwJgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 175,
+          "like_count": 82382,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1441
+        },
+        "username": "7_black_tea",
+        "verified": false
+      }
+    ]
+  }
+}

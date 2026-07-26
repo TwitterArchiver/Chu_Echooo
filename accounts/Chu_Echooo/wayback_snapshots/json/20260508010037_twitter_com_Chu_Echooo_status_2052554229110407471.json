@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052418604067647840",
+    "created_at": "2026-05-08T01:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T02:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052554229110407471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504042247460859904",
+          "start": 0,
+          "username": "HRO68915583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052554229110407471",
+    "in_reply_to_user_id": "1504042247460859904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052431919695233112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HRO68915583 ？下意识点了个赞，我秒取消你在说什么鬼话！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052418604067647840",
+        "created_at": "2026-05-08T01:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052554229110407471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504042247460859904",
+              "start": 0,
+              "username": "HRO68915583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052554229110407471",
+        "in_reply_to_user_id": "1504042247460859904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052431919695233112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HRO68915583 ？下意识点了个赞，我秒取消你在说什么鬼话！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504042247460859904",
+        "conversation_id": "2052418604067647840",
+        "created_at": "2026-05-07T16:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052431919695233112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052431919695233112",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052418604067647840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 偷一只"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 75,
+          "like_count": 3867,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 977
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T10:30:00.000Z",
+        "description": "随手拍/男/",
+        "id": "1504042247460859904",
+        "name": "HRO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902973862775754752/VRCSHaZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 230,
+          "like_count": 60488,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 17275
+        },
+        "username": "HRO68915583",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2033512233330991530",
+    "created_at": "2026-03-16T14:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033546283148038456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1620135489746669572",
+          "start": 0,
+          "username": "yiaoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033546283148038456",
+    "in_reply_to_user_id": "1620135489746669572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033536838573687162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiaoer 喜欢我就直说，别拿小猫咪当借口つ♡⊂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2033512233330991530",
+        "created_at": "2026-03-16T14:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033546283148038456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1620135489746669572",
+              "start": 0,
+              "username": "yiaoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033546283148038456",
+        "in_reply_to_user_id": "1620135489746669572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033536838573687162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiaoer 喜欢我就直说，别拿小猫咪当借口つ♡⊂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620135489746669572",
+        "conversation_id": "2033512233330991530",
+        "created_at": "2026-03-16T13:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033536838573687162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033536838573687162",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033512233330991530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 那我喜欢你的小猫咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 34
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T19:03:09.000Z",
+        "description": "精神不正常且毫无逻辑的碎碎念日记",
+        "id": "1620135489746669572",
+        "name": "乖崽",
+        "pinned_tweet_id": "2033441267330478153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032528822147624961/dXuC1ojR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 490,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1327
+        },
+        "username": "yiaoer",
+        "verified": false
+      }
+    ]
+  }
+}

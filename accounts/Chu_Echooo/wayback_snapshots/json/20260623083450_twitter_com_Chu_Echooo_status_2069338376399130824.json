@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2069329388613902662",
+    "created_at": "2026-06-23T08:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069338376399130824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1050606956501643264",
+          "start": 0,
+          "username": "Se_xi_Eros"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069338376399130824",
+    "in_reply_to_user_id": "1050606956501643264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069337683646906476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Se_xi_Eros 母猫信息素能传很远的，他接收到了，发情每天疯狂喵喵叫🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2069329388613902662",
+        "created_at": "2026-06-23T08:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069338376399130824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1050606956501643264",
+              "start": 0,
+              "username": "Se_xi_Eros"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069338376399130824",
+        "in_reply_to_user_id": "1050606956501643264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069337683646906476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Se_xi_Eros 母猫信息素能传很远的，他接收到了，发情每天疯狂喵喵叫🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1050606956501643264",
+        "conversation_id": "2069329388613902662",
+        "created_at": "2026-06-23T08:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069337683646906476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069337683646906476",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069329388613902662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好像有种好像有一种说法是公猫如果不闻到母猫的味道的话，不用嘎的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 93,
+          "like_count": 7368,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2340
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-12T04:39:52.000Z",
+        "description": "我在寻找，寻找一个在寻找我的人。",
+        "id": "1050606956501643264",
+        "location": "Dream",
+        "name": "Loooooose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961388242877714432/GSljwU0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 81,
+          "like_count": 21375,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2486
+        },
+        "url": "",
+        "username": "Se_xi_Eros",
+        "verified": false
+      }
+    ]
+  }
+}

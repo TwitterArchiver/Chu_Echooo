@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2049746056955740386",
+    "created_at": "2026-04-30T09:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049789952612073669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1863508919932338176",
+          "start": 0,
+          "username": "bw864565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049789952612073669",
+    "in_reply_to_user_id": "1863508919932338176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049776565656117691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bw864565 那我想个办法鲨了镜子里那个小妖精"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2049746056955740386",
+        "created_at": "2026-04-30T09:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049789952612073669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1863508919932338176",
+              "start": 0,
+              "username": "bw864565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049789952612073669",
+        "in_reply_to_user_id": "1863508919932338176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049776565656117691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bw864565 那我想个办法鲨了镜子里那个小妖精"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863508919932338176",
+        "conversation_id": "2049746056955740386",
+        "created_at": "2026-04-30T09:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049776565656117691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049776565656117691",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049746056955740386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 镜子里的更妖娆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/先天性心疾随时会死掉别可怜我也别心疼我/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 65,
+          "like_count": 3119,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 712
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T09:02:31.000Z",
+        "description": "生活原本很沉闷，但跑起来就有风了。",
+        "id": "1863508919932338176",
+        "location": " ",
+        "name": "大眼仔",
+        "pinned_tweet_id": "1864638997051461809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963480504503504896/LXxlvEmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 522,
+          "like_count": 22733,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 5366
+        },
+        "username": "bw864565",
+        "verified": false
+      }
+    ]
+  }
+}

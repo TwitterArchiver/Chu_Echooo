@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050938168409821641",
+    "created_at": "2026-05-03T14:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050939912158146562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862727510720663552",
+          "start": 0,
+          "username": "aivCnjpgxg66595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050939912158146562",
+    "in_reply_to_user_id": "1862727510720663552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050938168409821641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aivCnjpgxg66595 咪，帮我问问她喜欢什么颜色的麻袋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2050938159299694592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZlY7laEAAOTF1.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050938168409821641",
+        "created_at": "2026-05-03T14:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050939912158146562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862727510720663552",
+              "start": 0,
+              "username": "aivCnjpgxg66595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050939912158146562",
+        "in_reply_to_user_id": "1862727510720663552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050938168409821641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aivCnjpgxg66595 咪，帮我问问她喜欢什么颜色的麻袋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050938159299694592"
+          ]
+        },
+        "author_id": "1862727510720663552",
+        "conversation_id": "2050938168409821641",
+        "created_at": "2026-05-03T13:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050938168409821641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7hzAOpRx1p",
+              "end": 28,
+              "expanded_url": "https://x.com/aivCnjpgxg66595/status/2050938168409821641/photo/1",
+              "media_key": "3_2050938159299694592",
+              "start": 5,
+              "url": "https://t.co/7hzAOpRx1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050938168409821641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和猫子 https://t.co/7hzAOpRx1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 70,
+          "like_count": 3402,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 857
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:17:20.000Z",
+        "description": "",
+        "id": "1862727510720663552",
+        "name": "恰迷果",
+        "pinned_tweet_id": "2045188246330863773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050467713232015362/fs_1MBdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 114,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 626
+        },
+        "username": "aivCnjpgxg66595",
+        "verified": false
+      }
+    ]
+  }
+}

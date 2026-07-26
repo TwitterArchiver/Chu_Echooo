@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051163045477716311",
+    "created_at": "2026-05-05T06:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051552686638858567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412664938082955266",
+          "start": 0,
+          "username": "wyb_20010702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051552686638858567",
+    "in_reply_to_user_id": "1412664938082955266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051517059922854162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyb_20010702 哎嘿越南菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051163045477716311",
+        "created_at": "2026-05-05T06:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051552686638858567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412664938082955266",
+              "start": 0,
+              "username": "wyb_20010702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051552686638858567",
+        "in_reply_to_user_id": "1412664938082955266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051517059922854162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyb_20010702 哎嘿越南菜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412664938082955266",
+        "conversation_id": "2051163045477716311",
+        "created_at": "2026-05-05T04:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051517059922854162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051517059922854162",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051163045477716311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 看起来如此美味！云南菜还是泰国菜啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 71,
+          "like_count": 3594,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 935
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T06:49:21.000Z",
+        "description": "淦！再上35年班就可以退休了，这操蛋的世界！",
+        "id": "1412664938082955266",
+        "location": "中国",
+        "name": "酥肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041222640434896897/0P7uwKmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 11,
+          "like_count": 108,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "username": "wyb_20010702",
+        "verified": false
+      }
+    ]
+  }
+}

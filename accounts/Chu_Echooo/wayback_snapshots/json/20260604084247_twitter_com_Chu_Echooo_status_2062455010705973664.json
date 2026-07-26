@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062455010705973664",
+    "created_at": "2026-06-04T08:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062455010705973664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aichijichidouy…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/aichijichidouya/status/2062427941762678959",
+          "start": 44,
+          "url": "https://t.co/GfHQPWj8P2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062455010705973664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062427941762678959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都去给这个活泼可爱温柔善良情绪稳定脾气巨好超级会用心经营生活的女孩子说生日快乐，好吗~ https://t.co/GfHQPWj8P2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062455010705973664",
+        "created_at": "2026-06-04T08:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062455010705973664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aichijichidouy…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/aichijichidouya/status/2062427941762678959",
+              "start": 44,
+              "url": "https://t.co/GfHQPWj8P2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062455010705973664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062427941762678959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都去给这个活泼可爱温柔善良情绪稳定脾气巨好超级会用心经营生活的女孩子说生日快乐，好吗~ https://t.co/GfHQPWj8P2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900094261087133698",
+        "conversation_id": "2062427941762678959",
+        "created_at": "2026-06-04T06:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062427941762678959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062427941762678959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实今天我主页有气球看噢😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 86,
+          "like_count": 5383,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1438
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T07:59:21.000Z",
+        "description": "关注了我就不许嫌我吵/大概是只回关我喜欢的女孩子/私信只回互关",
+        "id": "1900094261087133698",
+        "name": "可乐鸡翅豆芽菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929057382908461056/ELdxFyBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 36,
+          "like_count": 6967,
+          "listed_count": 0,
+          "media_count": 1664,
+          "tweet_count": 5226
+        },
+        "username": "aichijichidouya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2069406179990868108",
+    "created_at": "2026-06-24T00:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069580479213580651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653473992848871425",
+          "start": 0,
+          "username": "bing11413675557"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069580479213580651",
+    "in_reply_to_user_id": "1653473992848871425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069420403857228099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing11413675557 你是不是没挨过揍！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069420359166881792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgO2jcacAAxF9M.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2069406179990868108",
+        "created_at": "2026-06-24T00:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069580479213580651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653473992848871425",
+              "start": 0,
+              "username": "bing11413675557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069580479213580651",
+        "in_reply_to_user_id": "1653473992848871425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069420403857228099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing11413675557 你是不是没挨过揍！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069420359166881792"
+          ]
+        },
+        "author_id": "1653473992848871425",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069406179990868108",
+        "created_at": "2026-06-23T14:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069420403857228099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IE2OyXfagG",
+              "end": 35,
+              "expanded_url": "https://x.com/bing11413675557/status/2069420403857228099/photo/1",
+              "media_key": "3_2069420359166881792",
+              "start": 12,
+              "url": "https://t.co/IE2OyXfagG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069420403857228099",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069406179990868108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo https://t.co/IE2OyXfagG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 96,
+          "like_count": 7430,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2359
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T18:58:24.000Z",
+        "description": "打打的牌！桌桌的游！聊聊的天‼",
+        "id": "1653473992848871425",
+        "name": "好运降临",
+        "pinned_tweet_id": "2037860036832292868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943733308552359937/stR7Giyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 89,
+          "like_count": 5719,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2655
+        },
+        "url": "",
+        "username": "bing11413675557",
+        "verified": false
+      }
+    ]
+  }
+}

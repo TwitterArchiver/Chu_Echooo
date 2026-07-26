@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050137471225418103",
+    "created_at": "2026-05-01T09:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050138714198974728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050138714198974728",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050137471225418103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 问问他喜欢什么颜色的麻袋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_2050137458369839104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHONKALbQAA1Mru.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050137471225418103",
+        "created_at": "2026-05-01T09:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050138714198974728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050138714198974728",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050137471225418103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 问问他喜欢什么颜色的麻袋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050137458369839104"
+          ]
+        },
+        "author_id": "1788642156111863808",
+        "conversation_id": "2050137471225418103",
+        "created_at": "2026-05-01T08:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050137471225418103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOgYqewXIi",
+              "end": 31,
+              "expanded_url": "https://x.com/22wbxsx/status/2050137471225418103/photo/1",
+              "media_key": "3_2050137458369839104",
+              "start": 8,
+              "url": "https://t.co/iOgYqewXIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050137471225418103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好帅的小猫咪呀 https://t.co/iOgYqewXIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 65,
+          "like_count": 3228,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 768
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 294,
+          "like_count": 14681,
+          "listed_count": 2,
+          "media_count": 1200,
+          "tweet_count": 9659
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

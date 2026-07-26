@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079057423650967552"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2079057434426167721",
+    "created_at": "2026-07-20T04:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079057434426167721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cq13MoXqtb",
+          "end": 43,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2079057434426167721/photo/1",
+          "media_key": "3_2079057423650967552",
+          "start": 20,
+          "url": "https://t.co/cq13MoXqtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079057434426167721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遇见我，算你倒霉。\n喜欢我，算你眼瞎。 https://t.co/cq13MoXqtb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079057423650967552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpLtiRa0AA9ekj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079057423650967552"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2079057434426167721",
+        "created_at": "2026-07-20T04:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079057434426167721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cq13MoXqtb",
+              "end": 43,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2079057434426167721/photo/1",
+              "media_key": "3_2079057423650967552",
+              "start": 20,
+              "url": "https://t.co/cq13MoXqtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079057434426167721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇见我，算你倒霉。\n喜欢我，算你眼瞎。 https://t.co/cq13MoXqtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 103,
+          "like_count": 8151,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 3005
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2046099793248981470",
+    "created_at": "2026-04-20T05:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046101708456317009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771457845592203264",
+          "start": 0,
+          "username": "ezzz_467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046101708456317009",
+    "in_reply_to_user_id": "1771457845592203264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046099793248981470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezzz_467 我直接一个嗨，老婆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2046099793248981470",
+        "created_at": "2026-04-20T05:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046101708456317009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771457845592203264",
+              "start": 0,
+              "username": "ezzz_467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046101708456317009",
+        "in_reply_to_user_id": "1771457845592203264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046099793248981470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezzz_467 我直接一个嗨，老婆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771457845592203264",
+        "conversation_id": "2046099793248981470",
+        "created_at": "2026-04-20T05:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046099793248981470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046099793248981470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢啊，不敢叫她宝宝是病吗，我对朋友倒是宝宝宝宝的叫得欢、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 53,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 391
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T08:44:10.000Z",
+        "description": "喜欢女孩",
+        "id": "1771457845592203264",
+        "name": "ExCusEmi",
+        "pinned_tweet_id": "2033963479766561029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037901494838800384/QAB5MWpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 92,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 339
+        },
+        "username": "ezzz_467",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055482084475711488",
+        "3_2055482084584824832"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055482087243985077",
+    "created_at": "2026-05-16T02:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055482087243985077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2p6lKc2CWX",
+          "end": 43,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2055482087243985077/photo/1",
+          "media_key": "3_2055482084475711488",
+          "start": 20,
+          "url": "https://t.co/2p6lKc2CWX"
+        },
+        {
+          "display_url": "pic.x.com/2p6lKc2CWX",
+          "end": 43,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2055482087243985077/photo/1",
+          "media_key": "3_2055482084584824832",
+          "start": 20,
+          "url": "https://t.co/2p6lKc2CWX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055482087243985077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "躲猫猫上瘾了，你就喊吧，一喊一个不吱声 https://t.co/2p6lKc2CWX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2055482084475711488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaKEL9asAADmOf.jpg",
+        "width": 1424
+      },
+      {
+        "height": 1155,
+        "media_key": "3_2055482084584824832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaKEMXboAAScrp.jpg",
+        "width": 1705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055482084475711488",
+            "3_2055482084584824832"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055482087243985077",
+        "created_at": "2026-05-16T02:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055482087243985077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2p6lKc2CWX",
+              "end": 43,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2055482087243985077/photo/1",
+              "media_key": "3_2055482084475711488",
+              "start": 20,
+              "url": "https://t.co/2p6lKc2CWX"
+            },
+            {
+              "display_url": "pic.x.com/2p6lKc2CWX",
+              "end": 43,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2055482087243985077/photo/1",
+              "media_key": "3_2055482084584824832",
+              "start": 20,
+              "url": "https://t.co/2p6lKc2CWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055482087243985077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躲猫猫上瘾了，你就喊吧，一喊一个不吱声 https://t.co/2p6lKc2CWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 84,
+          "like_count": 4571,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1224
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

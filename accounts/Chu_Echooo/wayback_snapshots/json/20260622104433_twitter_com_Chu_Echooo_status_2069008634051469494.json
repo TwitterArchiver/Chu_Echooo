@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2069006051198763096",
+    "created_at": "2026-06-22T10:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069008634051469494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929464299115679745",
+          "start": 0,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069008634051469494",
+    "in_reply_to_user_id": "1929464299115679745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069006051198763096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devastated1726 来我家，我家床很大，不用你上班，管饭，带上罐罐，楚点点啥都有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2069006051198763096",
+        "created_at": "2026-06-22T10:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069008634051469494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929464299115679745",
+              "start": 0,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069008634051469494",
+        "in_reply_to_user_id": "1929464299115679745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069006051198763096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devastated1726 来我家，我家床很大，不用你上班，管饭，带上罐罐，楚点点啥都有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929464299115679745",
+        "conversation_id": "2069006051198763096",
+        "created_at": "2026-06-22T10:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069006051198763096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069006051198763096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只打游戏不打人很善良的人\n只减肥不掉秤很节能的人\n只消费不存钱很大方的人\n我这具身体还是太弱了\n不适合上学也不适合上班\n我现在这个状态特别适合幼儿园\n喜欢吃饭喜欢睡觉喜欢玩\n听得懂话又不怎么吵\n还会自己上厕所"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 93,
+          "like_count": 7274,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2300
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸。\n当抖音发",
+        "id": "1929464299115679745",
+        "location": "蛋仔岛",
+        "name": "有空忧伤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057452165770162176/Qa_B0ZB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 141,
+          "like_count": 888,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 1574
+        },
+        "url": "",
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

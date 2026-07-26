@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054459539089711227",
+    "created_at": "2026-05-13T14:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054565633002811757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504042247460859904",
+          "start": 0,
+          "username": "HRO68915583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054565633002811757",
+    "in_reply_to_user_id": "1504042247460859904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054560087428202748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HRO68915583 也行叭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054459539089711227",
+        "created_at": "2026-05-13T14:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054565633002811757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504042247460859904",
+              "start": 0,
+              "username": "HRO68915583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054565633002811757",
+        "in_reply_to_user_id": "1504042247460859904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054560087428202748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HRO68915583 也行叭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504042247460859904",
+        "conversation_id": "2054459539089711227",
+        "created_at": "2026-05-13T13:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054560087428202748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054560087428202748",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054459539089711227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 帅帅的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 83,
+          "like_count": 4352,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1106
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T10:30:00.000Z",
+        "description": "随手拍/男/",
+        "id": "1504042247460859904",
+        "name": "HRO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902973862775754752/VRCSHaZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 231,
+          "like_count": 60761,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 17315
+        },
+        "username": "HRO68915583",
+        "verified": false
+      }
+    ]
+  }
+}

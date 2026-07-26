@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2065354310951780569",
+    "created_at": "2026-06-12T10:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065387375539433903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666093632036929537",
+          "start": 0,
+          "username": "vColinGuov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065387375539433903",
+    "in_reply_to_user_id": "1666093632036929537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065385283068243971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vColinGuov 有的有的，容我想象一下画面..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2065354310951780569",
+        "created_at": "2026-06-12T10:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065387375539433903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666093632036929537",
+              "start": 0,
+              "username": "vColinGuov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065387375539433903",
+        "in_reply_to_user_id": "1666093632036929537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065385283068243971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vColinGuov 有的有的，容我想象一下画面..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666093632036929537",
+        "conversation_id": "2065354310951780569",
+        "created_at": "2026-06-12T10:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065385283068243971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065385283068243971",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065354310951780569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 如果有低血糖，千万在包包里，公司，车上放糖，硬质水果糖或者直接上阿尔卑斯奶糖。我有一次在浴池里低血糖了，那画面可太美了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 89,
+          "like_count": 6184,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1863
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T14:44:31.000Z",
+        "description": "我不喜欢的人，肯定不是好人。不喜欢我的人，怎么可能是好人。春风十里不如取悦自己。",
+        "id": "1666093632036929537",
+        "location": "天津，China",
+        "name": "Colin Guo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666335769366085633/wb__V_6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 172,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1048
+        },
+        "username": "vColinGuov",
+        "verified": false
+      }
+    ]
+  }
+}

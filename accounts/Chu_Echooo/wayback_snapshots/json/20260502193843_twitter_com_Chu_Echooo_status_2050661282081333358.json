@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050659371844272224",
+    "created_at": "2026-05-02T19:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T20:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050661282081333358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929464299115679745",
+          "start": 0,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050661282081333358",
+    "in_reply_to_user_id": "1929464299115679745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050660037350047763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devastated1726 更想让你来我怀里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050659371844272224",
+        "created_at": "2026-05-02T19:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T20:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050661282081333358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929464299115679745",
+              "start": 0,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050661282081333358",
+        "in_reply_to_user_id": "1929464299115679745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050660037350047763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devastated1726 更想让你来我怀里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929464299115679745",
+        "conversation_id": "2050659371844272224",
+        "created_at": "2026-05-02T19:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T20:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050660037350047763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050660037350047763",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050659371844272224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 暖暖的好贴心～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 66,
+          "like_count": 3353,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 829
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸 \n私信胯下二两肉的爱骚扰的你明天就死绝户\n想互fo直接关注我呀 女生直接互fo",
+        "id": "1929464299115679745",
+        "location": "蛋仔岛",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2047815640342241486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042008358832762882/7uQCgUTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 136,
+          "like_count": 875,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 1497
+        },
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067262521145512396",
+    "created_at": "2026-06-17T15:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067264213706498379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2049811110199771136",
+          "start": 0,
+          "username": "Siqib5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067264213706498379",
+    "in_reply_to_user_id": "2049811110199771136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067262521145512396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siqib5 真好听啊~~~"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32091,
+        "height": 544,
+        "media_key": "13_2067262397803581440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067262397803581440/img/eV_hxRMpr3UEl5tm.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067262397803581440/vid/avc1/476x270/-WzltDjxP91I1Q-h.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067262397803581440/vid/avc1/634x360/mr5FvEAkwTMAmwW5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067262397803581440/vid/avc1/960x544/1YaavomxK5gNJHHt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067262397803581440/pl/xU3leNJPvIuXkbMZ.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067262521145512396",
+        "created_at": "2026-06-17T15:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067264213706498379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2049811110199771136",
+              "start": 0,
+              "username": "Siqib5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067264213706498379",
+        "in_reply_to_user_id": "2049811110199771136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067262521145512396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siqib5 真好听啊~~~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067262397803581440"
+          ]
+        },
+        "author_id": "2049811110199771136",
+        "conversation_id": "2067262521145512396",
+        "created_at": "2026-06-17T15:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067262521145512396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dPBe0sqVo",
+              "end": 23,
+              "expanded_url": "https://x.com/Siqib5/status/2067262521145512396/video/1",
+              "media_key": "13_2067262397803581440",
+              "start": 0,
+              "url": "https://t.co/9dPBe0sqVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067262521145512396",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9dPBe0sqVo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 88,
+          "like_count": 6853,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 2138
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T11:21:48.000Z",
+        "description": "饱饱 祝您健康🙂‍↕️\n\nhttps://t.co/m5OQPimJ6M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qq28475",
+                "end": 36,
+                "expanded_url": "https://ngl.link/qq28475",
+                "start": 13,
+                "url": "https://t.co/m5OQPimJ6M"
+              }
+            ]
+          }
+        },
+        "id": "2049811110199771136",
+        "name": "QQ",
+        "pinned_tweet_id": "2064719615641735645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050167568003141632/1Q-2sGxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 321,
+          "like_count": 2406,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 321
+        },
+        "username": "Siqib5",
+        "verified": false
+      }
+    ]
+  }
+}

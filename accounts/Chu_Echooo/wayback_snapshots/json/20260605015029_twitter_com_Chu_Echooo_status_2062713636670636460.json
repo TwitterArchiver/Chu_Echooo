@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062713628542021632"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062709831652515950",
+    "created_at": "2026-06-05T01:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062713636670636460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XLIXbYwiqx",
+          "end": 38,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2062713636670636460/photo/1",
+          "media_key": "3_2062713628542021632",
+          "start": 15,
+          "url": "https://t.co/XLIXbYwiqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062713636670636460",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062709831652515950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有一成新了，要的MMMMM https://t.co/XLIXbYwiqx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1470,
+        "media_key": "3_2062713628542021632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA7Hc6asAA0VYh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1641,
+        "media_key": "3_2062709823905595392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA3p_iaAAAXhEL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062713628542021632"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062709831652515950",
+        "created_at": "2026-06-05T01:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062713636670636460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLIXbYwiqx",
+              "end": 38,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2062713636670636460/photo/1",
+              "media_key": "3_2062713628542021632",
+              "start": 15,
+              "url": "https://t.co/XLIXbYwiqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062713636670636460",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062709831652515950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有一成新了，要的MMMMM https://t.co/XLIXbYwiqx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062709823905595392"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062709831652515950",
+        "created_at": "2026-06-05T01:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062709831652515950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/udMLv4vnWj",
+              "end": 52,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2062709831652515950/photo/1",
+              "media_key": "3_2062709823905595392",
+              "start": 29,
+              "url": "https://t.co/udMLv4vnWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062709831652515950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出一根棒棒糖，九成新，只嗦了半分钟，可小刀，有意者代价M https://t.co/udMLv4vnWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 88,
+          "like_count": 5471,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1491
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

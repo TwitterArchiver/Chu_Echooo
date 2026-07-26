@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045821473437437953"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045821476545479151",
+    "created_at": "2026-04-19T11:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045821476545479151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IZPMQnz5qm",
+          "end": 35,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2045821476545479151/photo/1",
+          "media_key": "3_2045821473437437953",
+          "start": 12,
+          "url": "https://t.co/IZPMQnz5qm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045821476545479151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧番茄锅底，蘸麻酱！ https://t.co/IZPMQnz5qm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2045821473437437953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ3ynYa0AE-epd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045821473437437953"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045821476545479151",
+        "created_at": "2026-04-19T11:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045821476545479151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZPMQnz5qm",
+              "end": 35,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2045821476545479151/photo/1",
+              "media_key": "3_2045821473437437953",
+              "start": 12,
+              "url": "https://t.co/IZPMQnz5qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045821476545479151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧番茄锅底，蘸麻酱！ https://t.co/IZPMQnz5qm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 42,
+          "like_count": 2009,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 362
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

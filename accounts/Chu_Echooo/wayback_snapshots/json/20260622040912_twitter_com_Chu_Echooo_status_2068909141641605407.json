@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068907560720326850",
+    "created_at": "2026-06-22T04:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068909141641605407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "194859435",
+          "start": 0,
+          "username": "stagerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068909141641605407",
+    "in_reply_to_user_id": "194859435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068907560720326850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stagerain 看给孩子挤的，都不开心了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2068907552314986496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLY8dRDbkAA9DQA.jpg",
+        "width": 1468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068907560720326850",
+        "created_at": "2026-06-22T04:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068909141641605407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "194859435",
+              "start": 0,
+              "username": "stagerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068909141641605407",
+        "in_reply_to_user_id": "194859435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068907560720326850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stagerain 看给孩子挤的，都不开心了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068907552314986496"
+          ]
+        },
+        "author_id": "194859435",
+        "conversation_id": "2068907560720326850",
+        "created_at": "2026-06-22T04:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068907560720326850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s8qNnxvC7p",
+              "end": 23,
+              "expanded_url": "https://x.com/stagerain/status/2068907560720326850/photo/1",
+              "media_key": "3_2068907552314986496",
+              "start": 0,
+              "url": "https://t.co/s8qNnxvC7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068907560720326850",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s8qNnxvC7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 92,
+          "like_count": 7263,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 2283
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T04:34:24.000Z",
+        "description": "Love u more than can I say",
+        "id": "194859435",
+        "name": "能量雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059505660262494208/NdJfx0xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 53,
+          "like_count": 7571,
+          "listed_count": 1,
+          "media_count": 856,
+          "tweet_count": 2392
+        },
+        "url": "",
+        "username": "stagerain",
+        "verified": false
+      }
+    ]
+  }
+}

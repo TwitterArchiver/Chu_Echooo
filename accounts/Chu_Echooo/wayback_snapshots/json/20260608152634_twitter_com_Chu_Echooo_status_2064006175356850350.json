@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063971692008157620",
+    "created_at": "2026-06-08T15:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064006175356850350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867025756842250240",
+          "start": 0,
+          "username": "jing560476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064006175356850350",
+    "in_reply_to_user_id": "1867025756842250240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063998831881228345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing560476 因为我坏！霸凌他！（•֊•"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063971692008157620",
+        "created_at": "2026-06-08T15:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064006175356850350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867025756842250240",
+              "start": 0,
+              "username": "jing560476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064006175356850350",
+        "in_reply_to_user_id": "1867025756842250240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063998831881228345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing560476 因为我坏！霸凌他！（•֊•"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867025756842250240",
+        "conversation_id": "2063971692008157620",
+        "created_at": "2026-06-08T14:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063998831881228345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063998831881228345",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063971692008157620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 压力一只小猫么！你怎么不去考！（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 88,
+          "like_count": 5835,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1706
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T01:56:56.000Z",
+        "description": "叫我小骑&江江/泛性恋/中度焦虑症/DOM&M/此推持续更新女喘&配音&精神病发言/喜欢聊天，聊骚也行，欢迎找我玩。",
+        "id": "1867025756842250240",
+        "name": "骑士病",
+        "pinned_tweet_id": "2063139512021389487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063289283088441344/EE0A4Idh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 18,
+          "like_count": 1707,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 215
+        },
+        "username": "jing560476",
+        "verified": false
+      }
+    ]
+  }
+}

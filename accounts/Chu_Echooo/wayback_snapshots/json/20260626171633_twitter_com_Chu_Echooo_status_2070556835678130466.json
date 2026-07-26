@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070556829390897152",
+        "3_2070556832779960320"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2070556835678130466",
+    "created_at": "2026-06-26T17:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070556835678130466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xDl5SSH17C",
+          "end": 153,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2070556835678130466/photo/1",
+          "media_key": "3_2070556829390897152",
+          "start": 130,
+          "url": "https://t.co/xDl5SSH17C"
+        },
+        {
+          "display_url": "pic.x.com/xDl5SSH17C",
+          "end": 153,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2070556835678130466/photo/1",
+          "media_key": "3_2070556832779960320",
+          "start": 130,
+          "url": "https://t.co/xDl5SSH17C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070556835678130466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "左边是楚娇娇，右边是楚点点。\n他俩一点都不像好不啦。\n下班去了物美，搞活动可以免费打印一张照片，就挑了一张楚娇娇的。\n指娇为点的笨蛋。\n楚娇娇回喵星了，所以才有了楚点点。\n跟我一样的病，心脏病。\n做过心超，当时是一切正常的，很突然，我不要回忆了。\n有点想哭。 https://t.co/xDl5SSH17C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_2070556829390897152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwYd08agAAD36A.jpg",
+        "width": 1120
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070556832779960320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwYeBkbgAAWtE2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070556829390897152",
+            "3_2070556832779960320"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2070556835678130466",
+        "created_at": "2026-06-26T17:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070556835678130466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDl5SSH17C",
+              "end": 153,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2070556835678130466/photo/1",
+              "media_key": "3_2070556829390897152",
+              "start": 130,
+              "url": "https://t.co/xDl5SSH17C"
+            },
+            {
+              "display_url": "pic.x.com/xDl5SSH17C",
+              "end": 153,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2070556835678130466/photo/1",
+              "media_key": "3_2070556832779960320",
+              "start": 130,
+              "url": "https://t.co/xDl5SSH17C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070556835678130466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左边是楚娇娇，右边是楚点点。\n他俩一点都不像好不啦。\n下班去了物美，搞活动可以免费打印一张照片，就挑了一张楚娇娇的。\n指娇为点的笨蛋。\n楚娇娇回喵星了，所以才有了楚点点。\n跟我一样的病，心脏病。\n做过心超，当时是一切正常的，很突然，我不要回忆了。\n有点想哭。 https://t.co/xDl5SSH17C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 96,
+          "like_count": 7570,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 2457
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

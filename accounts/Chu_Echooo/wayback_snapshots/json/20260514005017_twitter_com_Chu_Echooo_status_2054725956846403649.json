@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054594654516154591",
+    "created_at": "2026-05-14T00:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054725956846403649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771457845592203264",
+          "start": 0,
+          "username": "ezzz_467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054725956846403649",
+    "in_reply_to_user_id": "1771457845592203264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054594654516154591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezzz_467 你是我的友情之上，我是你的萍水相逢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054594654516154591",
+        "created_at": "2026-05-14T00:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054725956846403649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771457845592203264",
+              "start": 0,
+              "username": "ezzz_467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054725956846403649",
+        "in_reply_to_user_id": "1771457845592203264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054594654516154591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezzz_467 你是我的友情之上，我是你的萍水相逢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771457845592203264",
+        "conversation_id": "2054594654516154591",
+        "created_at": "2026-05-13T16:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054594654516154591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054594654516154591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那我们现在是什么关系？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 84,
+          "like_count": 4415,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1134
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T08:44:10.000Z",
+        "description": "♀｜喜欢女孩｜https://t.co/BIb1aNixql",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/appreciate77325",
+                "end": 30,
+                "expanded_url": "https://ngl.link/appreciate77325",
+                "start": 7,
+                "url": "https://t.co/BIb1aNixql"
+              }
+            ]
+          }
+        },
+        "id": "1771457845592203264",
+        "name": "ExCusEmi",
+        "pinned_tweet_id": "2052064242900336680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037901494838800384/QAB5MWpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 121,
+          "like_count": 5279,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 889
+        },
+        "username": "ezzz_467",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048623702624117194",
+    "created_at": "2026-04-27T08:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048686029801242641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048686029801242641",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048683477613330648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 如果有这么多我反而不那么难受！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "3_2048683470483021824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5iwxNa4AA1o-9.jpg",
+        "width": 565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048623702624117194",
+        "created_at": "2026-04-27T08:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048686029801242641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048686029801242641",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048683477613330648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 如果有这么多我反而不那么难受！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048683470483021824"
+          ]
+        },
+        "author_id": "1788642156111863808",
+        "conversation_id": "2048623702624117194",
+        "created_at": "2026-04-27T08:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048683477613330648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEcYS4I6f9",
+              "end": 41,
+              "expanded_url": "https://x.com/22wbxsx/status/2048683477613330648/photo/1",
+              "media_key": "3_2048683470483021824",
+              "start": 18,
+              "url": "https://t.co/MEcYS4I6f9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048683477613330648",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048623702624117194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 啊啊啊啊啊 https://t.co/MEcYS4I6f9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 65,
+          "like_count": 2893,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 602
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 296,
+          "like_count": 14511,
+          "listed_count": 2,
+          "media_count": 1189,
+          "tweet_count": 9563
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

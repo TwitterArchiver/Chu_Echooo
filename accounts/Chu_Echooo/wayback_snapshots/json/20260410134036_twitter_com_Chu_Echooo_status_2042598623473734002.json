@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2042574917452075087",
+    "created_at": "2026-04-10T13:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042598623473734002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022901012454084610",
+          "start": 0,
+          "username": "xinyvdom77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042598623473734002",
+    "in_reply_to_user_id": "2022901012454084610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042597194708975957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinyvdom77 好吃是好吃的，辣也是真的辣😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2042574917452075087",
+        "created_at": "2026-04-10T13:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042598623473734002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022901012454084610",
+              "start": 0,
+              "username": "xinyvdom77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042598623473734002",
+        "in_reply_to_user_id": "2022901012454084610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042597194708975957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinyvdom77 好吃是好吃的，辣也是真的辣😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022901012454084610",
+        "conversation_id": "2042574917452075087",
+        "created_at": "2026-04-10T13:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042597194708975957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042597194708975957",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042574917452075087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 可是它看起来超美味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 39,
+          "like_count": 1185,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 276
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T05:09:38.000Z",
+        "description": "喜恶同因 瑕瑜互见",
+        "id": "2022901012454084610",
+        "name": "白日梦想家",
+        "pinned_tweet_id": "2026844809252712584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026129363830509568/kks-nSMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 220
+        },
+        "username": "xinyvdom77",
+        "verified": false
+      }
+    ]
+  }
+}

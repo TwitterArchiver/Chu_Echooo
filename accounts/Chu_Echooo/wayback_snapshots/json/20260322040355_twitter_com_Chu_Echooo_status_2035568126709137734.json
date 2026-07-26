@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035568124213530624"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2035562631021707337",
+    "created_at": "2026-03-22T04:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035568126709137734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515165033398820866",
+          "start": 0,
+          "username": "mzbsjtb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5zQsqAfjLQ",
+          "end": 32,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2035568126709137734/photo/1",
+          "media_key": "3_2035568124213530624",
+          "start": 9,
+          "url": "https://t.co/5zQsqAfjLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035568126709137734",
+    "in_reply_to_user_id": "1515165033398820866",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035562631021707337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzbsjtb https://t.co/5zQsqAfjLQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2035568124213530624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_KbI_bEAA3Pid.jpg",
+        "width": 931
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2035562619831222272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_FavkagAANXuv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035568124213530624"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2035562631021707337",
+        "created_at": "2026-03-22T04:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035568126709137734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515165033398820866",
+              "start": 0,
+              "username": "mzbsjtb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zQsqAfjLQ",
+              "end": 32,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2035568126709137734/photo/1",
+              "media_key": "3_2035568124213530624",
+              "start": 9,
+              "url": "https://t.co/5zQsqAfjLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035568126709137734",
+        "in_reply_to_user_id": "1515165033398820866",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035562631021707337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzbsjtb https://t.co/5zQsqAfjLQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035562619831222272"
+          ]
+        },
+        "author_id": "1515165033398820866",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035562631021707337",
+        "created_at": "2026-03-22T03:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035562631021707337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/igNCWcSWgL",
+              "end": 38,
+              "expanded_url": "https://x.com/mzbsjtb/status/2035562631021707337/photo/1",
+              "media_key": "3_2035562619831222272",
+              "start": 15,
+              "url": "https://t.co/igNCWcSWgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035562631021707337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天外卖点的新店意外还不错😋 https://t.co/igNCWcSWgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/骨科/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 34,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 137
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T03:08:06.000Z",
+        "description": "男的/INFP/不定时上线/二游基本都玩/分享些奇奇怪怪的日常/到处评论 在哪都可能见到我",
+        "id": "1515165033398820866",
+        "location": "500m",
+        "name": "板烧鸡腿堡🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017680994367864832/0LhoEazs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 62,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 613
+        },
+        "username": "mzbsjtb",
+        "verified": false
+      }
+    ]
+  }
+}

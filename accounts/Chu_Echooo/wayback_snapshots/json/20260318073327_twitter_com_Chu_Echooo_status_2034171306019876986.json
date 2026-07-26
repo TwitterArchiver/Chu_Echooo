@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034157633855492098",
+    "created_at": "2026-03-18T07:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T08:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034171306019876986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938246407225532416",
+          "start": 0,
+          "username": "Haze591200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034171306019876986",
+    "in_reply_to_user_id": "1938246407225532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034168609820586070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haze591200 你可以先去搜一下法语字母r和y单独的发音，我们当时上小班课，三十多人卡痰，那场面…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034157633855492098",
+        "created_at": "2026-03-18T07:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034171306019876986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938246407225532416",
+              "start": 0,
+              "username": "Haze591200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034171306019876986",
+        "in_reply_to_user_id": "1938246407225532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034168609820586070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haze591200 你可以先去搜一下法语字母r和y单独的发音，我们当时上小班课，三十多人卡痰，那场面…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938246407225532416",
+        "conversation_id": "2034157633855492098",
+        "created_at": "2026-03-18T07:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034168609820586070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034168609820586070",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034164841448079419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我去我不行了吧！那感觉我会说的特别难听啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 50,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 69
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T14:42:28.000Z",
+        "description": "此处太短无法说明｜有喜欢的人^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hazel24154",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hazel24154",
+                "start": 0,
+                "url": "https://t.co/Db8DtXcjNC"
+              }
+            ]
+          }
+        },
+        "id": "1938246407225532416",
+        "name": "Mia",
+        "pinned_tweet_id": "1998015978366800109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370092884246528/WkxIY6rY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 250,
+          "like_count": 5702,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 3657
+        },
+        "url": "https://t.co/Db8DtXcjNC",
+        "username": "Haze591200",
+        "verified": false
+      }
+    ]
+  }
+}

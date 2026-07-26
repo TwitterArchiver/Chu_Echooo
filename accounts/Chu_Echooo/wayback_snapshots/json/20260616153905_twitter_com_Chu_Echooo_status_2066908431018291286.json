@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066903074464309665",
+    "created_at": "2026-06-16T15:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066908431018291286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956266694139060228",
+          "start": 0,
+          "username": "FanNuo93726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066908431018291286",
+    "in_reply_to_user_id": "1956266694139060228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066903074464309665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanNuo93726 是谁允许你说我老婆装可爱的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18026,
+        "height": 1280,
+        "media_key": "13_2066902833748930561",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066902833748930561/img/1J8DzIDXHQiqsrwt.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066902833748930561/vid/avc1/320x568/JUrsvSPNtbKAdgjg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066902833748930561/vid/avc1/480x852/QRQ8L-cuWO1VgbSB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066902833748930561/vid/avc1/720x1280/8BUIl6puDORUh5X5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066902833748930561/pl/ldO3_k0YuyEW-koh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066903074464309665",
+        "created_at": "2026-06-16T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066908431018291286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956266694139060228",
+              "start": 0,
+              "username": "FanNuo93726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066908431018291286",
+        "in_reply_to_user_id": "1956266694139060228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066903074464309665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanNuo93726 是谁允许你说我老婆装可爱的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066902833748930561"
+          ]
+        },
+        "author_id": "1956266694139060228",
+        "conversation_id": "2066903074464309665",
+        "created_at": "2026-06-16T15:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066903074464309665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZBex1XbzxX",
+              "end": 51,
+              "expanded_url": "https://x.com/FanNuo93726/status/2066903074464309665/video/1",
+              "media_key": "13_2066902833748930561",
+              "start": 28,
+              "url": "https://t.co/ZBex1XbzxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066903074464309665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹子别夹着声音装可爱了😔💧👈🏻\n这破锣嗓子我听了想哭。 https://t.co/ZBex1XbzxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 88,
+          "like_count": 6694,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 2069
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T08:08:32.000Z",
+        "description": "追星和日常碎碎念 /双/上海/06/169/54kg\n我喜欢长相养胃的有礼貌的好宝宝，可以找我闲聊呀！\n女孩子的消息我都会回的！！",
+        "id": "1956266694139060228",
+        "location": "我一直在哭",
+        "name": "我想喝番茄浓汤",
+        "pinned_tweet_id": "2052438390810014082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051692596192239620/Wlhz-XvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 157,
+          "like_count": 5465,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1053
+        },
+        "username": "FanNuo93726",
+        "verified": false
+      }
+    ]
+  }
+}

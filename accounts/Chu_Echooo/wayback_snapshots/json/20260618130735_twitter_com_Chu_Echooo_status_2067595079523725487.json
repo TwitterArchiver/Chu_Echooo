@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067458871879483558",
+    "created_at": "2026-06-18T13:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067595079523725487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1380799999206776832",
+          "start": 0,
+          "username": "Li09881223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067595079523725487",
+    "in_reply_to_user_id": "1380799999206776832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067569490506952777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li09881223 jio踏两只船，离！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067458871879483558",
+        "created_at": "2026-06-18T13:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067595079523725487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1380799999206776832",
+              "start": 0,
+              "username": "Li09881223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067595079523725487",
+        "in_reply_to_user_id": "1380799999206776832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067569490506952777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li09881223 jio踏两只船，离！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380799999206776832",
+        "conversation_id": "2067458871879483558",
+        "created_at": "2026-06-18T11:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067569490506952777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067569490506952777",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067458871879483558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 甜咸都吃也要离嘛🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 88,
+          "like_count": 6938,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2177
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-10T08:29:21.000Z",
+        "description": "事物发展是前进性与曲折性的统一",
+        "id": "1380799999206776832",
+        "location": "New York, USA",
+        "name": "Lance",
+        "pinned_tweet_id": "2064996488535773573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059892866663817216/Y40n8F8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 113,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "Li09881223",
+        "verified": true
+      }
+    ]
+  }
+}

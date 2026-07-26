@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2044377837495554145",
+    "created_at": "2026-04-16T14:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044788050652487724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724409082558484480",
+          "start": 0,
+          "username": "Azhiiio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044788050652487724",
+    "in_reply_to_user_id": "1724409082558484480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044787829776200087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azhiiio 不可以讨厌香菜！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044787820783644672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCLsHLasAAM2mx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2044377837495554145",
+        "created_at": "2026-04-16T14:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044788050652487724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724409082558484480",
+              "start": 0,
+              "username": "Azhiiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044788050652487724",
+        "in_reply_to_user_id": "1724409082558484480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044787829776200087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azhiiio 不可以讨厌香菜！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044787820783644672"
+          ]
+        },
+        "author_id": "1724409082558484480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044377837495554145",
+        "created_at": "2026-04-16T14:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044787829776200087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Ym6Xw9WS1",
+              "end": 41,
+              "expanded_url": "https://x.com/Azhiiio/status/2044787829776200087/photo/1",
+              "media_key": "3_2044787820783644672",
+              "start": 18,
+              "url": "https://t.co/3Ym6Xw9WS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044787829776200087",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044377837495554145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我也放！！ https://t.co/3Ym6Xw9WS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/猫叫楚点点/爱恨随意/亲疏随缘/间歇性人格分裂/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 51,
+          "like_count": 1845,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 332
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T12:49:11.000Z",
+        "description": "Beijing ｜ 04 INFJ- A ｜碎碎念话多大王 ｜bdsm偏好｜脾气不好 爱多想 柠檬精 私信请带脑子｜",
+        "id": "1724409082558484480",
+        "name": "讨厌香菜",
+        "pinned_tweet_id": "1810051994650099914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892005182881792/hG9bYKQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 78,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 69
+        },
+        "username": "Azhiiio",
+        "verified": false
+      }
+    ]
+  }
+}

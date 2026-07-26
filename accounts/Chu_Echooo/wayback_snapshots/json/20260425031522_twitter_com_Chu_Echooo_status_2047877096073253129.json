@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047856780823437334",
+    "created_at": "2026-04-25T03:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047877096073253129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028846216944242688",
+          "start": 0,
+          "username": "YingZaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047877096073253129",
+    "in_reply_to_user_id": "2028846216944242688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047859904128688509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisama 哎呦，有点甜有点甜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047856780823437334",
+        "created_at": "2026-04-25T03:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047877096073253129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028846216944242688",
+              "start": 0,
+              "username": "YingZaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047877096073253129",
+        "in_reply_to_user_id": "2028846216944242688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047859904128688509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisama 哎呦，有点甜有点甜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028846216944242688",
+        "conversation_id": "2047856780823437334",
+        "created_at": "2026-04-25T02:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047859904128688509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047859904128688509",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047856780823437334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 来啦～阿楚姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 61,
+          "like_count": 2697,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 457
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:53:45.000Z",
+        "description": "这里是鹰仔！06大学生一只～梦想是成为魔王大人，创造一个大家，每个人都能开开心心的乌托邦世界！⚠️我是阴暗死宅（重度二次元）⚠️不键政❌不聊黄❌也不喜欢黄色内容❌（自己的身体是给所爱的人看的，而不是陌生人.） 我只是一只猫头鹰，也只是一只猫头鹰. 「中二病严重患者」⚠️❌ 坚定的纯爱主义者.⚠️照片高P线下查无此人",
+        "id": "2028846216944242688",
+        "location": "乌托邦",
+        "name": "死宅鷹仔大魔王",
+        "pinned_tweet_id": "2047293196787765555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031688080722366464/anQQX9Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 284,
+          "like_count": 2996,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1509
+        },
+        "username": "YingZaisama",
+        "verified": false
+      }
+    ]
+  }
+}

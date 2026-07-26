@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2036756416644653546",
+    "created_at": "2026-03-25T10:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036758740188454927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783919780833140738",
+          "start": 0,
+          "username": "RenPingSheng_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036758740188454927",
+    "in_reply_to_user_id": "1783919780833140738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036757794284802330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenPingSheng_27 滚呐北京仔听不得这些（哈气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2036756416644653546",
+        "created_at": "2026-03-25T10:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036758740188454927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783919780833140738",
+              "start": 0,
+              "username": "RenPingSheng_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036758740188454927",
+        "in_reply_to_user_id": "1783919780833140738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036757794284802330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenPingSheng_27 滚呐北京仔听不得这些（哈气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783919780833140738",
+        "conversation_id": "2036756416644653546",
+        "created_at": "2026-03-25T10:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036757794284802330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036757794284802330",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036757215756034337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 如果你知道红心芭乐十块钱两斤凤梨五块钱一盒菠萝蜜五块钱一盒的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 51,
+          "like_count": 1050,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 216
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T18:03:29.000Z",
+        "description": "abandon fantasy",
+        "id": "1783919780833140738",
+        "location": "永不再见",
+        "name": "栩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030877890104242177/6cYPvaE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 203,
+          "like_count": 22785,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 3401
+        },
+        "username": "RenPingSheng_27",
+        "verified": false
+      }
+    ]
+  }
+}

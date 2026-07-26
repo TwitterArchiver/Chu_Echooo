@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048257986267856896"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048257989086527624",
+    "created_at": "2026-04-26T04:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048257989086527624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XLxcP8KPED",
+          "end": 38,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2048257989086527624/photo/1",
+          "media_key": "3_2048257986267856896",
+          "start": 15,
+          "url": "https://t.co/XLxcP8KPED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048257989086527624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好了好了你睡吧，妈妈不玩你了 https://t.co/XLxcP8KPED"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048257986267856896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzfyU_aQAASaxt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048257986267856896"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048257989086527624",
+        "created_at": "2026-04-26T04:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048257989086527624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLxcP8KPED",
+              "end": 38,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2048257989086527624/photo/1",
+              "media_key": "3_2048257986267856896",
+              "start": 15,
+              "url": "https://t.co/XLxcP8KPED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048257989086527624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了好了你睡吧，妈妈不玩你了 https://t.co/XLxcP8KPED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 61,
+          "like_count": 2792,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 518
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

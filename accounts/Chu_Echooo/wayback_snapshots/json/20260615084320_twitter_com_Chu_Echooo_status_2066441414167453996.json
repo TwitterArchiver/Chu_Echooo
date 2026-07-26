@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066223057048400223",
+    "created_at": "2026-06-15T08:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066441414167453996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921008767036256258",
+          "start": 0,
+          "username": "JercyJ43187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066441414167453996",
+    "in_reply_to_user_id": "1921008767036256258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066223057048400223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JercyJ43187 妈，，妈咪？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2066223053726433280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyy64gWQAAXTOM.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066223057048400223",
+        "created_at": "2026-06-15T08:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066441414167453996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921008767036256258",
+              "start": 0,
+              "username": "JercyJ43187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066441414167453996",
+        "in_reply_to_user_id": "1921008767036256258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066223057048400223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JercyJ43187 妈，，妈咪？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066223053726433280"
+          ]
+        },
+        "author_id": "1921008767036256258",
+        "conversation_id": "2066223057048400223",
+        "created_at": "2026-06-14T18:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066223057048400223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1878762574327824384",
+              "start": 22,
+              "username": "JihaiLin354002"
+            },
+            {
+              "end": 54,
+              "id": "1912840253624520704",
+              "start": 38,
+              "username": "wobujiaowei7777"
+            },
+            {
+              "end": 73,
+              "id": "1974479531290591232",
+              "start": 61,
+              "username": "justaywithz"
+            },
+            {
+              "end": 91,
+              "id": "2033228136180219904",
+              "start": 80,
+              "username": "Chu_Echooo"
+            },
+            {
+              "end": 101,
+              "id": "1722552486245048321",
+              "start": 92,
+              "username": "xuanzzcc"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 129,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "start": 106,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/6EqhigXvML"
+            },
+            {
+              "display_url": "pic.x.com/w8Svhif8eH",
+              "end": 153,
+              "expanded_url": "https://x.com/JercyJ43187/status/2066223057048400223/photo/1",
+              "media_key": "3_2066223053726433280",
+              "start": 130,
+              "url": "https://t.co/w8Svhif8eH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066223057048400223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 780,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @JihaiLin354002 @wobujiaowei7777\n👰 配偶: @justaywithz\n👶 孩子: @Chu_Echooo @xuanzzcc\n\n➡️ https://t.co/6EqhigXvML https://t.co/w8Svhif8eH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 87,
+          "like_count": 6520,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1963
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T01:06:08.000Z",
+        "description": "les｜有时候不是互关但确实很想评论，如果冒犯了真的不好意思😥",
+        "id": "1921008767036256258",
+        "name": "Jercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987737816546398209/i3pOCHRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 469,
+          "like_count": 5361,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 823
+        },
+        "username": "JercyJ43187",
+        "verified": false
+      }
+    ]
+  }
+}

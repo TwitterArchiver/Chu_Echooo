@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054222654828376445",
+    "created_at": "2026-05-12T15:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054226452816802284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733454160702611456",
+          "start": 0,
+          "username": "pray_tree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054226452816802284",
+    "in_reply_to_user_id": "1733454160702611456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054226129821806924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pray_tree 笨蛋，我说的是推推通知页面，不是手机的系统通知！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054222654828376445",
+        "created_at": "2026-05-12T15:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054226452816802284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733454160702611456",
+              "start": 0,
+              "username": "pray_tree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054226452816802284",
+        "in_reply_to_user_id": "1733454160702611456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054226129821806924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pray_tree 笨蛋，我说的是推推通知页面，不是手机的系统通知！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733454160702611456",
+        "conversation_id": "2054222654828376445",
+        "created_at": "2026-05-12T15:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054226129821806924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054226129821806924",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054222654828376445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 可以关的，不过我想让阿楚看到我的点赞，就不告诉你😈😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 88,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1062
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T11:51:06.000Z",
+        "description": "INFJ |喜欢新体验和新知识 | 观察人类 | 摘录 | 爱看碎碎念 | 也希望自己能一直保持一点创造力 | 考研中~",
+        "id": "1733454160702611456",
+        "name": "疏风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042257356348932096/JIOZG1km_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 361,
+          "like_count": 11951,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 438
+        },
+        "username": "pray_tree",
+        "verified": false
+      }
+    ]
+  }
+}

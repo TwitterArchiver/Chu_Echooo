@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054377673359802368"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054377676216098906",
+    "created_at": "2026-05-13T01:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054377676216098906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7rxbHc3rr3",
+          "end": 32,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2054377676216098906/photo/1",
+          "media_key": "3_2054377673359802368",
+          "start": 9,
+          "url": "https://t.co/7rxbHc3rr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054377676216098906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死给你看信不信。 https://t.co/7rxbHc3rr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 407,
+        "media_key": "3_2054377673359802368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKdm_8awAALaGD.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054377673359802368"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054377676216098906",
+        "created_at": "2026-05-13T01:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054377676216098906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rxbHc3rr3",
+              "end": 32,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2054377676216098906/photo/1",
+              "media_key": "3_2054377673359802368",
+              "start": 9,
+              "url": "https://t.co/7rxbHc3rr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054377676216098906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死给你看信不信。 https://t.co/7rxbHc3rr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 82,
+          "like_count": 4313,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1068
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

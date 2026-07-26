@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047619933060895167",
+    "created_at": "2026-04-24T10:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047621893122117807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1598983658206945280",
+          "start": 0,
+          "username": "ganjiuchawuduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047621893122117807",
+    "in_reply_to_user_id": "1598983658206945280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047619933060895167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganjiuchawuduo 我现在在路上还能看见穿轻羽绒的，而我一个月前都已经开始穿抹胸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047619933060895167",
+        "created_at": "2026-04-24T10:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047621893122117807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1598983658206945280",
+              "start": 0,
+              "username": "ganjiuchawuduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047621893122117807",
+        "in_reply_to_user_id": "1598983658206945280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047619933060895167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganjiuchawuduo 我现在在路上还能看见穿轻羽绒的，而我一个月前都已经开始穿抹胸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598983658206945280",
+        "conversation_id": "2047619933060895167",
+        "created_at": "2026-04-24T10:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047619933060895167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047619933060895167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙄怎么下雨还冷到要穿长袖了呢，这也不是秋天啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 61,
+          "like_count": 2647,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 438
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T10:13:17.000Z",
+        "description": "感受更多的终会被逐渐忘却，但也会想起往昔的痕迹的",
+        "id": "1598983658206945280",
+        "location": "山卡拉",
+        "name": "看到我就去喝杯水好吗",
+        "pinned_tweet_id": "2044049607169323111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004366356872155138/cVxb7fKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 441,
+          "like_count": 23168,
+          "listed_count": 0,
+          "media_count": 770,
+          "tweet_count": 5178
+        },
+        "username": "ganjiuchawuduo",
+        "verified": false
+      }
+    ]
+  }
+}

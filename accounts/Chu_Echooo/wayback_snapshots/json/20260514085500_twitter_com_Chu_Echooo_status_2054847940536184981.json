@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054594450018771263",
+    "created_at": "2026-05-14T08:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054847940536184981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1771433925635874816",
+          "start": 0,
+          "username": "cxl331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054847940536184981",
+    "in_reply_to_user_id": "1771433925635874816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054594450018771263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxl331 第一个是我，你个笨蛋，分手叭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 229267,
+        "height": 854,
+        "media_key": "13_2054594298805731328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054594298805731328/img/3J1Bb6JhGlOcU-d8.jpg",
+        "public_metrics": {
+          "view_count": 1013
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054594298805731328/vid/avc1/320x568/Y0odj6UcEgSOgbQs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054594298805731328/vid/avc1/480x854/SaT80YOmL0yYV3iB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054594298805731328/pl/ka-ZH4rImobcqTBt.m3u8?v=663"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054594450018771263",
+        "created_at": "2026-05-14T08:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054847940536184981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1771433925635874816",
+              "start": 0,
+              "username": "cxl331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054847940536184981",
+        "in_reply_to_user_id": "1771433925635874816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054594450018771263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxl331 第一个是我，你个笨蛋，分手叭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054594298805731328"
+          ]
+        },
+        "author_id": "1771433925635874816",
+        "conversation_id": "2054594450018771263",
+        "created_at": "2026-05-13T16:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054594450018771263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kgr0YyB1Ki",
+              "end": 59,
+              "expanded_url": "https://x.com/cxl331/status/2054594450018771263/video/1",
+              "media_key": "13_2054594298805731328",
+              "start": 36,
+              "url": "https://t.co/Kgr0YyB1Ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054594450018771263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3003,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私密马赛啊 声音可能有点小 \n在宿舍不方便大声\n感谢大家来找我玩！！！ https://t.co/Kgr0YyB1Ki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 86,
+          "like_count": 4422,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1143
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T07:09:05.000Z",
+        "description": "白羊座｜Enfj｜喜欢女生｜喜欢善良的人！｜我是心理委员！请狠狠的给我发私信🙇我会认真回复的～｜谁陪我打永劫无间，俺是市标季莹莹大王🤤🤤🤤｜一百零八线配音演员",
+        "id": "1771433925635874816",
+        "location": "成都",
+        "name": "Spoil",
+        "pinned_tweet_id": "1905458608466526238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046520677700939776/ZskkopLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 723,
+          "like_count": 5099,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 960
+        },
+        "username": "cxl331",
+        "verified": false
+      }
+    ]
+  }
+}

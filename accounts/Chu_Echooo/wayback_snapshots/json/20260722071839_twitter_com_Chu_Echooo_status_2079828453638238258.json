@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2079823706839195656",
+    "created_at": "2026-07-22T07:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079828453638238258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744053807602958336",
+          "start": 0,
+          "username": "Li1ntear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079828453638238258",
+    "in_reply_to_user_id": "1744053807602958336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079823706839195656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li1ntear 我直接在手上抹牙膏就是说（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079823685079240704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0En0iXkAA6mUN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2079823706839195656",
+        "created_at": "2026-07-22T07:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079828453638238258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744053807602958336",
+              "start": 0,
+              "username": "Li1ntear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079828453638238258",
+        "in_reply_to_user_id": "1744053807602958336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079823706839195656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li1ntear 我直接在手上抹牙膏就是说（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079823685079240704"
+          ]
+        },
+        "author_id": "1744053807602958336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2079823706839195656",
+        "created_at": "2026-07-22T06:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079823706839195656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9fu8aYoKc",
+              "end": 79,
+              "expanded_url": "https://x.com/Li1ntear/status/2079823706839195656/photo/1",
+              "media_key": "3_2079823685079240704",
+              "start": 56,
+              "url": "https://t.co/N9fu8aYoKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079823706839195656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被xhs和wb连着种草了同一款香水，薄荷味的话我真的要买个小样试试了。\n上一次买香水还是两年前，好古早的记忆。 https://t.co/N9fu8aYoKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 101,
+          "like_count": 8190,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 3055
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T17:50:25.000Z",
+        "description": "我的世界除了你没人我想联络 https://t.co/eOV17J1rh9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lllightyear",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lllightyear",
+                "start": 14,
+                "url": "https://t.co/eOV17J1rh9"
+              }
+            ]
+          }
+        },
+        "id": "1744053807602958336",
+        "location": "天堂",
+        "name": "川郁砂澪_",
+        "pinned_tweet_id": "2055997051423342725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042153816855121920/jBKQz34x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 54,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "Li1ntear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048359118340292853",
+    "created_at": "2026-04-27T02:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048590350600810766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887403868667191296",
+          "start": 0,
+          "username": "CaiWangzaici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048590350600810766",
+    "in_reply_to_user_id": "1887403868667191296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048589567368868286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaiWangzaici 38？来人，护驾，有刺客！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2048589563845586944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4NWruWsAAQt6v.jpg",
+        "width": 1704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048359118340292853",
+        "created_at": "2026-04-27T02:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048590350600810766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887403868667191296",
+              "start": 0,
+              "username": "CaiWangzaici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048590350600810766",
+        "in_reply_to_user_id": "1887403868667191296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048589567368868286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaiWangzaici 38？来人，护驾，有刺客！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048589563845586944"
+          ]
+        },
+        "author_id": "1887403868667191296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048359118340292853",
+        "created_at": "2026-04-27T02:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048589567368868286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUGQTOwGZ0",
+              "end": 54,
+              "expanded_url": "https://x.com/CaiWangzaici/status/2048589567368868286/photo/1",
+              "media_key": "3_2048589563845586944",
+              "start": 31,
+              "url": "https://t.co/oUGQTOwGZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048589567368868286",
+        "in_reply_to_user_id": "1887403868667191296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048588398709940374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 给你分享我最近吃的斥巨资38元麻辣烫 https://t.co/oUGQTOwGZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 64,
+          "like_count": 2867,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 579
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T07:32:15.000Z",
+        "description": "",
+        "id": "1887403868667191296",
+        "name": "GerogeYang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038928777422770176/UUav2gbA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 44,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "CaiWangzaici",
+        "verified": false
+      }
+    ]
+  }
+}

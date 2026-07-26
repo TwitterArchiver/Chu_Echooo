@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034835241563803669",
+    "created_at": "2026-03-20T03:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T04:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034836457706381587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900094261087133698",
+          "start": 0,
+          "username": "aichijichidouya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034836457706381587",
+    "in_reply_to_user_id": "1900094261087133698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034835241563803669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aichijichidouya 深有体会，海边长大的孩子到内陆就是会干到发涩，更别说是大西北，尤其是春秋两季，如果不勤护着点，搓脸都掉渣…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034835241563803669",
+        "created_at": "2026-03-20T03:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034836457706381587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900094261087133698",
+              "start": 0,
+              "username": "aichijichidouya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034836457706381587",
+        "in_reply_to_user_id": "1900094261087133698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034835241563803669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aichijichidouya 深有体会，海边长大的孩子到内陆就是会干到发涩，更别说是大西北，尤其是春秋两季，如果不勤护着点，搓脸都掉渣…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900094261087133698",
+        "conversation_id": "2034835241563803669",
+        "created_at": "2026-03-20T03:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034835241563803669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034835241563803669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在大西北每天脸涂护肤品都干得刺痛，早晚水乳+脸油+面霜，全身要涂身体乳，嘴巴要涂润唇膏，鼻孔要涂白凡士林（醒来依旧鼻子上额疼得不行），手上一直补涂护手霜皮还是絮絮地出来，虎口更是干到发硬。\n回广州两天全身啥毛病都好了🙏\n果然一方水土养一方人，西北的水土把我养死了🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好。",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 40,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 105
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T07:59:21.000Z",
+        "description": "关注了我就不许嫌我吵/大概是只回关我喜欢的女孩子/私信只回互关",
+        "id": "1900094261087133698",
+        "name": "可乐鸡翅豆芽菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929057382908461056/ELdxFyBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 38,
+          "like_count": 5660,
+          "listed_count": 1,
+          "media_count": 1404,
+          "tweet_count": 4244
+        },
+        "username": "aichijichidouya",
+        "verified": false
+      }
+    ]
+  }
+}

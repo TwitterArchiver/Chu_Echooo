@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073372687804809216"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073372691944685568",
+    "created_at": "2026-07-04T11:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073372691944685568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ViaPG2m4At",
+          "end": 40,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2073372691944685568/photo/1",
+          "media_key": "3_2073372687804809216",
+          "start": 17,
+          "url": "https://t.co/ViaPG2m4At"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073372691944685568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天太放纵了呜呜呜\n明天绝食一天 https://t.co/ViaPG2m4At"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_2073372687804809216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYZeW-aQAAe84-.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073372687804809216"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073372691944685568",
+        "created_at": "2026-07-04T11:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073372691944685568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViaPG2m4At",
+              "end": 40,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2073372691944685568/photo/1",
+              "media_key": "3_2073372687804809216",
+              "start": 17,
+              "url": "https://t.co/ViaPG2m4At"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073372691944685568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天太放纵了呜呜呜\n明天绝食一天 https://t.co/ViaPG2m4At"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 99,
+          "like_count": 7772,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 2717
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063299473653027221",
+    "created_at": "2026-06-06T18:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063330946477330922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929464299115679745",
+          "start": 0,
+          "username": "Devastated1726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063330946477330922",
+    "in_reply_to_user_id": "1929464299115679745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063299473653027221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devastated1726 又勾引我！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12004,
+        "height": 1280,
+        "media_key": "7_2063299415608061952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063299415608061952/pu/img/KjDMedPWHYfCTtyt.jpg",
+        "public_metrics": {
+          "view_count": 202
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063299415608061952/pu/vid/avc1/320x568/K5wkkAQBNVZMfbpq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063299415608061952/pu/vid/avc1/480x852/dCy8JXjkfcF2WbJj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063299415608061952/pu/vid/avc1/720x1280/W33SqesL607i6-y5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063299415608061952/pu/pl/dKlwQGoV6ixNBMnp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063299473653027221",
+        "created_at": "2026-06-06T18:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063330946477330922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929464299115679745",
+              "start": 0,
+              "username": "Devastated1726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063330946477330922",
+        "in_reply_to_user_id": "1929464299115679745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063299473653027221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devastated1726 又勾引我！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063299415608061952"
+          ]
+        },
+        "author_id": "1929464299115679745",
+        "conversation_id": "2063299473653027221",
+        "created_at": "2026-06-06T16:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063299473653027221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2haGgqjzsY",
+              "end": 30,
+              "expanded_url": "https://x.com/Devastated1726/status/2063299473653027221/video/1",
+              "media_key": "7_2063299415608061952",
+              "start": 7,
+              "url": "https://t.co/2haGgqjzsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063299473653027221",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1014,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(￢_￢)。 https://t.co/2haGgqjzsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 87,
+          "like_count": 5660,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1598
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸。",
+        "id": "1929464299115679745",
+        "location": "蛋仔岛",
+        "name": "有空忧伤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057452165770162176/Qa_B0ZB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 141,
+          "like_count": 832,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 1543
+        },
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

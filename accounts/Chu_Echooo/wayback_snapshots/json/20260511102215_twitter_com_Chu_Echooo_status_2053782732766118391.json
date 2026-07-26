@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2053781934170628594",
+    "created_at": "2026-05-11T10:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053782732766118391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000953055077130258",
+          "start": 0,
+          "username": "JaffeSigne33462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053782732766118391",
+    "in_reply_to_user_id": "2000953055077130258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053781934170628594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JaffeSigne33462 Wow三三！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053781917749948416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB_xdWbMAA11tp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053781917246664704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB_xbebsAAo2X8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053781917259137024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB_xbhaAAAckeJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053781917745762304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB_xdVbUAAFFId.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2053781934170628594",
+        "created_at": "2026-05-11T10:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053782732766118391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000953055077130258",
+              "start": 0,
+              "username": "JaffeSigne33462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053782732766118391",
+        "in_reply_to_user_id": "2000953055077130258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053781934170628594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JaffeSigne33462 Wow三三！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053781917749948416",
+            "3_2053781917246664704",
+            "3_2053781917259137024",
+            "3_2053781917745762304"
+          ]
+        },
+        "author_id": "2000953055077130258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053781934170628594",
+        "created_at": "2026-05-11T10:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053781934170628594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GK5rxX4Vg8",
+              "end": 42,
+              "expanded_url": "https://x.com/JaffeSigne33462/status/2053781934170628594/photo/1",
+              "media_key": "3_2053781917749948416",
+              "start": 19,
+              "url": "https://t.co/GK5rxX4Vg8"
+            },
+            {
+              "display_url": "pic.x.com/GK5rxX4Vg8",
+              "end": 42,
+              "expanded_url": "https://x.com/JaffeSigne33462/status/2053781934170628594/photo/1",
+              "media_key": "3_2053781917246664704",
+              "start": 19,
+              "url": "https://t.co/GK5rxX4Vg8"
+            },
+            {
+              "display_url": "pic.x.com/GK5rxX4Vg8",
+              "end": 42,
+              "expanded_url": "https://x.com/JaffeSigne33462/status/2053781934170628594/photo/1",
+              "media_key": "3_2053781917259137024",
+              "start": 19,
+              "url": "https://t.co/GK5rxX4Vg8"
+            },
+            {
+              "display_url": "pic.x.com/GK5rxX4Vg8",
+              "end": 42,
+              "expanded_url": "https://x.com/JaffeSigne33462/status/2053781934170628594/photo/1",
+              "media_key": "3_2053781917745762304",
+              "start": 19,
+              "url": "https://t.co/GK5rxX4Vg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053781934170628594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“只要有想见的人，就不再是孤单一人” https://t.co/GK5rxX4Vg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 79,
+          "like_count": 4144,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 994
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T15:36:15.000Z",
+        "description": "",
+        "id": "2000953055077130258",
+        "location": "在你心里",
+        "name": "迷迭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044822752201428992/98pzbTZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 142,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 80
+        },
+        "username": "JaffeSigne33462",
+        "verified": false
+      }
+    ]
+  }
+}

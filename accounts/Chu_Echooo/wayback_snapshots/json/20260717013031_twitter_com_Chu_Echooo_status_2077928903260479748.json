@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2077928903260479748",
+    "created_at": "2026-07-17T01:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077928903260479748"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077928903260479748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要回一次烟台，上大学后就没回去过了\n要吃正宗的焖子和海肠捞饭\n顺路再去一次青岛吧\n去看一次海，一次不够，就多看几次\n要去杭州，再看一眼苏小小\n还要去厦门，一定要喝好多四果汤\n还想去漠河，想去大理，想去敦煌，想去张掖，想去大漠\n想去惠州，见她一面，想去长沙，跟她道歉\n我好贪心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2077928903260479748",
+        "created_at": "2026-07-17T01:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077928903260479748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077928903260479748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要回一次烟台，上大学后就没回去过了\n要吃正宗的焖子和海肠捞饭\n顺路再去一次青岛吧\n去看一次海，一次不够，就多看几次\n要去杭州，再看一眼苏小小\n还要去厦门，一定要喝好多四果汤\n还想去漠河，想去大理，想去敦煌，想去张掖，想去大漠\n想去惠州，见她一面，想去长沙，跟她道歉\n我好贪心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 100,
+          "like_count": 8150,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 2940
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

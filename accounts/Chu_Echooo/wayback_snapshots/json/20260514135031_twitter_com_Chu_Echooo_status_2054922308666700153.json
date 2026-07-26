@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054922300236120065",
+        "3_2054922304921255937"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054922308666700153",
+    "created_at": "2026-05-14T13:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054922308666700153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MHlA27w5rM",
+          "end": 39,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2054922308666700153/photo/1",
+          "media_key": "3_2054922300236120065",
+          "start": 16,
+          "url": "https://t.co/MHlA27w5rM"
+        },
+        {
+          "display_url": "pic.x.com/MHlA27w5rM",
+          "end": 39,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2054922308666700153/photo/1",
+          "media_key": "3_2054922304921255937",
+          "start": 16,
+          "url": "https://t.co/MHlA27w5rM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054922308666700153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点师傅正在专心研究风扇工作原理 https://t.co/MHlA27w5rM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2054922300236120065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISM8dKaQAEHsCS.jpg",
+        "width": 883
+      },
+      {
+        "height": 1495,
+        "media_key": "3_2054922304921255937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISM8unbwAEECrs.jpg",
+        "width": 2049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054922300236120065",
+            "3_2054922304921255937"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054922308666700153",
+        "created_at": "2026-05-14T13:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054922308666700153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MHlA27w5rM",
+              "end": 39,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2054922308666700153/photo/1",
+              "media_key": "3_2054922300236120065",
+              "start": 16,
+              "url": "https://t.co/MHlA27w5rM"
+            },
+            {
+              "display_url": "pic.x.com/MHlA27w5rM",
+              "end": 39,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2054922308666700153/photo/1",
+              "media_key": "3_2054922304921255937",
+              "start": 16,
+              "url": "https://t.co/MHlA27w5rM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054922308666700153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点师傅正在专心研究风扇工作原理 https://t.co/MHlA27w5rM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 86,
+          "like_count": 4438,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1150
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034890655999401984"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034890662576103480",
+    "created_at": "2026-03-20T07:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T08:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034890662576103480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ID9GEQdmG",
+          "end": 37,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2034890662576103480/photo/1",
+          "media_key": "3_2034890655999401984",
+          "start": 14,
+          "url": "https://t.co/9ID9GEQdmG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034890662576103480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好看你就亲我一口 Oᴗoಣ https://t.co/9ID9GEQdmG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1071,
+        "media_key": "3_2034890655999401984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1iRTObIAAKNSq.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034890655999401984"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034890662576103480",
+        "created_at": "2026-03-20T07:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034890662576103480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ID9GEQdmG",
+              "end": 37,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2034890662576103480/photo/1",
+              "media_key": "3_2034890655999401984",
+              "start": 14,
+              "url": "https://t.co/9ID9GEQdmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034890662576103480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好看你就亲我一口 Oᴗoಣ https://t.co/9ID9GEQdmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好。",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033397804320825809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 37,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 89
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

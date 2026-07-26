@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066701133062496315",
+    "created_at": "2026-06-16T04:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066741865924395305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066741865924395305",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066701133062496315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 抢我女人，我跟他不共戴天😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066701133062496315",
+        "created_at": "2026-06-16T04:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066741865924395305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066741865924395305",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066701133062496315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 抢我女人，我跟他不共戴天😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2066701133062496315",
+        "created_at": "2026-06-16T01:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066701133062496315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066701133062496315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2916,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天早上我正在吃着面包看视频，然后我男朋友突然就放着BGM走过来，一边走一边喊麦\n刀 怒斩雪翼雕\n山 豪迈冲云霄\n火 翻腾再燃烧\n我 吃口你面包\n然后就把我的面包咬了一大口，转身就走了，我当时都看傻了...这人怎么这么中二..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 87,
+          "like_count": 6624,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2017
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYIHJ7"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8997,
+          "following_count": 95,
+          "like_count": 9631,
+          "listed_count": 23,
+          "media_count": 230,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/MsaRlYIHJ7",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

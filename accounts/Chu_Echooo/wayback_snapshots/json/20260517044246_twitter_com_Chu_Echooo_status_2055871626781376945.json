@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055870595435565200",
+    "created_at": "2026-05-17T04:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055871626781376945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "194859435",
+          "start": 0,
+          "username": "stagerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055871626781376945",
+    "in_reply_to_user_id": "194859435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055870595435565200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stagerain 看给孩子饿的，都瘦成煤气罐罐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055870564007641088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfrYq_bgAA3C3M.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2055870564028628993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfrYrEbwAEj74q.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055870595435565200",
+        "created_at": "2026-05-17T04:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055871626781376945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "194859435",
+              "start": 0,
+              "username": "stagerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055871626781376945",
+        "in_reply_to_user_id": "194859435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055870595435565200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stagerain 看给孩子饿的，都瘦成煤气罐罐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055870564007641088",
+            "3_2055870564028628993"
+          ]
+        },
+        "author_id": "194859435",
+        "conversation_id": "2055870595435565200",
+        "created_at": "2026-05-17T04:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055870595435565200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JfOT4l1t8M",
+              "end": 38,
+              "expanded_url": "https://x.com/stagerain/status/2055870595435565200/photo/1",
+              "media_key": "3_2055870564007641088",
+              "start": 15,
+              "url": "https://t.co/JfOT4l1t8M"
+            },
+            {
+              "display_url": "pic.x.com/JfOT4l1t8M",
+              "end": 38,
+              "expanded_url": "https://x.com/stagerain/status/2055870595435565200/photo/1",
+              "media_key": "3_2055870564028628993",
+              "start": 15,
+              "url": "https://t.co/JfOT4l1t8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055870595435565200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "减肥他吃不饱就这样天天狂撒娇 https://t.co/JfOT4l1t8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 83,
+          "like_count": 4706,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1246
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T04:34:24.000Z",
+        "description": "Love you more than can I say",
+        "id": "194859435",
+        "name": "能量🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041166292632342528/MSIh_1zP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 46,
+          "like_count": 4811,
+          "listed_count": 1,
+          "media_count": 569,
+          "tweet_count": 1418
+        },
+        "username": "stagerain",
+        "verified": false
+      }
+    ]
+  }
+}

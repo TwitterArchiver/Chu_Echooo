@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063126248914886656"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063126251515302123",
+    "created_at": "2026-06-06T05:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063126251515302123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dEQXZAppm7",
+          "end": 34,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2063126251515302123/photo/1",
+          "media_key": "3_2063126248914886656",
+          "start": 11,
+          "url": "https://t.co/dEQXZAppm7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063126251515302123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "楚点点也自愿放弃高考 https://t.co/dEQXZAppm7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_2063126248914886656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGyZHlbIAA5rsN.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063126248914886656"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063126251515302123",
+        "created_at": "2026-06-06T05:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063126251515302123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEQXZAppm7",
+              "end": 34,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2063126251515302123/photo/1",
+              "media_key": "3_2063126248914886656",
+              "start": 11,
+              "url": "https://t.co/dEQXZAppm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063126251515302123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "楚点点也自愿放弃高考 https://t.co/dEQXZAppm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 87,
+          "like_count": 5584,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1566
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

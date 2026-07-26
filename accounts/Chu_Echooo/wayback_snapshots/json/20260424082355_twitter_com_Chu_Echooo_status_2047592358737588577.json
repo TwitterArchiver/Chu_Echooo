@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2045206524084244704",
+    "created_at": "2026-04-24T08:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047592358737588577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644985773488320512",
+          "start": 0,
+          "username": "HLay127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047592358737588577",
+    "in_reply_to_user_id": "1644985773488320512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045206524084244704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLay127 男同快来，这里有猎物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045206519848013824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIIfmvakAA-xFf.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045206520368181248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIIforbsAAQZ1-.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045206520053522432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIIfngaYAAQ1--.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2045206520795983872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIIfqRbcAAeaXo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2045206524084244704",
+        "created_at": "2026-04-24T08:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047592358737588577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644985773488320512",
+              "start": 0,
+              "username": "HLay127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047592358737588577",
+        "in_reply_to_user_id": "1644985773488320512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045206524084244704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLay127 男同快来，这里有猎物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045206519848013824",
+            "3_2045206520368181248",
+            "3_2045206520053522432",
+            "3_2045206520795983872"
+          ]
+        },
+        "author_id": "1644985773488320512",
+        "conversation_id": "2045206524084244704",
+        "created_at": "2026-04-17T18:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045206524084244704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGAy41wFPP",
+              "end": 172,
+              "expanded_url": "https://x.com/HLay127/status/2045206524084244704/photo/1",
+              "media_key": "3_2045206519848013824",
+              "start": 149,
+              "url": "https://t.co/FGAy41wFPP"
+            },
+            {
+              "display_url": "pic.x.com/FGAy41wFPP",
+              "end": 172,
+              "expanded_url": "https://x.com/HLay127/status/2045206524084244704/photo/1",
+              "media_key": "3_2045206520368181248",
+              "start": 149,
+              "url": "https://t.co/FGAy41wFPP"
+            },
+            {
+              "display_url": "pic.x.com/FGAy41wFPP",
+              "end": 172,
+              "expanded_url": "https://x.com/HLay127/status/2045206524084244704/photo/1",
+              "media_key": "3_2045206520053522432",
+              "start": 149,
+              "url": "https://t.co/FGAy41wFPP"
+            },
+            {
+              "display_url": "pic.x.com/FGAy41wFPP",
+              "end": 172,
+              "expanded_url": "https://x.com/HLay127/status/2045206524084244704/photo/1",
+              "media_key": "3_2045206520795983872",
+              "start": 149,
+              "url": "https://t.co/FGAy41wFPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045206524084244704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 616,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "持续用爱发电中⚡ 在我接触到咖啡圈里的朋友们都愿意教我 互相share🫘 不论是在手冲 拉花 烘豆 也都有所成长 热爱支撑我在这条路上走下去 但跟别人交流时不同的认知会让我质疑自己的专业度 就像朋友说的“以喝到为准 万一是好喝的呢”爱好者不一定比专业的差哈哈哈哈（上一条被男同盯上 但还是想发 ） https://t.co/FGAy41wFPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 61,
+          "like_count": 2339,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 412
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T08:49:15.000Z",
+        "description": "咖啡爱好者，不是在喝咖啡就是在喝咖啡的路上，我的好大儿叫咖啡豆是个虎斑美短白手套 我和我的儿子都是异性恋",
+        "id": "1644985773488320512",
+        "name": "浮笙",
+        "pinned_tweet_id": "2045206524084244704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039349599006277632/eavCWhy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 86,
+          "like_count": 28484,
+          "listed_count": 5,
+          "media_count": 1413,
+          "tweet_count": 11307
+        },
+        "username": "HLay127",
+        "verified": false
+      }
+    ]
+  }
+}

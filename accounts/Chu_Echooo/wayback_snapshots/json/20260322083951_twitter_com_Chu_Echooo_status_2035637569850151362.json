@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035637566050058240",
+        "3_2035637566087839744",
+        "3_2035637566213595136",
+        "3_2035637566763061248"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2035637569850151362",
+    "created_at": "2026-03-22T08:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035637569850151362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/feaTNyIQ8Q",
+          "end": 93,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2035637569850151362/photo/1",
+          "media_key": "3_2035637566050058240",
+          "start": 70,
+          "url": "https://t.co/feaTNyIQ8Q"
+        },
+        {
+          "display_url": "pic.x.com/feaTNyIQ8Q",
+          "end": 93,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2035637569850151362/photo/1",
+          "media_key": "3_2035637566087839744",
+          "start": 70,
+          "url": "https://t.co/feaTNyIQ8Q"
+        },
+        {
+          "display_url": "pic.x.com/feaTNyIQ8Q",
+          "end": 93,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2035637569850151362/photo/1",
+          "media_key": "3_2035637566213595136",
+          "start": 70,
+          "url": "https://t.co/feaTNyIQ8Q"
+        },
+        {
+          "display_url": "pic.x.com/feaTNyIQ8Q",
+          "end": 93,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2035637569850151362/photo/1",
+          "media_key": "3_2035637566763061248",
+          "start": 70,
+          "url": "https://t.co/feaTNyIQ8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035637569850151362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟曾经睡了我四年的女人回学校看了看，假装自己还是大学生，其实是羡慕的，看着路上来来往往或说或笑或打打闹闹的人，都是曾经的我们。\n天气真好。 https://t.co/feaTNyIQ8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1183,
+        "media_key": "3_2035637566050058240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAJlL_awAAmJdl.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2035637566087839744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAJlMIbQAAKocT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2035637566213595136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAJlMmaIAAehDP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2035637566763061248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAJlOpaUAAJHWM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035637566050058240",
+            "3_2035637566087839744",
+            "3_2035637566213595136",
+            "3_2035637566763061248"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2035637569850151362",
+        "created_at": "2026-03-22T08:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035637569850151362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/feaTNyIQ8Q",
+              "end": 93,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2035637569850151362/photo/1",
+              "media_key": "3_2035637566050058240",
+              "start": 70,
+              "url": "https://t.co/feaTNyIQ8Q"
+            },
+            {
+              "display_url": "pic.x.com/feaTNyIQ8Q",
+              "end": 93,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2035637569850151362/photo/1",
+              "media_key": "3_2035637566087839744",
+              "start": 70,
+              "url": "https://t.co/feaTNyIQ8Q"
+            },
+            {
+              "display_url": "pic.x.com/feaTNyIQ8Q",
+              "end": 93,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2035637569850151362/photo/1",
+              "media_key": "3_2035637566213595136",
+              "start": 70,
+              "url": "https://t.co/feaTNyIQ8Q"
+            },
+            {
+              "display_url": "pic.x.com/feaTNyIQ8Q",
+              "end": 93,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2035637569850151362/photo/1",
+              "media_key": "3_2035637566763061248",
+              "start": 70,
+              "url": "https://t.co/feaTNyIQ8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035637569850151362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟曾经睡了我四年的女人回学校看了看，假装自己还是大学生，其实是羡慕的，看着路上来来往往或说或笑或打打闹闹的人，都是曾经的我们。\n天气真好。 https://t.co/feaTNyIQ8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/骨科/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 34,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 146
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

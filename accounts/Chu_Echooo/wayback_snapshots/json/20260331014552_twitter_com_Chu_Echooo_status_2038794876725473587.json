@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038794873948835840"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2038794876725473587",
+    "created_at": "2026-03-31T01:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038794876725473587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lm2tKkt6vu",
+          "end": 107,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2038794876725473587/photo/1",
+          "media_key": "3_2038794873948835840",
+          "start": 84,
+          "url": "https://t.co/Lm2tKkt6vu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038794876725473587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孤星照命。\n命宫主七杀，气虚眉枯，终其一生，坎坷命薄。\n父母宫主破军，日月偏斜，至亲缘薄，刑克父母，皆难善终。\n夫妻宫主贪狼，泪堂卧陷，至爱无果，死于非命，当绝嗣也。 https://t.co/Lm2tKkt6vu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2038794873948835840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtBIsebkAA4LeV.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038794873948835840"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2038794876725473587",
+        "created_at": "2026-03-31T01:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038794876725473587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lm2tKkt6vu",
+              "end": 107,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2038794876725473587/photo/1",
+              "media_key": "3_2038794873948835840",
+              "start": 84,
+              "url": "https://t.co/Lm2tKkt6vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038794876725473587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孤星照命。\n命宫主七杀，气虚眉枯，终其一生，坎坷命薄。\n父母宫主破军，日月偏斜，至亲缘薄，刑克父母，皆难善终。\n夫妻宫主贪狼，泪堂卧陷，至爱无果，死于非命，当绝嗣也。 https://t.co/Lm2tKkt6vu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋/嫌我话多可以随意单取！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 40,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 294
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

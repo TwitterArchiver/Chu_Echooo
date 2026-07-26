@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2070065561426673916",
+    "created_at": "2026-06-25T13:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070135324601413633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061471722034069504",
+          "start": 0,
+          "username": "TPTC0815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070135324601413633",
+    "in_reply_to_user_id": "2061471722034069504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070068512379527646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPTC0815 那些杀不死你的，终将追着你一直杀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2070065561426673916",
+        "created_at": "2026-06-25T13:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070135324601413633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061471722034069504",
+              "start": 0,
+              "username": "TPTC0815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070135324601413633",
+        "in_reply_to_user_id": "2061471722034069504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070068512379527646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPTC0815 那些杀不死你的，终将追着你一直杀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061471722034069504",
+        "conversation_id": "2070065561426673916",
+        "created_at": "2026-06-25T08:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070068512379527646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070068512379527646",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070065561426673916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好熟悉的回忆……他在信号在追着我杀，在推特也没放过我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 96,
+          "like_count": 7500,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 2404
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T15:36:08.000Z",
+        "description": "迷迭",
+        "id": "2061471722034069504",
+        "location": "在你心里",
+        "name": "迷迭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061473291920105472/sarRI8Sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 142,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "TPTC0815",
+        "verified": false
+      }
+    ]
+  }
+}

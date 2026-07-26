@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063231059152830586",
+    "created_at": "2026-06-06T12:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063232787679985689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "194859435",
+          "start": 0,
+          "username": "stagerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063232787679985689",
+    "in_reply_to_user_id": "194859435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063231059152830586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stagerain 这个好看~！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2063231040983117824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIRs0dbsAA8kav.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063231059152830586",
+        "created_at": "2026-06-06T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063232787679985689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "194859435",
+              "start": 0,
+              "username": "stagerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063232787679985689",
+        "in_reply_to_user_id": "194859435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063231059152830586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stagerain 这个好看~！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063231040983117824"
+          ]
+        },
+        "author_id": "194859435",
+        "conversation_id": "2063231059152830586",
+        "created_at": "2026-06-06T12:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063231059152830586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOkbjD5CwO",
+              "end": 29,
+              "expanded_url": "https://x.com/stagerain/status/2063231059152830586/photo/1",
+              "media_key": "3_2063231040983117824",
+              "start": 6,
+              "url": "https://t.co/QOkbjD5CwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063231059152830586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是阿加莎 https://t.co/QOkbjD5CwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 87,
+          "like_count": 5614,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1572
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T04:34:24.000Z",
+        "description": "Love u more than can I say",
+        "id": "194859435",
+        "name": "能量🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059505660262494208/NdJfx0xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 51,
+          "like_count": 6397,
+          "listed_count": 1,
+          "media_count": 736,
+          "tweet_count": 1971
+        },
+        "username": "stagerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047621684849791342",
+    "created_at": "2026-04-24T10:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047622344764719188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1549341822933094400",
+          "start": 0,
+          "username": "yeyemeiyouman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047622344764719188",
+    "in_reply_to_user_id": "1549341822933094400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047621684849791342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyemeiyouman 吃什么？一个人吃吗？吃完要做什么？吃完会想我吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047621684849791342",
+        "created_at": "2026-04-24T10:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047622344764719188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1549341822933094400",
+              "start": 0,
+              "username": "yeyemeiyouman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047622344764719188",
+        "in_reply_to_user_id": "1549341822933094400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047621684849791342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyemeiyouman 吃什么？一个人吃吗？吃完要做什么？吃完会想我吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549341822933094400",
+        "conversation_id": "2047621684849791342",
+        "created_at": "2026-04-24T10:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047621684849791342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047621684849791342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃饭去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 61,
+          "like_count": 2647,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 439
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T10:34:24.000Z",
+        "description": "泥嚎*\\(๑• ₃ •๑）可以叫我小咪  \n06  switch 女的  全部都是口嗨 不约   \n等待幸福降临中",
+        "id": "1549341822933094400",
+        "name": "一只猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036674129613791232/b5iSD28Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 101,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 300
+        },
+        "username": "yeyemeiyouman",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2035370893816598986",
+    "created_at": "2026-03-21T16:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T17:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035400408533983482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1620135489746669572",
+          "start": 0,
+          "username": "yiaoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035400408533983482",
+    "in_reply_to_user_id": "1620135489746669572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035395835526262818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiaoer 喜欢你，会一直喜欢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2035370893816598986",
+        "created_at": "2026-03-21T16:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T17:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035400408533983482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1620135489746669572",
+              "start": 0,
+              "username": "yiaoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035400408533983482",
+        "in_reply_to_user_id": "1620135489746669572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035395835526262818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiaoer 喜欢你，会一直喜欢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620135489746669572",
+        "conversation_id": "2035370893816598986",
+        "created_at": "2026-03-21T16:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T17:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035395835526262818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035395835526262818",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035388419388670348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 那你喜欢我不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/骨科/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 133
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T19:03:09.000Z",
+        "description": "精神不正常且毫无逻辑的碎碎念日记",
+        "id": "1620135489746669572",
+        "name": "芒果茉莉奶绿",
+        "pinned_tweet_id": "2033441267330478153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032528822147624961/dXuC1ojR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1502
+        },
+        "username": "yiaoer",
+        "verified": false
+      }
+    ]
+  }
+}

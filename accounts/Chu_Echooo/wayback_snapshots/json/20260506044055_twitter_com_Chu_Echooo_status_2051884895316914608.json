@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051882539799945326",
+    "created_at": "2026-05-06T04:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051884895316914608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862727510720663552",
+          "start": 0,
+          "username": "aivCnjpgxg66595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051884895316914608",
+    "in_reply_to_user_id": "1862727510720663552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051882539799945326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aivCnjpgxg66595 我心水第三个，告诉她一声，蟹蟹。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2051882531944071168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnASp1bAAANniR.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051882539799945326",
+        "created_at": "2026-05-06T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051884895316914608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862727510720663552",
+              "start": 0,
+              "username": "aivCnjpgxg66595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051884895316914608",
+        "in_reply_to_user_id": "1862727510720663552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051882539799945326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aivCnjpgxg66595 我心水第三个，告诉她一声，蟹蟹。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051882531944071168"
+          ]
+        },
+        "author_id": "1862727510720663552",
+        "conversation_id": "2051882539799945326",
+        "created_at": "2026-05-06T04:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051882539799945326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFjVVx8ojo",
+              "end": 31,
+              "expanded_url": "https://x.com/aivCnjpgxg66595/status/2051882539799945326/photo/1",
+              "media_key": "3_2051882531944071168",
+              "start": 8,
+              "url": "https://t.co/zFjVVx8ojo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051882539799945326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三种不同的人… https://t.co/zFjVVx8ojo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 72,
+          "like_count": 3661,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 969
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:17:20.000Z",
+        "description": "",
+        "id": "1862727510720663552",
+        "name": "恰咪果",
+        "pinned_tweet_id": "2045188246330863773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050467713232015362/fs_1MBdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 118,
+          "like_count": 2023,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 651
+        },
+        "username": "aivCnjpgxg66595",
+        "verified": false
+      }
+    ]
+  }
+}

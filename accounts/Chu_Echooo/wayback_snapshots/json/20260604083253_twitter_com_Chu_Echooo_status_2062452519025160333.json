@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062451583125004704",
+    "created_at": "2026-06-04T08:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062452519025160333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053114193222479874",
+          "start": 0,
+          "username": "zip_zip0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062452519025160333",
+    "in_reply_to_user_id": "2053114193222479874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062451583125004704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zip_zip0101 真的有小笨蛋不会用指肚打字吗~！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062451583125004704",
+        "created_at": "2026-06-04T08:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062452519025160333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053114193222479874",
+              "start": 0,
+              "username": "zip_zip0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062452519025160333",
+        "in_reply_to_user_id": "2053114193222479874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062451583125004704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zip_zip0101 真的有小笨蛋不会用指肚打字吗~！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053114193222479874",
+        "conversation_id": "2062451583125004704",
+        "created_at": "2026-06-04T08:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062451583125004704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062451583125004704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太佩服做长美甲的女孩了，贴了个穿戴甲，我现在已经没有办法正常打字了，只能语音输入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 86,
+          "like_count": 5361,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1431
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:07:29.000Z",
+        "description": "",
+        "id": "2053114193222479874",
+        "name": "Cocoya",
+        "pinned_tweet_id": "2062149974671122548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053115257418059778/qd9shK9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 89,
+          "like_count": 4847,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 381
+        },
+        "username": "zip_zip0101",
+        "verified": false
+      }
+    ]
+  }
+}

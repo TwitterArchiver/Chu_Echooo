@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054583673534788010",
+    "created_at": "2026-05-14T00:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054722436621652421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048998232697835520",
+          "start": 0,
+          "username": "Yeyeye1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054722436621652421",
+    "in_reply_to_user_id": "2048998232697835520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054689239833641465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeyeye1102 你纯好色！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054583673534788010",
+        "created_at": "2026-05-14T00:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054722436621652421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048998232697835520",
+              "start": 0,
+              "username": "Yeyeye1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054722436621652421",
+        "in_reply_to_user_id": "2048998232697835520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054689239833641465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeyeye1102 你纯好色！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048998232697835520",
+        "conversation_id": "2054583673534788010",
+        "created_at": "2026-05-13T22:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T23:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054689239833641465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054689239833641465",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054583673534788010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我大抵也是病了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 84,
+          "like_count": 4386,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1130
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T05:31:20.000Z",
+        "description": "此男极度无聊，如果不介意可以随意私信",
+        "id": "2048998232697835520",
+        "name": "Yeyeye",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048998613385433088/GKXtrQEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 196
+        },
+        "username": "Yeyeye1102",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047923572807807472",
+    "created_at": "2026-04-25T06:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047933351588425828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771457845592203264",
+          "start": 0,
+          "username": "ezzz_467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047933351588425828",
+    "in_reply_to_user_id": "1771457845592203264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047923572807807472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezzz_467 你是一个情感很细腻的女孩子，很乖，有一点点小文艺，又带着一点小叛逆和小拧巴，像一朵带刺的小玫瑰~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047923572807807472",
+        "created_at": "2026-04-25T06:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047933351588425828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771457845592203264",
+              "start": 0,
+              "username": "ezzz_467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047933351588425828",
+        "in_reply_to_user_id": "1771457845592203264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047923572807807472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezzz_467 你是一个情感很细腻的女孩子，很乖，有一点点小文艺，又带着一点小叛逆和小拧巴，像一朵带刺的小玫瑰~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771457845592203264",
+        "conversation_id": "2047923572807807472",
+        "created_at": "2026-04-25T06:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047923572807807472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/real39715698/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/real39715698/status/2047698736827269286",
+              "start": 7,
+              "url": "https://t.co/LjFDU4rDXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047923572807807472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047698736827269286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢这个说法 https://t.co/LjFDU4rDXm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 61,
+          "like_count": 2714,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 470
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T08:44:10.000Z",
+        "description": "♀｜喜欢女孩｜https://t.co/BIb1aNixql",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/appreciate77325",
+                "end": 30,
+                "expanded_url": "https://ngl.link/appreciate77325",
+                "start": 7,
+                "url": "https://t.co/BIb1aNixql"
+              }
+            ]
+          }
+        },
+        "id": "1771457845592203264",
+        "name": "ExCusEmi",
+        "pinned_tweet_id": "2033963479766561029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037901494838800384/QAB5MWpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 99,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 443
+        },
+        "username": "ezzz_467",
+        "verified": false
+      }
+    ]
+  }
+}

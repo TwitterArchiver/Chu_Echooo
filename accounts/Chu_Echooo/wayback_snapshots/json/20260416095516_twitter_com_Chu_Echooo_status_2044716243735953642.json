@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2044715899949863013",
+    "created_at": "2026-04-16T09:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044716243735953642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708887650692894720",
+          "start": 0,
+          "username": "xxxjjjxxx_wow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044716243735953642",
+    "in_reply_to_user_id": "1708887650692894720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044715899949863013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxjjjxxx_wow 没有啊还是很萌之类的 懂了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2044715894199443456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBKRbxaYAA6yxL.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2044715899949863013",
+        "created_at": "2026-04-16T09:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044716243735953642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708887650692894720",
+              "start": 0,
+              "username": "xxxjjjxxx_wow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044716243735953642",
+        "in_reply_to_user_id": "1708887650692894720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044715899949863013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxjjjxxx_wow 没有啊还是很萌之类的 懂了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044715894199443456"
+          ]
+        },
+        "author_id": "1708887650692894720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044715899949863013",
+        "created_at": "2026-04-16T09:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044715899949863013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WsXJ5BItT",
+              "end": 66,
+              "expanded_url": "https://x.com/xxxjjjxxx_wow/status/2044715899949863013/photo/1",
+              "media_key": "3_2044715894199443456",
+              "start": 43,
+              "url": "https://t.co/5WsXJ5BItT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044715899949863013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我等下发张自拍 然后吐槽自己最近变丑了 你们就在底下评论没有啊还是很萌之类的 懂了吗 https://t.co/5WsXJ5BItT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/猫叫楚点点/爱恨随意/亲疏随缘/间歇性人格分裂/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 51,
+          "like_count": 1702,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 318
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:52:27.000Z",
+        "description": "我的秘密   找我玩https://t.co/YeZ0JhkqHy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xy16838",
+                "end": 33,
+                "expanded_url": "http://ngl.link/xy16838",
+                "start": 10,
+                "url": "https://t.co/YeZ0JhkqHy"
+              }
+            ]
+          }
+        },
+        "id": "1708887650692894720",
+        "location": "最遥远再远",
+        "name": "苦菜",
+        "pinned_tweet_id": "2014373290975142231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726318257815384064/1a7lhgP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 48,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 568
+        },
+        "username": "xxxjjjxxx_wow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:52:27.000Z",
+        "description": "我的秘密   找我玩https://t.co/YeZ0JhkqHy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xy16838",
+                "end": 33,
+                "expanded_url": "http://ngl.link/xy16838",
+                "start": 10,
+                "url": "https://t.co/YeZ0JhkqHy"
+              }
+            ]
+          }
+        },
+        "id": "1708887650692894720",
+        "location": "最遥远再远",
+        "name": "苦菜",
+        "pinned_tweet_id": "2014373290975142231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726318257815384064/1a7lhgP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 48,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "xxxjjjxxx_wow",
+        "verified": false
+      }
+    ]
+  }
+}

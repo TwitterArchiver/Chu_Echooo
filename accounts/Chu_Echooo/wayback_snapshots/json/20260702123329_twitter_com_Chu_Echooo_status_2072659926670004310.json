@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2072618275486503255",
+    "created_at": "2026-07-02T12:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072659926670004310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1796816279602659328",
+          "start": 0,
+          "username": "l_133z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072659926670004310",
+    "in_reply_to_user_id": "1796816279602659328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072644602402836494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l_133z 小猫咪可爱哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2072618275486503255",
+        "created_at": "2026-07-02T12:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072659926670004310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1796816279602659328",
+              "start": 0,
+              "username": "l_133z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072659926670004310",
+        "in_reply_to_user_id": "1796816279602659328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072644602402836494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l_133z 小猫咪可爱哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796816279602659328",
+        "conversation_id": "2072618275486503255",
+        "created_at": "2026-07-02T11:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072644602402836494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072644602402836494",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072618275486503255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 🙋‍♂️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 96,
+          "like_count": 7642,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 2669
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T08:09:28.000Z",
+        "description": "查无此人，新号被ban，又跑回来了😓（每天看着我的浏览量一个一个的加，我一点也不难过👁️👄👁️）",
+        "id": "1796816279602659328",
+        "location": "X上",
+        "name": "🈚",
+        "pinned_tweet_id": "2072179359411208258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053922189058179073/uDviV8ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 126,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "l_133z",
+        "verified": false
+      }
+    ]
+  }
+}

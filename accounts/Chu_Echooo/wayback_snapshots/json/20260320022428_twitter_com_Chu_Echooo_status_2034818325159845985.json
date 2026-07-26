@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034811172613206509",
+    "created_at": "2026-03-20T02:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T03:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034818325159845985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1698367217879191552",
+          "start": 0,
+          "username": "3ternaluv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034818325159845985",
+    "in_reply_to_user_id": "1698367217879191552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034811172613206509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ternaluv3 抱抱，我最近也水逆，大哭了一场，睡醒了就好多了~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034811172613206509",
+        "created_at": "2026-03-20T02:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034818325159845985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1698367217879191552",
+              "start": 0,
+              "username": "3ternaluv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034818325159845985",
+        "in_reply_to_user_id": "1698367217879191552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034811172613206509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ternaluv3 抱抱，我最近也水逆，大哭了一场，睡醒了就好多了~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698367217879191552",
+        "conversation_id": "2034811172613206509",
+        "created_at": "2026-03-20T01:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034811172613206509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3ternaluv3/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/3ternaluv3/status/2033399379835621607",
+              "start": 60,
+              "url": "https://t.co/HTZQ5T62TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034811172613206509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033399379835621607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天小脑袋瓜 又撞到车的尾门…\n本来好一点的了 现在二度伤害…\n疼得我… 嘶… 不能哭！憋着！呜…\n人开始冒星星了 💫 https://t.co/HTZQ5T62TP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 40,
+          "like_count": 867,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 103
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T16:08:00.000Z",
+        "description": "在努力做一颗温柔的星星 ✨",
+        "id": "1698367217879191552",
+        "location": "੯‧̀͡⬮\\🐾",
+        "name": "温柔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034547289688272896/v3sSZcmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 167,
+          "like_count": 23008,
+          "listed_count": 1,
+          "media_count": 894,
+          "tweet_count": 2793
+        },
+        "username": "3ternaluv3",
+        "verified": false
+      }
+    ]
+  }
+}

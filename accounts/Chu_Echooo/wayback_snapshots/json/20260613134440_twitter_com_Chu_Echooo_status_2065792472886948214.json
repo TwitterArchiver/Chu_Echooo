@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2065718001387893204",
+    "created_at": "2026-06-13T13:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065792472886948214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1917970896809304064",
+          "start": 0,
+          "username": "Amery1232133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065792472886948214",
+    "in_reply_to_user_id": "1917970896809304064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065770172196024708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amery1232133 笔芯🫰🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2065718001387893204",
+        "created_at": "2026-06-13T13:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065792472886948214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1917970896809304064",
+              "start": 0,
+              "username": "Amery1232133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065792472886948214",
+        "in_reply_to_user_id": "1917970896809304064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065770172196024708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amery1232133 笔芯🫰🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917970896809304064",
+        "conversation_id": "2065718001387893204",
+        "created_at": "2026-06-13T12:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065770172196024708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065770172196024708",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065718001387893204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好有感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 90,
+          "like_count": 6303,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1892
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T15:54:53.000Z",
+        "description": "175/50 天蝎♏️ 好色重欲且自恋 喜欢胡说八道 没有对象但也不打算在推上找对象 私信有时间都会看 很好相处 我是男的 不要找我看b jb也没有 不过门",
+        "id": "1917970896809304064",
+        "location": "北京",
+        "name": "万人迷鸭头",
+        "pinned_tweet_id": "2053597359175540889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043544382058745856/Cqo6vEJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 16,
+          "like_count": 1728,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1110
+        },
+        "username": "Amery1232133",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042041920395079684"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2042041926942335321",
+    "created_at": "2026-04-09T00:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042041926942335321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nkAXkP3B3S",
+          "end": 96,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2042041926942335321/photo/1",
+          "media_key": "3_2042041920395079684",
+          "start": 73,
+          "url": "https://t.co/nkAXkP3B3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042041926942335321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突如其来的一场雨\n慵懒的城市\n和急匆匆赶路的行人\n伞下的姑娘乖的紧\n小心翼翼绕过路上的大小水洼\n一个不小心\n溅了帆布鞋\n刘海被打湿\n碎成了小帽檐 https://t.co/nkAXkP3B3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2042041920395079684",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbKTrGa8AQ0-Y6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042041920395079684"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2042041926942335321",
+        "created_at": "2026-04-09T00:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042041926942335321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkAXkP3B3S",
+              "end": 96,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2042041926942335321/photo/1",
+              "media_key": "3_2042041920395079684",
+              "start": 73,
+              "url": "https://t.co/nkAXkP3B3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042041926942335321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突如其来的一场雨\n慵懒的城市\n和急匆匆赶路的行人\n伞下的姑娘乖的紧\n小心翼翼绕过路上的大小水洼\n一个不小心\n溅了帆布鞋\n刘海被打湿\n碎成了小帽檐 https://t.co/nkAXkP3B3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋/嫌我话多可以随意单取！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 40,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 284
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

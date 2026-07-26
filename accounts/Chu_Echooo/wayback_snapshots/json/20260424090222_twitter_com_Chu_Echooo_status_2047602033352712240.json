@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "1985344173449630075",
+    "created_at": "2026-04-24T09:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047602033352712240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1895407237524545536",
+          "start": 0,
+          "username": "haruqq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047602033352712240",
+    "in_reply_to_user_id": "1895407237524545536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985344173449630075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruqq_ 一张照片里怎么有两个小可爱啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1985344166088634369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41cABCbcAEHAMV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "1985344173449630075",
+        "created_at": "2026-04-24T09:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047602033352712240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1895407237524545536",
+              "start": 0,
+              "username": "haruqq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047602033352712240",
+        "in_reply_to_user_id": "1895407237524545536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985344173449630075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruqq_ 一张照片里怎么有两个小可爱啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985344166088634369"
+          ]
+        },
+        "author_id": "1895407237524545536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          }
+        ],
+        "conversation_id": "1985344173449630075",
+        "created_at": "2025-11-03T13:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985344173449630075"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 2,
+              "start": 0,
+              "tag": "猫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwUbThW1eX",
+              "end": 26,
+              "expanded_url": "https://x.com/haruqq_/status/1985344173449630075/photo/1",
+              "media_key": "3_1985344166088634369",
+              "start": 3,
+              "url": "https://t.co/EwUbThW1eX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985344173449630075",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#猫 https://t.co/EwUbThW1eX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 61,
+          "like_count": 2636,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 425
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T09:34:56.000Z",
+        "description": "可以叫我哈露/haru/🍐｜火雞面螺螄粉重度依賴。｜此帳號for碎碎唸｜不是🚪姐 暫時沒🚪",
+        "id": "1895407237524545536",
+        "location": "你心里",
+        "name": "梨涡钉",
+        "pinned_tweet_id": "1985344173449630075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033765442993664000/JZ-Hs1a6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 82,
+          "like_count": 3035,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 601
+        },
+        "username": "haruqq_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052313714465063258",
+    "created_at": "2026-05-07T09:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052319973507576164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026154754074972160",
+          "start": 0,
+          "username": "linx2desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052319973507576164",
+    "in_reply_to_user_id": "2026154754074972160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052313714465063258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linx2desu 我记得有个女人简介里说自己是直女来的，呵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052313714465063258",
+        "created_at": "2026-05-07T09:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052319973507576164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026154754074972160",
+              "start": 0,
+              "username": "linx2desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052319973507576164",
+        "in_reply_to_user_id": "2026154754074972160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052313714465063258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linx2desu 我记得有个女人简介里说自己是直女来的，呵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026154754074972160",
+        "conversation_id": "2052313714465063258",
+        "created_at": "2026-05-07T09:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052313714465063258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052313714465063258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kkkkk☺️给闺蜜买了个礼物，给她一个惊喜，好期待这个女人的反应但是很可惜异地，突然发现我每次出门旅游都是因为那个城市有她，我也不出门打卡，只是每天在她的出租屋里等她下班，尝试给她做饭，神奇的是每次我给她做饭就会味道很正常哎……唉，好想她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 74,
+          "like_count": 3791,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 951
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T04:38:45.000Z",
+        "description": "流水账并且话很密/重度爱猫女/希望你天天开心",
+        "id": "2026154754074972160",
+        "name": "不为菠萝emo",
+        "pinned_tweet_id": "2039992412882575817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047695922738745344/fjqofFEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 22,
+          "like_count": 3822,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 375
+        },
+        "username": "linx2desu",
+        "verified": false
+      }
+    ]
+  }
+}

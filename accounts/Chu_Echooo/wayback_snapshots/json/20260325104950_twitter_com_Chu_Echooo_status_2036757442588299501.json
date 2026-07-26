@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2036753214931079484",
+    "created_at": "2026-03-25T10:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036757442588299501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004977573332492288",
+          "start": 0,
+          "username": "gzi1068795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036757442588299501",
+    "in_reply_to_user_id": "2004977573332492288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036753214931079484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzi1068795 醒醒，你不是树懒，你是牛马（榔头敲醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2036753214931079484",
+        "created_at": "2026-03-25T10:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036757442588299501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004977573332492288",
+              "start": 0,
+              "username": "gzi1068795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036757442588299501",
+        "in_reply_to_user_id": "2004977573332492288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036753214931079484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzi1068795 醒醒，你不是树懒，你是牛马（榔头敲醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004977573332492288",
+        "conversation_id": "2036753214931079484",
+        "created_at": "2026-03-25T10:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036753214931079484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036753214931079484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不喜欢赶时间的工作，干什么我都拖拖拉拉的，不要催我了……为什么压力一个树懒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 51,
+          "like_count": 1050,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 215
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/我是女的，男的别来，我只和女孩子玩/来这是为了搞同人 / 绘画练习中/觉得不适随意屏蔽不用告知/自己开心最重要/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 312,
+          "like_count": 15607,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 7458
+        },
+        "username": "gzi1068795",
+        "verified": false
+      }
+    ]
+  }
+}

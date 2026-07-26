@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2071970000467013754",
+    "created_at": "2026-06-30T15:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071972326045008239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907430109747011584",
+          "start": 0,
+          "username": "meowww_ni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071972326045008239",
+    "in_reply_to_user_id": "1907430109747011584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071970000467013754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowww_ni 哈哈哈哈小笨蛋！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071969980921303040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEduEoWUAA0Nop.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2071970000467013754",
+        "created_at": "2026-06-30T15:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071972326045008239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907430109747011584",
+              "start": 0,
+              "username": "meowww_ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071972326045008239",
+        "in_reply_to_user_id": "1907430109747011584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071970000467013754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowww_ni 哈哈哈哈小笨蛋！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071969980921303040"
+          ]
+        },
+        "author_id": "1907430109747011584",
+        "conversation_id": "2071970000467013754",
+        "created_at": "2026-06-30T14:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071970000467013754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPJQIZceML",
+              "end": 166,
+              "expanded_url": "https://x.com/meowww_ni/status/2071970000467013754/photo/1",
+              "media_key": "3_2071969980921303040",
+              "start": 143,
+              "url": "https://t.co/nPJQIZceML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071970000467013754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天，家里大门手把有点松，我上网看了教学后，自信满满，顶着爸妈的怀疑保证，说省去叫师傅的钱，让我赚零用钱，多好\n\n刚刚拿起子使劲撬半天，不小心把铁门弄出小凹痕，结果爸爸伸手一转就开了🙂 后来我好不容易装上，才发现尺寸买错，最后是爸爸一言不发把旧手把恢复\n\n(希望无人发现那个小凹痕) https://t.co/nPJQIZceML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 92,
+          "like_count": 7699,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 2569
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T13:49:20.000Z",
+        "description": "𝑰𝑵𝑻𝑱 \n妮的嘰哩咕嚕日常",
+        "id": "1907430109747011584",
+        "name": "Nini♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028522109295878144/T7aRBzx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 63,
+          "like_count": 1268,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "meowww_ni",
+        "verified": false
+      }
+    ]
+  }
+}

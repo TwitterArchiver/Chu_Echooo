@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074042597992186312",
+    "created_at": "2026-07-06T08:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074043598434349443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2031268481371389952",
+          "start": 0,
+          "username": "LunaLunarmdrh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074043598434349443",
+    "in_reply_to_user_id": "2031268481371389952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074042597992186312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LunaLunarmdrh 恨我我也抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074042597992186312",
+        "created_at": "2026-07-06T08:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074043598434349443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2031268481371389952",
+              "start": 0,
+              "username": "LunaLunarmdrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074043598434349443",
+        "in_reply_to_user_id": "2031268481371389952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074042597992186312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LunaLunarmdrh 恨我我也抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031268481371389952",
+        "conversation_id": "2074042597992186312",
+        "created_at": "2026-07-06T08:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074042597992186312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074042597992186312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也不哭了 哭一次眼睛和脸肿得要死 恨你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 99,
+          "like_count": 7919,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:19:26.000Z",
+        "description": "凌驾伤痕",
+        "id": "2031268481371389952",
+        "name": "Luna",
+        "pinned_tweet_id": "2031282783876686008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069272021582880769/fnd_Cp9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 68,
+          "like_count": 8912,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "LunaLunarmdrh",
+        "verified": false
+      }
+    ]
+  }
+}

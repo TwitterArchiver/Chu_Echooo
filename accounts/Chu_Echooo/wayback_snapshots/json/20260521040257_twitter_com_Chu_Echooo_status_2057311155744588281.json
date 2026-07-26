@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057311153454551040"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2057311155744588281",
+    "created_at": "2026-05-21T04:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057311155744588281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lLqBDB5EVh",
+          "end": 69,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2057311155744588281/photo/1",
+          "media_key": "3_2057311153454551040",
+          "start": 46,
+          "url": "https://t.co/lLqBDB5EVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057311155744588281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？给我改这个备注是吧，\n还截图给我看是吧，\n话放这了，\n这个女人，我再回她一条消息，\n哼。 https://t.co/lLqBDB5EVh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "3_2057311153454551040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0JmA4bkAAFbjC.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057311153454551040"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2057311155744588281",
+        "created_at": "2026-05-21T04:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057311155744588281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLqBDB5EVh",
+              "end": 69,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2057311155744588281/photo/1",
+              "media_key": "3_2057311153454551040",
+              "start": 46,
+              "url": "https://t.co/lLqBDB5EVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057311155744588281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？给我改这个备注是吧，\n还截图给我看是吧，\n话放这了，\n这个女人，我再回她一条消息，\n哼。 https://t.co/lLqBDB5EVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 83,
+          "like_count": 4936,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1300
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

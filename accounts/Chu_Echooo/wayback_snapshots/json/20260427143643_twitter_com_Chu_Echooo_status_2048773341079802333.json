@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048748759413346715",
+    "created_at": "2026-04-27T14:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048773341079802333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1895407237524545536",
+          "start": 0,
+          "username": "haruqq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048773341079802333",
+    "in_reply_to_user_id": "1895407237524545536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048769669490999556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruqq_ 哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048769664965373952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6xJ8rbcAARvLj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048748759413346715",
+        "created_at": "2026-04-27T14:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048773341079802333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1895407237524545536",
+              "start": 0,
+              "username": "haruqq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048773341079802333",
+        "in_reply_to_user_id": "1895407237524545536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048769669490999556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruqq_ 哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048769664965373952"
+          ]
+        },
+        "author_id": "1895407237524545536",
+        "conversation_id": "2048748759413346715",
+        "created_at": "2026-04-27T14:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048769669490999556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksMwQbs9It",
+              "end": 47,
+              "expanded_url": "https://x.com/haruqq_/status/2048769669490999556/photo/1",
+              "media_key": "3_2048769664965373952",
+              "start": 24,
+              "url": "https://t.co/ksMwQbs9It"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048769669490999556",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048748759413346715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 哈哈哈哈哈哈我也有一张 https://t.co/ksMwQbs9It"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 65,
+          "like_count": 2921,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 644
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T09:34:56.000Z",
+        "description": "可以叫我哈露/haru/🍐｜火雞面螺螄粉重度依賴。｜此帳號for碎碎唸｜不是🚪姐 暫時沒🚪",
+        "id": "1895407237524545536",
+        "location": "你心里",
+        "name": "梨涡钉",
+        "pinned_tweet_id": "1985344173449630075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033765442993664000/JZ-Hs1a6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 82,
+          "like_count": 3062,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 630
+        },
+        "username": "haruqq_",
+        "verified": false
+      }
+    ]
+  }
+}

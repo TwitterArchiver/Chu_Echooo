@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2071975358027731188",
+    "created_at": "2026-06-30T15:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071975358027731188"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071975358027731188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "根本不敢点开私信好吗...\n不知道该怎么面对那些或是劝慰或是挽留的消息...\n我是个自私的人，是个不负责任的人，愧对每一份偏爱..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2071975358027731188",
+        "created_at": "2026-06-30T15:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071975358027731188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071975358027731188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本不敢点开私信好吗...\n不知道该怎么面对那些或是劝慰或是挽留的消息...\n我是个自私的人，是个不负责任的人，愧对每一份偏爱..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 92,
+          "like_count": 7713,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 2572
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

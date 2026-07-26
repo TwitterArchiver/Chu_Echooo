@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063526243153457632",
+    "created_at": "2026-06-07T07:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063528703959912710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883176458966949888",
+          "start": 0,
+          "username": "Lululemeng327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063528703959912710",
+    "in_reply_to_user_id": "1883176458966949888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063526243153457632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lululemeng327 你好，结婚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063526228595036160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMeLAAb0AAh6C2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063526243153457632",
+        "created_at": "2026-06-07T07:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063528703959912710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883176458966949888",
+              "start": 0,
+              "username": "Lululemeng327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063528703959912710",
+        "in_reply_to_user_id": "1883176458966949888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063526243153457632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lululemeng327 你好，结婚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063526228595036160"
+          ]
+        },
+        "author_id": "1883176458966949888",
+        "conversation_id": "2063526243153457632",
+        "created_at": "2026-06-07T07:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063526243153457632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FiZe8MeJoD",
+              "end": 30,
+              "expanded_url": "https://x.com/Lululemeng327/status/2063526243153457632/photo/1",
+              "media_key": "3_2063526228595036160",
+              "start": 7,
+              "url": "https://t.co/FiZe8MeJoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063526243153457632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示鼻基底中 https://t.co/FiZe8MeJoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 87,
+          "like_count": 5659,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1611
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T15:34:00.000Z",
+        "description": "欢迎喜欢switch游戏的朋友交流～｜Switchゲームが好きな方は、ぜひ私にDMしてください（迷惑なDMは返信いたしません）",
+        "id": "1883176458966949888",
+        "location": "🦊",
+        "name": "陆陆林萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983092433346064385/7sGygFAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 81,
+          "like_count": 8811,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 1246
+        },
+        "username": "Lululemeng327",
+        "verified": false
+      }
+    ]
+  }
+}

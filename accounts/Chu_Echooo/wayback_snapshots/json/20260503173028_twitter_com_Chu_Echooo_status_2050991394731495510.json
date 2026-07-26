@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050967808738250873",
+    "created_at": "2026-05-03T17:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T18:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050991394731495510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1598983658206945280",
+          "start": 0,
+          "username": "ganjiuchawuduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050991394731495510",
+    "in_reply_to_user_id": "1598983658206945280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050972996396040214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganjiuchawuduo 为什么我要点开放大后才看到这句话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050967808738250873",
+        "created_at": "2026-05-03T17:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T18:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050991394731495510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1598983658206945280",
+              "start": 0,
+              "username": "ganjiuchawuduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050991394731495510",
+        "in_reply_to_user_id": "1598983658206945280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050972996396040214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganjiuchawuduo 为什么我要点开放大后才看到这句话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598983658206945280",
+        "conversation_id": "2050967808738250873",
+        "created_at": "2026-05-03T16:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050972996396040214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050972996396040214",
+        "in_reply_to_user_id": "1598983658206945280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050967808738250873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么传到推上的截图总是全损"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 70,
+          "like_count": 3408,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 861
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T10:13:17.000Z",
+        "description": "感受更多的终会被逐渐忘却，但也会想起往昔的痕迹的",
+        "id": "1598983658206945280",
+        "location": "山卡拉",
+        "name": "看到我就去喝杯水好吗",
+        "pinned_tweet_id": "2044049607169323111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049136659002994688/ZUHIMMXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 453,
+          "like_count": 24129,
+          "listed_count": 0,
+          "media_count": 777,
+          "tweet_count": 5309
+        },
+        "username": "ganjiuchawuduo",
+        "verified": false
+      }
+    ]
+  }
+}

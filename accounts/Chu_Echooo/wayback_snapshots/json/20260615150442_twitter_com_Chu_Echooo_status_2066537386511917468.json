@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066525171754975569",
+    "created_at": "2026-06-15T15:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066537386511917468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1701828248605237248",
+          "start": 0,
+          "username": "Daisy27716334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066537386511917468",
+    "in_reply_to_user_id": "1701828248605237248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066529415547498688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daisy27716334 那是葡萄干儿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066525171754975569",
+        "created_at": "2026-06-15T15:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066537386511917468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1701828248605237248",
+              "start": 0,
+              "username": "Daisy27716334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537386511917468",
+        "in_reply_to_user_id": "1701828248605237248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066529415547498688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daisy27716334 那是葡萄干儿！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701828248605237248",
+        "conversation_id": "2066525171754975569",
+        "created_at": "2026-06-15T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066529415547498688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066529415547498688",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066525171754975569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 这雪糕跟摔了一跤一样，青一块紫一块的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 88,
+          "like_count": 6551,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1993
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T05:21:00.000Z",
+        "description": "樱花只开一季，真爱只有一次，如果只是寂寞，请不要说爱我。",
+        "id": "1701828248605237248",
+        "location": "马上就到你家门口",
+        "name": "Daisy.",
+        "pinned_tweet_id": "2028420994755649574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033202091825790976/Se1uVpCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 8551,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 692
+        },
+        "username": "Daisy27716334",
+        "verified": false
+      }
+    ]
+  }
+}

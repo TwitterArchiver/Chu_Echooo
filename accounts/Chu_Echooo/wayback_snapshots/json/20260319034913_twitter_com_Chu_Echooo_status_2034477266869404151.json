@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034318764741906708",
+    "created_at": "2026-03-19T03:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T04:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034477266869404151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999869438393556992",
+          "start": 0,
+          "username": "Haki1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034477266869404151",
+    "in_reply_to_user_id": "1999869438393556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034476865814180144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haki1019 我魔法期你让我喝凉水，好恶毒，取关拉黑顺便画圈诅咒了（自抱自泣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034318764741906708",
+        "created_at": "2026-03-19T03:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034477266869404151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999869438393556992",
+              "start": 0,
+              "username": "Haki1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034477266869404151",
+        "in_reply_to_user_id": "1999869438393556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034476865814180144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haki1019 我魔法期你让我喝凉水，好恶毒，取关拉黑顺便画圈诅咒了（自抱自泣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999869438393556992",
+        "conversation_id": "2034318764741906708",
+        "created_at": "2026-03-19T03:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034476865814180144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034476865814180144",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034476356789264804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 小气鬼喝凉水👅👅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 48,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 93
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:50:16.000Z",
+        "description": "Nonsense 06/顺直男",
+        "id": "1999869438393556992",
+        "name": "Hakiiiii！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030494424955015168/mvsUPdbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 272,
+          "like_count": 18510,
+          "listed_count": 0,
+          "media_count": 470,
+          "tweet_count": 4909
+        },
+        "username": "Haki1019",
+        "verified": false
+      }
+    ]
+  }
+}

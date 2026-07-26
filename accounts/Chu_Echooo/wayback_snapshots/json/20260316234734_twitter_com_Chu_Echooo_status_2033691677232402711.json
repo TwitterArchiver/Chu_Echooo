@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2033113221264265504",
+    "created_at": "2026-03-16T23:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T00:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033691677232402711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669388264233652224",
+          "start": 0,
+          "username": "Naia1022kawaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033691677232402711",
+    "in_reply_to_user_id": "1669388264233652224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033113221264265504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naia1022kawaiii 洽洽的玫瑰椰椰腰果仁，果佳的甘梅地瓜片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2033113221264265504",
+        "created_at": "2026-03-16T23:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T00:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033691677232402711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669388264233652224",
+              "start": 0,
+              "username": "Naia1022kawaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033691677232402711",
+        "in_reply_to_user_id": "1669388264233652224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033113221264265504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naia1022kawaiii 洽洽的玫瑰椰椰腰果仁，果佳的甘梅地瓜片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669388264233652224",
+        "conversation_id": "2033113221264265504",
+        "created_at": "2026-03-15T09:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033113221264265504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033113221264265504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1364,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有好吃的零食推薦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 38,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T16:56:06.000Z",
+        "description": "圖片僅供參考 與實物不符 https://t.co/t67tfUrv4n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llama.3858399",
+                "end": 36,
+                "expanded_url": "https://ngl.link/llama.3858399",
+                "start": 13,
+                "url": "https://t.co/t67tfUrv4n"
+              }
+            ]
+          }
+        },
+        "id": "1669388264233652224",
+        "location": "天堂",
+        "name": "^ ^",
+        "pinned_tweet_id": "2001229247952851133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033571903320031232/nt7aUh3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 307,
+          "like_count": 3201,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 906
+        },
+        "username": "Naia1022kawaiii",
+        "verified": false
+      }
+    ]
+  }
+}

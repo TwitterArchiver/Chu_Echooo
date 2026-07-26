@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067212002272186654",
+    "created_at": "2026-06-17T12:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067228942797615283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761225327651774464",
+          "start": 0,
+          "username": "tutu19900124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067228942797615283",
+    "in_reply_to_user_id": "1761225327651774464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067212002272186654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu19900124 我也大饱眼福了😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067211991736090624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA2WprbgAAvKM4.jpg",
+        "width": 866
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067211991740207104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA2WpsaUAA1vJW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1751,
+        "media_key": "3_2067211991740264448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA2WpsbMAAVy9M.jpg",
+        "width": 838
+      },
+      {
+        "height": 1754,
+        "media_key": "3_2067211991748673536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA2WpubgAA8DTL.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067212002272186654",
+        "created_at": "2026-06-17T12:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067228942797615283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761225327651774464",
+              "start": 0,
+              "username": "tutu19900124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067228942797615283",
+        "in_reply_to_user_id": "1761225327651774464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067212002272186654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu19900124 我也大饱眼福了😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067211991736090624",
+            "3_2067211991740207104",
+            "3_2067211991740264448",
+            "3_2067211991748673536"
+          ]
+        },
+        "author_id": "1761225327651774464",
+        "conversation_id": "2067212002272186654",
+        "created_at": "2026-06-17T11:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067212002272186654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ers7rTeQoS",
+              "end": 70,
+              "expanded_url": "https://x.com/tutu19900124/status/2067212002272186654/photo/1",
+              "media_key": "3_2067211991736090624",
+              "start": 47,
+              "url": "https://t.co/ers7rTeQoS"
+            },
+            {
+              "display_url": "pic.x.com/ers7rTeQoS",
+              "end": 70,
+              "expanded_url": "https://x.com/tutu19900124/status/2067212002272186654/photo/1",
+              "media_key": "3_2067211991740207104",
+              "start": 47,
+              "url": "https://t.co/ers7rTeQoS"
+            },
+            {
+              "display_url": "pic.x.com/ers7rTeQoS",
+              "end": 70,
+              "expanded_url": "https://x.com/tutu19900124/status/2067212002272186654/photo/1",
+              "media_key": "3_2067211991740264448",
+              "start": 47,
+              "url": "https://t.co/ers7rTeQoS"
+            },
+            {
+              "display_url": "pic.x.com/ers7rTeQoS",
+              "end": 70,
+              "expanded_url": "https://x.com/tutu19900124/status/2067212002272186654/photo/1",
+              "media_key": "3_2067211991748673536",
+              "start": 47,
+              "url": "https://t.co/ers7rTeQoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067212002272186654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 691,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来今天没有训练计划，但是和朋友待了一会儿又充满干劲咯，爽练背部。\n练的时候还要跟朋友撒娇🥳 https://t.co/ers7rTeQoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 88,
+          "like_count": 6833,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2131
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T03:03:47.000Z",
+        "description": "永远坚持，随时放弃₍˄·͈༝·͈˄*₎◞ ̑̑ 祝我们玩得开心🫶🏻欢迎提问♡https://t.co/IsPRloKt1B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tutu80779",
+                "end": 61,
+                "expanded_url": "https://ngl.link/tutu80779",
+                "start": 38,
+                "url": "https://t.co/IsPRloKt1B"
+              }
+            ]
+          }
+        },
+        "id": "1761225327651774464",
+        "name": "tutu",
+        "pinned_tweet_id": "2036372929320194488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835696742593085440/rIEhqw-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18392,
+          "following_count": 1046,
+          "like_count": 95029,
+          "listed_count": 48,
+          "media_count": 4936,
+          "tweet_count": 48054
+        },
+        "username": "tutu19900124",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054219027757801808",
+    "created_at": "2026-05-12T15:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054219993571807669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771457845592203264",
+          "start": 0,
+          "username": "ezzz_467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054219993571807669",
+    "in_reply_to_user_id": "1771457845592203264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054219732761673861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezzz_467 ？！你被楚点点绑架了嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054219027757801808",
+        "created_at": "2026-05-12T15:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054219993571807669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771457845592203264",
+              "start": 0,
+              "username": "ezzz_467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054219993571807669",
+        "in_reply_to_user_id": "1771457845592203264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054219732761673861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezzz_467 ？！你被楚点点绑架了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771457845592203264",
+        "conversation_id": "2054219027757801808",
+        "created_at": "2026-05-12T15:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054219732761673861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054219732761673861",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054219027757801808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 再喂一次或许就能想起来了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 87,
+          "like_count": 4262,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1056
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T08:44:10.000Z",
+        "description": "♀｜喜欢女孩｜https://t.co/BIb1aNixql",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/appreciate77325",
+                "end": 30,
+                "expanded_url": "https://ngl.link/appreciate77325",
+                "start": 7,
+                "url": "https://t.co/BIb1aNixql"
+              }
+            ]
+          }
+        },
+        "id": "1771457845592203264",
+        "name": "ExCusEmi",
+        "pinned_tweet_id": "2052064242900336680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037901494838800384/QAB5MWpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 117,
+          "like_count": 5072,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 836
+        },
+        "username": "ezzz_467",
+        "verified": false
+      }
+    ]
+  }
+}

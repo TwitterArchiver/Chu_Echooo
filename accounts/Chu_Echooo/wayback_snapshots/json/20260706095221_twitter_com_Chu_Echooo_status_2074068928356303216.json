@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074036394763391379",
+    "created_at": "2026-07-06T09:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074068928356303216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2069417046400753664",
+          "start": 0,
+          "username": "Albertxuanbaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074068928356303216",
+    "in_reply_to_user_id": "2069417046400753664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074047287429575023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Albertxuanbaby 咱也不敢说，咱也不敢问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074036394763391379",
+        "created_at": "2026-07-06T09:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074068928356303216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2069417046400753664",
+              "start": 0,
+              "username": "Albertxuanbaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074068928356303216",
+        "in_reply_to_user_id": "2069417046400753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074047287429575023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Albertxuanbaby 咱也不敢说，咱也不敢问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069417046400753664",
+        "conversation_id": "2074036394763391379",
+        "created_at": "2026-07-06T08:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074047287429575023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074047287429575023",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074036394763391379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 女生的私信是这样的，男的只有骗子会私信🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 99,
+          "like_count": 7920,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2763
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T13:50:21.000Z",
+        "description": "06｜ENFP｜低精力高内耗人士｜上推纯发泄压力谢谢🙏老骗子和智障bot别烦我我不吃骗｜善良人格长期存在，欢迎大家找我聊天🥰\n目前是黑化形态🫪🫪🫪\nQ&A https://t.co/kUDtW0dVyW来玩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuanbaby2",
+                "end": 101,
+                "expanded_url": "https://ngl.link/xuanbaby2",
+                "start": 78,
+                "url": "https://t.co/kUDtW0dVyW"
+              }
+            ]
+          }
+        },
+        "id": "2069417046400753664",
+        "location": "神秘北极圈",
+        "name": "Albertxuan",
+        "pinned_tweet_id": "2069434893860557019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071233507431780352/DWyUbLCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 46,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "Albertxuanbaby",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068933513169244470",
+    "created_at": "2026-06-22T06:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068951630771577143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956266694139060228",
+          "start": 0,
+          "username": "FanNuo93726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068951630771577143",
+    "in_reply_to_user_id": "1956266694139060228",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068933513169244470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanNuo93726 咋都芥末小，我真的是老了🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068933438984646656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZUAEabcAAH1SS.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068933513169244470",
+        "created_at": "2026-06-22T06:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068951630771577143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956266694139060228",
+              "start": 0,
+              "username": "FanNuo93726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068951630771577143",
+        "in_reply_to_user_id": "1956266694139060228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068933513169244470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanNuo93726 咋都芥末小，我真的是老了🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068933438984646656"
+          ]
+        },
+        "author_id": "1956266694139060228",
+        "conversation_id": "2068933513169244470",
+        "created_at": "2026-06-22T05:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068933513169244470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpCaOFkjZq",
+              "end": 38,
+              "expanded_url": "https://x.com/FanNuo93726/status/2068933513169244470/photo/1",
+              "media_key": "3_2068933438984646656",
+              "start": 15,
+              "url": "https://t.co/KpCaOFkjZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068933513169244470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于，从高中毕业了👊🏻👊🏻 https://t.co/KpCaOFkjZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 93,
+          "like_count": 7273,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2291
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T08:08:32.000Z",
+        "description": "追星和日常碎碎念 /双/上海/06/169/54kg\n我喜欢长相养胃的有礼貌的好宝宝，可以找我闲聊呀！随缘互关\n女孩子的消息我都会回的！！",
+        "id": "1956266694139060228",
+        "location": "我一直在哭",
+        "name": "我想喝番茄浓汤",
+        "pinned_tweet_id": "2052438390810014082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051692596192239620/Wlhz-XvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 157,
+          "like_count": 5990,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1147
+        },
+        "url": "",
+        "username": "FanNuo93726",
+        "verified": false
+      }
+    ]
+  }
+}

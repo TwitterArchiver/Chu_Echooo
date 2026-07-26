@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062903287486242921",
+    "created_at": "2026-06-05T14:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062911844193575309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644985773488320512",
+          "start": 0,
+          "username": "HLay127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062911844193575309",
+    "in_reply_to_user_id": "1644985773488320512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062903287486242921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLay127 咖啡豆：你在外边有别的猫了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15599,
+        "height": 1280,
+        "media_key": "13_2062903212315910145",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062903212315910145/img/AUntyIFIdLhK3EKn.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062903212315910145/vid/avc1/320x568/5wrUmuePUsetXeFx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062903212315910145/vid/avc1/480x852/dC6WeW0fiyuLcTP5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062903212315910145/vid/avc1/720x1280/c-_UznIbyU3gadAv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062903212315910145/pl/27fws4YuQ0Ni8VnO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062903287486242921",
+        "created_at": "2026-06-05T14:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062911844193575309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644985773488320512",
+              "start": 0,
+              "username": "HLay127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062911844193575309",
+        "in_reply_to_user_id": "1644985773488320512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062903287486242921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLay127 咖啡豆：你在外边有别的猫了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062903212315910145"
+          ]
+        },
+        "author_id": "1644985773488320512",
+        "conversation_id": "2062903287486242921",
+        "created_at": "2026-06-05T14:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062903287486242921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XkUSKgrjp",
+              "end": 27,
+              "expanded_url": "https://x.com/HLay127/status/2062903287486242921/video/1",
+              "media_key": "13_2062903212315910145",
+              "start": 4,
+              "url": "https://t.co/6XkUSKgrjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903287486242921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿狸～ https://t.co/6XkUSKgrjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 87,
+          "like_count": 5518,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1541
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T08:49:15.000Z",
+        "description": "咖啡爱好者，不是在喝咖啡就是在喝咖啡的路上，我的好大儿叫咖啡豆是个虎斑美短白手套 我和我的儿子都是异性恋",
+        "id": "1644985773488320512",
+        "name": "浮笙",
+        "pinned_tweet_id": "2045206524084244704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039349599006277632/eavCWhy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 90,
+          "like_count": 29851,
+          "listed_count": 5,
+          "media_count": 1519,
+          "tweet_count": 11862
+        },
+        "username": "HLay127",
+        "verified": false
+      }
+    ]
+  }
+}

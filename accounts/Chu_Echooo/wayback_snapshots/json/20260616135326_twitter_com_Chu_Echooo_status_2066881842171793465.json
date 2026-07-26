@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066881291463614758",
+    "created_at": "2026-06-16T13:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066881842171793465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065416581170028544",
+          "start": 0,
+          "username": "xingzhixinghuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066881842171793465",
+    "in_reply_to_user_id": "2065416581170028544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066881291463614758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingzhixinghuan 这是哪里，夫子庙吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2066881282546569216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8Jk18XkAACLrZ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2066881280390696960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8Jkt6XkAAaR2I.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066881260874596353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8JjlNXgAE1XmJ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066881276238344192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8JkecXsAAbTT9.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066881291463614758",
+        "created_at": "2026-06-16T13:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066881842171793465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065416581170028544",
+              "start": 0,
+              "username": "xingzhixinghuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066881842171793465",
+        "in_reply_to_user_id": "2065416581170028544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066881291463614758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingzhixinghuan 这是哪里，夫子庙吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066881282546569216",
+            "3_2066881280390696960",
+            "3_2066881260874596353",
+            "3_2066881276238344192"
+          ]
+        },
+        "author_id": "2065416581170028544",
+        "conversation_id": "2066881291463614758",
+        "created_at": "2026-06-16T13:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066881291463614758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOgk4tu13Z",
+              "end": 101,
+              "expanded_url": "https://x.com/xingzhixinghuan/status/2066881291463614758/photo/1",
+              "media_key": "3_2066881282546569216",
+              "start": 78,
+              "url": "https://t.co/uOgk4tu13Z"
+            },
+            {
+              "display_url": "pic.x.com/uOgk4tu13Z",
+              "end": 101,
+              "expanded_url": "https://x.com/xingzhixinghuan/status/2066881291463614758/photo/1",
+              "media_key": "3_2066881280390696960",
+              "start": 78,
+              "url": "https://t.co/uOgk4tu13Z"
+            },
+            {
+              "display_url": "pic.x.com/uOgk4tu13Z",
+              "end": 101,
+              "expanded_url": "https://x.com/xingzhixinghuan/status/2066881291463614758/photo/1",
+              "media_key": "3_2066881260874596353",
+              "start": 78,
+              "url": "https://t.co/uOgk4tu13Z"
+            },
+            {
+              "display_url": "pic.x.com/uOgk4tu13Z",
+              "end": 101,
+              "expanded_url": "https://x.com/xingzhixinghuan/status/2066881291463614758/photo/1",
+              "media_key": "3_2066881276238344192",
+              "start": 78,
+              "url": "https://t.co/uOgk4tu13Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066881291463614758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前年来南京看到的咪今年又看到了，他还让我摸诶（前年半价，今年免费 我越来越不值钱了）（因为免费所以我进进出出三次第三次叔叔都懒得看我准考证直接让我进去了） https://t.co/uOgk4tu13Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 88,
+          "like_count": 6647,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2042
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T12:52:23.000Z",
+        "description": "前身@huanjunling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "huanjunling"
+              }
+            ]
+          }
+        },
+        "id": "2065416581170028544",
+        "name": "幻君凌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065418375832956928/BcziyAH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "xingzhixinghuan",
+        "verified": false
+      }
+    ]
+  }
+}

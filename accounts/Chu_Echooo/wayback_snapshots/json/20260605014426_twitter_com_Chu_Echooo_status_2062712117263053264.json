@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062710700007657719",
+    "created_at": "2026-06-05T01:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062712117263053264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2042802770059890690",
+          "start": 0,
+          "username": "o3oD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062712117263053264",
+    "in_reply_to_user_id": "2042802770059890690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062710700007657719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3oD7 报告，发现了一个偷吃了两口才想起来拍照的大馋丫头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062710690654404608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA4ccbbQAAEbpo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062710700007657719",
+        "created_at": "2026-06-05T01:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062712117263053264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2042802770059890690",
+              "start": 0,
+              "username": "o3oD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062712117263053264",
+        "in_reply_to_user_id": "2042802770059890690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062710700007657719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3oD7 报告，发现了一个偷吃了两口才想起来拍照的大馋丫头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062710690654404608"
+          ]
+        },
+        "author_id": "2042802770059890690",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062710700007657719",
+        "created_at": "2026-06-05T01:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062710700007657719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qsokN43ex",
+              "end": 43,
+              "expanded_url": "https://x.com/o3oD7/status/2062710700007657719/photo/1",
+              "media_key": "3_2062710690654404608",
+              "start": 20,
+              "url": "https://t.co/2qsokN43ex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062710700007657719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎有没有人懂不加沙拉酱的香辣鸡腿堡^^ https://t.co/2qsokN43ex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 88,
+          "like_count": 5470,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1489
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T03:13:52.000Z",
+        "description": "",
+        "id": "2042802770059890690",
+        "name": "o3o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044400892263489536/0DU-F-8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 102,
+          "like_count": 11776,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 709
+        },
+        "username": "o3oD7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2072321293777866997",
+    "created_at": "2026-07-01T14:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072323173375435071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1185962624002822146",
+          "start": 0,
+          "username": "lxlx01111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072323173375435071",
+    "in_reply_to_user_id": "1185962624002822146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072321907572277620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxlx01111 首先，我妹有车，而且，我也妹有钱🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2072321293777866997",
+        "created_at": "2026-07-01T14:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072323173375435071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1185962624002822146",
+              "start": 0,
+              "username": "lxlx01111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072323173375435071",
+        "in_reply_to_user_id": "1185962624002822146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072321907572277620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxlx01111 首先，我妹有车，而且，我也妹有钱🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185962624002822146",
+        "conversation_id": "2072321293777866997",
+        "created_at": "2026-07-01T14:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072321907572277620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072321907572277620",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072321293777866997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 全国自驾游🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 92,
+          "like_count": 7572,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2621
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-20T16:55:08.000Z",
+        "description": "套在大A，追逐美股中。",
+        "id": "1185962624002822146",
+        "location": "Hong Kong",
+        "name": "你说的都对。",
+        "pinned_tweet_id": "2001476340227412129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1373957854810439682/qayqB_gI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1645,
+          "like_count": 11287,
+          "listed_count": 4,
+          "media_count": 1075,
+          "tweet_count": 6969
+        },
+        "url": "",
+        "username": "lxlx01111",
+        "verified": true
+      }
+    ]
+  }
+}

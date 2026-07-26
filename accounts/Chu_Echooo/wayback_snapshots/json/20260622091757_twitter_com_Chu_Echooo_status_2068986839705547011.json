@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068983684368400585",
+    "created_at": "2026-06-22T09:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068986839705547011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020125751396474880",
+          "start": 0,
+          "username": "lofrtyvcla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068986839705547011",
+    "in_reply_to_user_id": "2020125751396474880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068984146614218830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lofrtyvcla 你话怎么那么多！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068983684368400585",
+        "created_at": "2026-06-22T09:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068986839705547011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020125751396474880",
+              "start": 0,
+              "username": "lofrtyvcla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068986839705547011",
+        "in_reply_to_user_id": "2020125751396474880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068984146614218830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lofrtyvcla 你话怎么那么多！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020125751396474880",
+        "conversation_id": "2068983684368400585",
+        "created_at": "2026-06-22T09:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068984146614218830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068984146614218830",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068983811136974954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 不会是自己点的吧🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 93,
+          "like_count": 7274,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2296
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T13:21:39.000Z",
+        "description": "随遇而安，随心而行",
+        "id": "2020125751396474880",
+        "name": "Everything goes well",
+        "pinned_tweet_id": "2024827815426994426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059104925624451072/zx6VHm83_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 92,
+          "like_count": 3711,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "lofrtyvcla",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068399500293800392",
+    "created_at": "2026-06-20T23:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T00:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068471583770079715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058507904073003008",
+          "start": 0,
+          "username": "FROZENoxxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068471583770079715",
+    "in_reply_to_user_id": "2058507904073003008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068406217987465523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FROZENoxxb 坚持不住那么久，是个运动白痴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068399500293800392",
+        "created_at": "2026-06-20T23:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068471583770079715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058507904073003008",
+              "start": 0,
+              "username": "FROZENoxxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068471583770079715",
+        "in_reply_to_user_id": "2058507904073003008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068406217987465523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FROZENoxxb 坚持不住那么久，是个运动白痴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058507904073003008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Handstands",
+              "id": "872573517132320768",
+              "name": "Handstands"
+            }
+          }
+        ],
+        "conversation_id": "2068399500293800392",
+        "created_at": "2026-06-20T18:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068406217987465523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068406217987465523",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068399500293800392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 那就倒立呗，不就流不下来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 89,
+          "like_count": 7195,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 2232
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T11:19:17.000Z",
+        "description": "最感性之人/防备最轻之人/最爱剑来之人/铲农瓦cs开心消消乐都会之人",
+        "id": "2058507904073003008",
+        "location": "比奇堡",
+        "name": "猛踹瘸子好腿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058633685465960448/EF4S6fv9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 105,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "FROZENoxxb",
+        "verified": false
+      }
+    ]
+  }
+}

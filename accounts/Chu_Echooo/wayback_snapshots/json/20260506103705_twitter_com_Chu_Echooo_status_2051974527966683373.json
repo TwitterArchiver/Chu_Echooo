@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051974527966683373",
+    "created_at": "2026-05-06T10:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051974527966683373"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051974527966683373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在想如果我说出「全女公交车」这几个字会有多少人乱拳打死我...\n我承认很多男孩子都很有素质也很爱干净也有女孩子邋遢的但是考虑一下客观实际情况是不是主要责任还是在哎呦算了我也不叠甲了我就是发个牢骚吐个槽别骂我我已经尽力抹了护手霜捂住口鼻了单手打字我要吐啦😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051974527966683373",
+        "created_at": "2026-05-06T10:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051974527966683373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051974527966683373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想如果我说出「全女公交车」这几个字会有多少人乱拳打死我...\n我承认很多男孩子都很有素质也很爱干净也有女孩子邋遢的但是考虑一下客观实际情况是不是主要责任还是在哎呦算了我也不叠甲了我就是发个牢骚吐个槽别骂我我已经尽力抹了护手霜捂住口鼻了单手打字我要吐啦😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 72,
+          "like_count": 3696,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 950
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

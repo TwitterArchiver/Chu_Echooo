@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047904735064395886",
+    "created_at": "2026-04-25T13:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048025692064071799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000880188650143744",
+          "start": 0,
+          "username": "huanjunling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048025692064071799",
+    "in_reply_to_user_id": "2000880188650143744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048021262480326971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanjunling 别人说好看，但是你，不能只说好看。你要说“有美一人，清扬婉兮”，你要说“蓦地一相逢，心事眼波难定”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047904735064395886",
+        "created_at": "2026-04-25T13:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048025692064071799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000880188650143744",
+              "start": 0,
+              "username": "huanjunling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048025692064071799",
+        "in_reply_to_user_id": "2000880188650143744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048021262480326971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanjunling 别人说好看，但是你，不能只说好看。你要说“有美一人，清扬婉兮”，你要说“蓦地一相逢，心事眼波难定”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000880188650143744",
+        "conversation_id": "2047904735064395886",
+        "created_at": "2026-04-25T12:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048021262480326971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048021262480326971",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047904735064395886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 61,
+          "like_count": 2775,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 497
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T10:46:44.000Z",
+        "description": "是天上星辰落人间\n星の天より人に落ちぬ。\nA star from sky to earth descends",
+        "id": "2000880188650143744",
+        "location": "九界",
+        "name": "星之星幻",
+        "pinned_tweet_id": "2003477318455689450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001240161833906176/2uCigY22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 1906,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 709
+        },
+        "username": "huanjunling",
+        "verified": false
+      }
+    ]
+  }
+}

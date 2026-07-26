@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2072337414656606494",
+    "created_at": "2026-07-01T15:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072340902698443139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929142623769378816",
+          "start": 0,
+          "username": "JayGreen5638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072340902698443139",
+    "in_reply_to_user_id": "1929142623769378816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072337663802462415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayGreen5638 傻哔吧你无缘无故骂人干嘛我跟你很熟吗一点礼貌没有关你啥事啊有你说话的资格吗莫名其妙真的搞笑！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2072337414656606494",
+        "created_at": "2026-07-01T15:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072340902698443139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929142623769378816",
+              "start": 0,
+              "username": "JayGreen5638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072340902698443139",
+        "in_reply_to_user_id": "1929142623769378816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072337663802462415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayGreen5638 傻哔吧你无缘无故骂人干嘛我跟你很熟吗一点礼貌没有关你啥事啊有你说话的资格吗莫名其妙真的搞笑！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929142623769378816",
+        "conversation_id": "2072337414656606494",
+        "created_at": "2026-07-01T15:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072337663802462415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072337663802462415",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072337414656606494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 傻缺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 93,
+          "like_count": 7574,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2634
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T11:47:08.000Z",
+        "description": "男的/ 伪君子，26年过得健康点了",
+        "id": "1929142623769378816",
+        "name": "阿库娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997684219359985665/6L3YnsJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 55,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 3197
+        },
+        "url": "",
+        "username": "JayGreen5638",
+        "verified": false
+      }
+    ]
+  }
+}

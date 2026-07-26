@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2037857975973597511",
+    "created_at": "2026-03-29T05:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038121834785448034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1771433925635874816",
+          "start": 0,
+          "username": "cxl331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038121834785448034",
+    "in_reply_to_user_id": "1771433925635874816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038119318878347348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxl331 为我们邪恶的友谊，干杯~！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2037857975973597511",
+        "created_at": "2026-03-29T05:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038121834785448034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1771433925635874816",
+              "start": 0,
+              "username": "cxl331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038121834785448034",
+        "in_reply_to_user_id": "1771433925635874816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038119318878347348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxl331 为我们邪恶的友谊，干杯~！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771433925635874816",
+        "conversation_id": "2037857975973597511",
+        "created_at": "2026-03-29T05:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038119318878347348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038119318878347348",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037857975973597511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我每次都这么吃来挑衅我的成都同学哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋/嫌我话多可以随意单取！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 39,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 282
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T07:09:05.000Z",
+        "description": "喜欢善良的人！我是心理委员！请狠狠的给我发私信🙇我会认真回复的！ switch 万岁不是iiii可以接受 谁陪我打永劫无间，俺是市标季莹莹大王🤤🤤🤤",
+        "id": "1771433925635874816",
+        "location": "成都",
+        "name": "Spoil",
+        "pinned_tweet_id": "1905458608466526238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912449429451247618/8fMO4VHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 671,
+          "like_count": 3349,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 612
+        },
+        "username": "cxl331",
+        "verified": false
+      }
+    ]
+  }
+}

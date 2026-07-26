@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048736158738415914",
+    "created_at": "2026-04-27T12:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048737547833253966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "194859435",
+          "start": 0,
+          "username": "stagerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048737547833253966",
+    "in_reply_to_user_id": "194859435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048736158738415914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stagerain 这个人！我有个互关好心跟他聊天，也让他屏蔽了，然后发帖艾特他，他还死皮赖脸来求人家删帖！我的请求列表里也有他，至今没点开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2048734637544120320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6RTFXbIAA2qyH.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2048734637405663232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6RTE2acAAXI6O.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048736158738415914",
+        "created_at": "2026-04-27T12:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048737547833253966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "194859435",
+              "start": 0,
+              "username": "stagerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048737547833253966",
+        "in_reply_to_user_id": "194859435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048736158738415914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stagerain 这个人！我有个互关好心跟他聊天，也让他屏蔽了，然后发帖艾特他，他还死皮赖脸来求人家删帖！我的请求列表里也有他，至今没点开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048734637544120320",
+            "3_2048734637405663232"
+          ]
+        },
+        "author_id": "194859435",
+        "conversation_id": "2048736158738415914",
+        "created_at": "2026-04-27T12:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048736158738415914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6syn0I5NMz",
+              "end": 34,
+              "expanded_url": "https://x.com/stagerain/status/2048736158738415914/photo/1",
+              "media_key": "3_2048734637544120320",
+              "start": 11,
+              "url": "https://t.co/6syn0I5NMz"
+            },
+            {
+              "display_url": "pic.x.com/6syn0I5NMz",
+              "end": 34,
+              "expanded_url": "https://x.com/stagerain/status/2048736158738415914/photo/1",
+              "media_key": "3_2048734637405663232",
+              "start": 11,
+              "url": "https://t.co/6syn0I5NMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048736158738415914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搭讪失败破防屏蔽大赏 https://t.co/6syn0I5NMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 65,
+          "like_count": 2913,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 636
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T04:34:24.000Z",
+        "description": "",
+        "id": "194859435",
+        "name": "能量🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041166292632342528/MSIh_1zP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 43,
+          "like_count": 3407,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 1056
+        },
+        "username": "stagerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045733122432741376",
+        "3_2045733125905592320"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045733128875262252",
+    "created_at": "2026-04-19T05:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045733128875262252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5AF7xaDi0N",
+          "end": 35,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2045733128875262252/photo/1",
+          "media_key": "3_2045733122432741376",
+          "start": 12,
+          "url": "https://t.co/5AF7xaDi0N"
+        },
+        {
+          "display_url": "pic.x.com/5AF7xaDi0N",
+          "end": 35,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2045733128875262252/photo/1",
+          "media_key": "3_2045733125905592320",
+          "start": 12,
+          "url": "https://t.co/5AF7xaDi0N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045733128875262252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放点儿子女儿帅照（1） https://t.co/5AF7xaDi0N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2045733122432741376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPnb6PasAA3Vvh.jpg",
+        "width": 1711
+      },
+      {
+        "height": 1495,
+        "media_key": "3_2045733125905592320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPncHLaMAAbubX.jpg",
+        "width": 1651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045733122432741376",
+            "3_2045733125905592320"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045733128875262252",
+        "created_at": "2026-04-19T05:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045733128875262252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AF7xaDi0N",
+              "end": 35,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2045733128875262252/photo/1",
+              "media_key": "3_2045733122432741376",
+              "start": 12,
+              "url": "https://t.co/5AF7xaDi0N"
+            },
+            {
+              "display_url": "pic.x.com/5AF7xaDi0N",
+              "end": 35,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2045733128875262252/photo/1",
+              "media_key": "3_2045733125905592320",
+              "start": 12,
+              "url": "https://t.co/5AF7xaDi0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045733128875262252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放点儿子女儿帅照（1） https://t.co/5AF7xaDi0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 42,
+          "like_count": 1998,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 352
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

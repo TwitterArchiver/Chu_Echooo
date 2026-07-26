@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2045337179661222021",
+    "created_at": "2026-04-18T05:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045373946833588456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045373946833588456",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045345650385265002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywxqz_sy 给你吸给你吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2045337179661222021",
+        "created_at": "2026-04-18T05:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045373946833588456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045373946833588456",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045345650385265002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy 给你吸给你吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635516217200099328",
+        "conversation_id": "2045337179661222021",
+        "created_at": "2026-04-18T03:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045345650385265002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045345650385265002",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045337179661222021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好想吸肚肚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/间歇性人格分裂/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 48,
+          "like_count": 1937,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 339
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "顺女\n纯自恋\n女生和互关欢迎私信\n联系方式看心情给\n没有🚪，什么都不🈷️，不聊骚。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2041194629039886576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 640,
+          "like_count": 13331,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 4196
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": false
+      }
+    ]
+  }
+}

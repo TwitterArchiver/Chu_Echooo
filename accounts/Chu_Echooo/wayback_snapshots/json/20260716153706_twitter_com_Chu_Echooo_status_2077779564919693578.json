@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077779558603096064"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2077779564919693578",
+    "created_at": "2026-07-16T15:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077779564919693578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZwU9ONYY69",
+          "end": 149,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2077779564919693578/photo/1",
+          "media_key": "3_2077779558603096064",
+          "start": 126,
+          "url": "https://t.co/ZwU9ONYY69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077779564919693578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别给我私信，我不看的\n要从全部点开请求才能看到，太麻烦了\n看了不回也不礼貌\n我从玩推就不看陌生私信\n偶尔发疯了可能翻一下，感受一下x压抑和物种多样性\n我不需要安慰，不需要挽留，不需要拯救，更不需要你所谓的刺激和放纵，你不配\n还有，我喜欢女生，一直都是 https://t.co/ZwU9ONYY69"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077779558603096064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXBgAAbAAAjN_v.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077779558603096064"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2077779564919693578",
+        "created_at": "2026-07-16T15:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077779564919693578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwU9ONYY69",
+              "end": 149,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2077779564919693578/photo/1",
+              "media_key": "3_2077779558603096064",
+              "start": 126,
+              "url": "https://t.co/ZwU9ONYY69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077779564919693578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别给我私信，我不看的\n要从全部点开请求才能看到，太麻烦了\n看了不回也不礼貌\n我从玩推就不看陌生私信\n偶尔发疯了可能翻一下，感受一下x压抑和物种多样性\n我不需要安慰，不需要挽留，不需要拯救，更不需要你所谓的刺激和放纵，你不配\n还有，我喜欢女生，一直都是 https://t.co/ZwU9ONYY69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 100,
+          "like_count": 8150,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 2938
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

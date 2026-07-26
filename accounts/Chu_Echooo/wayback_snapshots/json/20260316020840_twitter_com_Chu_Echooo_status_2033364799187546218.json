@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2033360316730667466",
+    "created_at": "2026-03-16T02:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033364799187546218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1620135489746669572",
+          "start": 0,
+          "username": "yiaoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033364799187546218",
+    "in_reply_to_user_id": "1620135489746669572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033364237893108078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiaoer 因为公司附近就有一家稻香村而我刚刚正在就着咖啡啃核桃排"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2033360316730667466",
+        "created_at": "2026-03-16T02:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033364799187546218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1620135489746669572",
+              "start": 0,
+              "username": "yiaoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033364799187546218",
+        "in_reply_to_user_id": "1620135489746669572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033364237893108078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiaoer 因为公司附近就有一家稻香村而我刚刚正在就着咖啡啃核桃排"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620135489746669572",
+        "conversation_id": "2033360316730667466",
+        "created_at": "2026-03-16T02:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033364237893108078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033364237893108078",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033363748166209773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 前面你怎么也吃老式糕点？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T19:03:09.000Z",
+        "description": "精神不正常且毫无逻辑的碎碎念日记",
+        "id": "1620135489746669572",
+        "name": "乖崽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032528822147624961/dXuC1ojR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1283
+        },
+        "username": "yiaoer",
+        "verified": false
+      }
+    ]
+  }
+}

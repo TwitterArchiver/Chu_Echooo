@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042821741731549191"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042821744520761752",
+    "created_at": "2026-04-11T04:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042821744520761752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z7GwJHFtez",
+          "end": 50,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2042821744520761752/photo/1",
+          "media_key": "3_2042821741731549191",
+          "start": 27,
+          "url": "https://t.co/Z7GwJHFtez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042821744520761752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白粥（加糖版\n昨晚吃太辣了，胃痛...\n额额额额额啊 https://t.co/Z7GwJHFtez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042821741731549191",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmPjP9akAcaJ8g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042821741731549191"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042821744520761752",
+        "created_at": "2026-04-11T04:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042821744520761752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7GwJHFtez",
+              "end": 50,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2042821744520761752/photo/1",
+              "media_key": "3_2042821741731549191",
+              "start": 27,
+              "url": "https://t.co/Z7GwJHFtez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042821744520761752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白粥（加糖版\n昨晚吃太辣了，胃痛...\n额额额额额啊 https://t.co/Z7GwJHFtez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 40,
+          "like_count": 1251,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 284
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

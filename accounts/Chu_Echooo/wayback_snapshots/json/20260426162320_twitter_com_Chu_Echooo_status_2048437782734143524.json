@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048436046954938472",
+    "created_at": "2026-04-26T16:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048437782734143524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1043818398612893696",
+          "start": 0,
+          "username": "oodoII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048437782734143524",
+    "in_reply_to_user_id": "1043818398612893696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048437107082031534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oodoII 我直接一个抱住~！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048436046954938472",
+        "created_at": "2026-04-26T16:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048437782734143524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1043818398612893696",
+              "start": 0,
+              "username": "oodoII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048437782734143524",
+        "in_reply_to_user_id": "1043818398612893696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048437107082031534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oodoII 我直接一个抱住~！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1043818398612893696",
+        "conversation_id": "2048436046954938472",
+        "created_at": "2026-04-26T16:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048437107082031534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048437107082031534",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048436838747287813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 宝宝来了~🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 61,
+          "like_count": 2861,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 565
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-23T11:04:34.000Z",
+        "description": "",
+        "id": "1043818398612893696",
+        "name": "🍋‍🟩",
+        "pinned_tweet_id": "2044287688157843841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044422297902338048/UJ5fPeVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 80,
+          "like_count": 915,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 89
+        },
+        "username": "oodoII",
+        "verified": false
+      }
+    ]
+  }
+}

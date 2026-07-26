@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038131307067351040"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2038131309714010595",
+    "created_at": "2026-03-29T05:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038131309714010595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssczrhGKMr",
+          "end": 140,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2038131309714010595/photo/1",
+          "media_key": "3_2038131307067351040",
+          "start": 117,
+          "url": "https://t.co/ssczrhGKMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038131309714010595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想毁了你\n我想弄脏你的身体\n你的脸，你的唇，你的发丝，你的每一寸肌肤\n我想让你余下的一生只能和我在一起\n如此翻滚着叫嚣着暗夜里欲望挣扎着\n才叫做，爱\n才叫，做爱\n我想一辈子占有你\n从此以后\n雨点拍在你脸上，月光洒在你身上\n我都嫉妒 https://t.co/ssczrhGKMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2038131307067351040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjloBNaIAAxM2v.jpg",
+        "width": 434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038131307067351040"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2038131309714010595",
+        "created_at": "2026-03-29T05:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038131309714010595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssczrhGKMr",
+              "end": 140,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2038131309714010595/photo/1",
+              "media_key": "3_2038131307067351040",
+              "start": 117,
+              "url": "https://t.co/ssczrhGKMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038131309714010595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想毁了你\n我想弄脏你的身体\n你的脸，你的唇，你的发丝，你的每一寸肌肤\n我想让你余下的一生只能和我在一起\n如此翻滚着叫嚣着暗夜里欲望挣扎着\n才叫做，爱\n才叫，做爱\n我想一辈子占有你\n从此以后\n雨点拍在你脸上，月光洒在你身上\n我都嫉妒 https://t.co/ssczrhGKMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋/嫌我话多可以随意单取！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 39,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 283
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

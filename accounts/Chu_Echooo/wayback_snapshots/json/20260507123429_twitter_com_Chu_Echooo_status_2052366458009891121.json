@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052366454713122816"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052366458009891121",
+    "created_at": "2026-05-07T12:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052366458009891121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mA7hTMfs2o",
+          "end": 44,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2052366458009891121/photo/1",
+          "media_key": "3_2052366454713122816",
+          "start": 21,
+          "url": "https://t.co/mA7hTMfs2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052366458009891121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普普通通的炒豆芽总不会有人还嘴馋想偷吃叭 https://t.co/mA7hTMfs2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1768,
+        "media_key": "3_2052366454713122816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt4aqoagAAnFlN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052366454713122816"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052366458009891121",
+        "created_at": "2026-05-07T12:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052366458009891121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mA7hTMfs2o",
+              "end": 44,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2052366458009891121/photo/1",
+              "media_key": "3_2052366454713122816",
+              "start": 21,
+              "url": "https://t.co/mA7hTMfs2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052366458009891121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普普通通的炒豆芽总不会有人还嘴馋想偷吃叭 https://t.co/mA7hTMfs2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 75,
+          "like_count": 3819,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 963
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

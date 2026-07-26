@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063640036386681191",
+    "created_at": "2026-06-07T16:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063653079149691136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956266694139060228",
+          "start": 0,
+          "username": "FanNuo93726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063653079149691136",
+    "in_reply_to_user_id": "1956266694139060228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063640036386681191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanNuo93726 哦莫，好绝望的文字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063640036386681191",
+        "created_at": "2026-06-07T16:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063653079149691136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956266694139060228",
+              "start": 0,
+              "username": "FanNuo93726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063653079149691136",
+        "in_reply_to_user_id": "1956266694139060228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063640036386681191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanNuo93726 哦莫，好绝望的文字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956266694139060228",
+        "conversation_id": "2063640036386681191",
+        "created_at": "2026-06-07T15:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063640036386681191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063640036386681191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞房，一个挤满拉拉味直女和直男长相gay的伤心地😔💧👈🏻\n我很喜欢我的女神但她是直女。我也很喜欢我的男神但他是gay。我很喜欢的一个s感很强的老师他也是gay💔。到底谁在舞房谈恋爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 87,
+          "like_count": 5778,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1657
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T08:08:32.000Z",
+        "description": "追星和日常碎碎念 /双/上海/06/169/54kg\n有主人了👅\n我喜欢长相养胃的有礼貌的好宝宝，可以找我闲聊呀！\n女孩子的消息我都会回的！！",
+        "id": "1956266694139060228",
+        "location": "我一直在哭",
+        "name": "我想喝番茄浓汤",
+        "pinned_tweet_id": "2062759494460019019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051692596192239620/Wlhz-XvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 147,
+          "like_count": 4863,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 959
+        },
+        "username": "FanNuo93726",
+        "verified": false
+      }
+    ]
+  }
+}

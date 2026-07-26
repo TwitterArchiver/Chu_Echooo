@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074523816945221798",
+    "created_at": "2026-07-08T00:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074657622360498422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867025756842250240",
+          "start": 0,
+          "username": "jing560476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074657622360498422",
+    "in_reply_to_user_id": "1867025756842250240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074523816945221798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing560476 咱也是有猫的人了，以后说话嚣张点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2074523790214877184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMowZVna0AAVHPV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074523789631913984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMowZTcbgAAEIc4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074523790873403392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMowZYEbIAAaVGR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074523790877577217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMowZYFa0AEIVG1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074523816945221798",
+        "created_at": "2026-07-08T00:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074657622360498422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867025756842250240",
+              "start": 0,
+              "username": "jing560476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074657622360498422",
+        "in_reply_to_user_id": "1867025756842250240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074523816945221798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing560476 咱也是有猫的人了，以后说话嚣张点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074523790214877184",
+            "3_2074523789631913984",
+            "3_2074523790873403392",
+            "3_2074523790877577217"
+          ]
+        },
+        "author_id": "1867025756842250240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074523816945221798",
+        "created_at": "2026-07-07T15:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074523816945221798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COdmZf37lz",
+              "end": 171,
+              "expanded_url": "https://x.com/jing560476/status/2074523816945221798/photo/1",
+              "media_key": "3_2074523790214877184",
+              "start": 148,
+              "url": "https://t.co/COdmZf37lz"
+            },
+            {
+              "display_url": "pic.x.com/COdmZf37lz",
+              "end": 171,
+              "expanded_url": "https://x.com/jing560476/status/2074523816945221798/photo/1",
+              "media_key": "3_2074523789631913984",
+              "start": 148,
+              "url": "https://t.co/COdmZf37lz"
+            },
+            {
+              "display_url": "pic.x.com/COdmZf37lz",
+              "end": 171,
+              "expanded_url": "https://x.com/jing560476/status/2074523816945221798/photo/1",
+              "media_key": "3_2074523790873403392",
+              "start": 148,
+              "url": "https://t.co/COdmZf37lz"
+            },
+            {
+              "display_url": "pic.x.com/COdmZf37lz",
+              "end": 171,
+              "expanded_url": "https://x.com/jing560476/status/2074523816945221798/photo/1",
+              "media_key": "3_2074523790877577217",
+              "start": 148,
+              "url": "https://t.co/COdmZf37lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074523816945221798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一只咪流浪的这几个月被风吹雨淋了多少次呢？但是没事啦，都过去了，你有名字了，你有家了，你有骑士病这个妈咪了。\n“江”是我的姓，“骑”是我的态度，而“森”是归宿。\n我把我自己名字里最核心的部分给了你，“骑森”谐音“奇深”（奇妙而深不可测），也谐音“旗升”（旗帜升起飘逸）。\n江骑森，我们一起幸福吧 https://t.co/COdmZf37lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 100,
+          "like_count": 8044,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2810
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T01:56:56.000Z",
+        "description": "叫我小骑&江江/les 0.5 DOM&M/中度焦虑症/此推持续更新女喘和碎碎念还有自己做的饭/不随便约炮/赞赏码已经开通，🚪15r，可接专属定制本也可以聊天聊骚kp或者当树洞，详情可看置顶~只接受女孩子的赞赏/很骚的狗，我的狗@heng1031555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "heng1031555"
+              }
+            ]
+          }
+        },
+        "id": "1867025756842250240",
+        "name": "骑士病",
+        "pinned_tweet_id": "2070278103826612506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074334769706602496/hvxO4cM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 14,
+          "like_count": 2889,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "jing560476",
+        "verified": false
+      }
+    ]
+  }
+}

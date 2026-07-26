@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2043901919769641106",
+    "created_at": "2026-04-14T03:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043901919769641106"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043901919769641106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《人有所操》\n操全世界，操异地恋，操上班迟到，操下班打卡，操原生家庭，操通货膨胀，操延迟退休，操鼓励婚姻，操生老病死，操先天性心疾，操潜规则，操无病呻吟，操物化女性，操男女对立，操灯红酒绿，操纸醉金迷，操形而上学，操孤独，操爱情，操404，操查无此人，操所有人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2043901919769641106",
+        "created_at": "2026-04-14T03:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043901919769641106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043901919769641106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《人有所操》\n操全世界，操异地恋，操上班迟到，操下班打卡，操原生家庭，操通货膨胀，操延迟退休，操鼓励婚姻，操生老病死，操先天性心疾，操潜规则，操无病呻吟，操物化女性，操男女对立，操灯红酒绿，操纸醉金迷，操形而上学，操孤独，操爱情，操404，操查无此人，操所有人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2043165840355574263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 44,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 342
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

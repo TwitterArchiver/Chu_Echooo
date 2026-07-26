@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064165493351870464"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064165500373049635",
+    "created_at": "2026-06-09T01:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064165500373049635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/309tOZhIyD",
+          "end": 43,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2064165500373049635/photo/1",
+          "media_key": "3_2064165493351870464",
+          "start": 20,
+          "url": "https://t.co/309tOZhIyD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064165500373049635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "满脑子都是丞相走好，有没有懂的（o.O https://t.co/309tOZhIyD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_2064165493351870464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVjlGzbcAABpPK.jpg",
+        "width": 1197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064165493351870464"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064165500373049635",
+        "created_at": "2026-06-09T01:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064165500373049635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/309tOZhIyD",
+              "end": 43,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2064165500373049635/photo/1",
+              "media_key": "3_2064165493351870464",
+              "start": 20,
+              "url": "https://t.co/309tOZhIyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064165500373049635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "满脑子都是丞相走好，有没有懂的（o.O https://t.co/309tOZhIyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 87,
+          "like_count": 5866,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1719
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

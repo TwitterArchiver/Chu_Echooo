@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064156414139158794",
+    "created_at": "2026-06-09T01:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064164662191833123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771457845592203264",
+          "start": 0,
+          "username": "ezzz_467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064164662191833123",
+    "in_reply_to_user_id": "1771457845592203264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064156414139158794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezzz_467 没看到的也哭了，一想到我不是那几个人之一，更想哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2064156408220987392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVbUSDbsAAfvGg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064156414139158794",
+        "created_at": "2026-06-09T01:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064164662191833123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771457845592203264",
+              "start": 0,
+              "username": "ezzz_467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064164662191833123",
+        "in_reply_to_user_id": "1771457845592203264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064156414139158794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezzz_467 没看到的也哭了，一想到我不是那几个人之一，更想哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064156408220987392"
+          ]
+        },
+        "author_id": "1771457845592203264",
+        "conversation_id": "2064156414139158794",
+        "created_at": "2026-06-09T01:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064156414139158794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kx7Cuq3LkK",
+              "end": 33,
+              "expanded_url": "https://x.com/ezzz_467/status/2064156414139158794/photo/1",
+              "media_key": "3_2064156408220987392",
+              "start": 10,
+              "url": "https://t.co/Kx7Cuq3LkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064156414139158794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泪点低的已经看哭了 https://t.co/Kx7Cuq3LkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 87,
+          "like_count": 5864,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 1717
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T08:44:10.000Z",
+        "description": "♀｜喜欢女孩｜幸福既然随机 你为何心死\nhttps://t.co/3hugTtSGhO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/difference85614",
+                "end": 43,
+                "expanded_url": "https://ngl.link/difference85614",
+                "start": 20,
+                "url": "https://t.co/3hugTtSGhO"
+              }
+            ]
+          }
+        },
+        "id": "1771457845592203264",
+        "name": "ExCusEmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037901494838800384/QAB5MWpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 122,
+          "like_count": 9542,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1467
+        },
+        "username": "ezzz_467",
+        "verified": false
+      }
+    ]
+  }
+}

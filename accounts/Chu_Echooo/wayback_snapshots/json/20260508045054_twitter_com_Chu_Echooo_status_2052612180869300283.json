@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052595758160126216",
+    "created_at": "2026-05-08T04:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T05:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052612180869300283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032936490079285248",
+          "start": 0,
+          "username": "Mumuxeea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052612180869300283",
+    "in_reply_to_user_id": "2032936490079285248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052605543098044826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mumuxeea 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052595758160126216",
+        "created_at": "2026-05-08T04:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052612180869300283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032936490079285248",
+              "start": 0,
+              "username": "Mumuxeea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052612180869300283",
+        "in_reply_to_user_id": "2032936490079285248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052605543098044826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mumuxeea 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032936490079285248",
+        "conversation_id": "2052595758160126216",
+        "created_at": "2026-05-08T04:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052605543098044826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052605543098044826",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052595758160126216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我方没有说话，并甩去三张牌\n一张好好吃饭\n一张好好睡觉\n一张好好爱自己 \n爱你老己，好好生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 77,
+          "like_count": 3907,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 981
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T21:47:20.000Z",
+        "description": "",
+        "id": "2032936490079285248",
+        "name": "Mumu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036354709867651072/OesJ-Mfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 137,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 788
+        },
+        "username": "Mumuxeea",
+        "verified": false
+      }
+    ]
+  }
+}

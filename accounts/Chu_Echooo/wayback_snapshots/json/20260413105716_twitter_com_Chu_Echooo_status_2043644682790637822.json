@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2043644656857329664"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2043644682790637822",
+    "created_at": "2026-04-13T10:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043644682790637822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZM1VBVKpH0",
+          "end": 69,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2043644682790637822/video/1",
+          "media_key": "7_2043644656857329664",
+          "start": 46,
+          "url": "https://t.co/ZM1VBVKpH0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043644682790637822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直忘不掉这个镜头，\n就是嘟嘟这一幕让我觉得吸烟的女孩子好性感。\n教会了我，教坏了我，嗯。 https://t.co/ZM1VBVKpH0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7875,
+        "height": 356,
+        "media_key": "7_2043644656857329664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043644656857329664/pu/img/eb4QnWe9AETi2tu9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043644656857329664/pu/vid/avc1/646x270/oPpkouhKBq4NkZLQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043644656857329664/pu/vid/avc1/852x356/BqHpJS6Ut7dFfMle.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043644656857329664/pu/pl/0RMCdmnSjqKuJnRO.m3u8?tag=12"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043644656857329664"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2043644682790637822",
+        "created_at": "2026-04-13T10:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043644682790637822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZM1VBVKpH0",
+              "end": 69,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2043644682790637822/video/1",
+              "media_key": "7_2043644656857329664",
+              "start": 46,
+              "url": "https://t.co/ZM1VBVKpH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043644682790637822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直忘不掉这个镜头，\n就是嘟嘟这一幕让我觉得吸烟的女孩子好性感。\n教会了我，教坏了我，嗯。 https://t.co/ZM1VBVKpH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 43,
+          "like_count": 1519,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 323
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

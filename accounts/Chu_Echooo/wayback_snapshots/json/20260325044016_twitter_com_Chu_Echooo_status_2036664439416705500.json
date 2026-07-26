@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2036664439416705500",
+    "created_at": "2026-03-25T04:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036664439416705500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aivCnjpgxg6659…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/aivCnjpgxg66595/status/2036663560202498537",
+          "start": 9,
+          "url": "https://t.co/X34pmlRu4x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036664439416705500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036663560202498537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别骂了，别骂了。 https://t.co/X34pmlRu4x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2036664439416705500",
+        "created_at": "2026-03-25T04:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036664439416705500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aivCnjpgxg6659…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/aivCnjpgxg66595/status/2036663560202498537",
+              "start": 9,
+              "url": "https://t.co/X34pmlRu4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036664439416705500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036663560202498537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别骂了，别骂了。 https://t.co/X34pmlRu4x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862727510720663552",
+        "conversation_id": "2036663560202498537",
+        "created_at": "2026-03-25T04:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036663560202498537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036663560202498537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直女蠢得没边了 男的说些甜言蜜语 给一点情绪价值 只是想无套操逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 48,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 211
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:17:20.000Z",
+        "description": "世界上第一乖巧可爱的女孩子",
+        "id": "1862727510720663552",
+        "name": "Lixx",
+        "pinned_tweet_id": "2031708691972653150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036308889277440003/uINsFGjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 113,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 448
+        },
+        "username": "aivCnjpgxg66595",
+        "verified": false
+      }
+    ]
+  }
+}

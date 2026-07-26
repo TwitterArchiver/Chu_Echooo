@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064515297634357372",
+    "created_at": "2026-06-10T07:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064611723848659422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1275759523",
+          "start": 0,
+          "username": "leon501001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064611723848659422",
+    "in_reply_to_user_id": "1275759523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064609817013162377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leon501001 你没见到是你装瞎，我们反对虐待，同时我们也谴责纵宠伤人。而不像你，上下嘴唇一碰，就开始狺狺狂吠。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T07:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064611723848659422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1275759523",
+              "start": 0,
+              "username": "leon501001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064611723848659422",
+        "in_reply_to_user_id": "1275759523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064609817013162377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leon501001 你没见到是你装瞎，我们反对虐待，同时我们也谴责纵宠伤人。而不像你，上下嘴唇一碰，就开始狺狺狂吠。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1275759523",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T07:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064609817013162377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064609817013162377",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064515297634357372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 狗咬人的时候，怎么不见动保人出来安慰道歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 89,
+          "like_count": 6016,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1794
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-17T19:03:14.000Z",
+        "description": "一个男孩容易喜欢姆巴佩，一个男人更易偏向阿根廷。法国要是夺冠就像赢一场Fifa足球游戏，而阿根廷的梅西夺冠却如同一场人生。",
+        "id": "1275759523",
+        "location": "chongqing",
+        "name": "Leon Chi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323430360361807879/BOtZzdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 57,
+          "like_count": 32,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1072
+        },
+        "username": "leon501001",
+        "verified": false
+      }
+    ]
+  }
+}

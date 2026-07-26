@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055154910606561393",
+    "created_at": "2026-05-15T12:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055265427362889910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808581115902578688",
+          "start": 0,
+          "username": "XiaoXu_XXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055265427362889910",
+    "in_reply_to_user_id": "1808581115902578688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055242620247654630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoXu_XXX 起立！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055154910606561393",
+        "created_at": "2026-05-15T12:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055265427362889910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808581115902578688",
+              "start": 0,
+              "username": "XiaoXu_XXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055265427362889910",
+        "in_reply_to_user_id": "1808581115902578688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055242620247654630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoXu_XXX 起立！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808581115902578688",
+        "conversation_id": "2055154910606561393",
+        "created_at": "2026-05-15T11:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055242620247654630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055242620247654630",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055154910606561393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我穿越了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 84,
+          "like_count": 4554,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1202
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T19:18:50.000Z",
+        "description": "",
+        "id": "1808581115902578688",
+        "location": "？",
+        "name": "绪绪绪绪",
+        "pinned_tweet_id": "1981024364586807372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810552773622341633/FWf6QuEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 19,
+          "like_count": 3496,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1566
+        },
+        "username": "XiaoXu_XXX",
+        "verified": false
+      }
+    ]
+  }
+}

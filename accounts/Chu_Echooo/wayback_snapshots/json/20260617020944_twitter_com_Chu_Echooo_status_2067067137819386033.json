@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067057511178674236",
+    "created_at": "2026-06-17T02:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067067137819386033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2042802770059890690",
+          "start": 0,
+          "username": "o3oD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067067137819386033",
+    "in_reply_to_user_id": "2042802770059890690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067066465682079828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3oD7 就嗯夸，就嗯宠是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067057511178674236",
+        "created_at": "2026-06-17T02:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067067137819386033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2042802770059890690",
+              "start": 0,
+              "username": "o3oD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067067137819386033",
+        "in_reply_to_user_id": "2042802770059890690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067066465682079828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3oD7 就嗯夸，就嗯宠是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042802770059890690",
+        "conversation_id": "2067057511178674236",
+        "created_at": "2026-06-17T02:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067066465682079828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067066465682079828",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067057511178674236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 女神！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 88,
+          "like_count": 6727,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 2085
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T03:13:52.000Z",
+        "description": "",
+        "id": "2042802770059890690",
+        "name": "o3o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044400892263489536/0DU-F-8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 105,
+          "like_count": 12456,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "o3oD7",
+        "verified": false
+      }
+    ]
+  }
+}

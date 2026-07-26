@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054591623196262813",
+    "created_at": "2026-05-14T00:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054722081313698235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932781488149499904",
+          "start": 0,
+          "username": "s_bond68661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054722081313698235",
+    "in_reply_to_user_id": "1932781488149499904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054608460008804658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s_bond68661 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054591623196262813",
+        "created_at": "2026-05-14T00:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054722081313698235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932781488149499904",
+              "start": 0,
+              "username": "s_bond68661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054722081313698235",
+        "in_reply_to_user_id": "1932781488149499904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054608460008804658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s_bond68661 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932781488149499904",
+        "conversation_id": "2054591623196262813",
+        "created_at": "2026-05-13T17:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054608460008804658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054608460008804658",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054591623196262813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 84,
+          "like_count": 4386,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1127
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T12:46:47.000Z",
+        "description": "衣带渐宽终不悔 为伊消得人憔悴",
+        "id": "1932781488149499904",
+        "location": "Macau",
+        "name": "Princess's disulfur bond",
+        "pinned_tweet_id": "1938755380626206810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932781710510555136/Zz8bn2F6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 350,
+          "like_count": 8052,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2412
+        },
+        "username": "s_bond68661",
+        "verified": false
+      }
+    ]
+  }
+}

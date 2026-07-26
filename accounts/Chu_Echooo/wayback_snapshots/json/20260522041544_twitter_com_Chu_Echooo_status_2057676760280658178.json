@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057676742773608449",
+        "3_2057676742807134208"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057676760280658178",
+    "created_at": "2026-05-22T04:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057676760280658178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HPVnMuACfy",
+          "end": 58,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2057676760280658178/photo/1",
+          "media_key": "3_2057676742773608449",
+          "start": 35,
+          "url": "https://t.co/HPVnMuACfy"
+        },
+        {
+          "display_url": "pic.x.com/HPVnMuACfy",
+          "end": 58,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2057676760280658178/photo/1",
+          "media_key": "3_2057676742807134208",
+          "start": 35,
+          "url": "https://t.co/HPVnMuACfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057676760280658178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "淅淅沥沥，滴滴答答，\n有一个女孩子说她喜欢绿色，不知可否投其所好呢。 https://t.co/HPVnMuACfy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057676742773608449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5WGHOakAEEqiR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057676742807134208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5WGHWaIAART1M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057676742773608449",
+            "3_2057676742807134208"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057676760280658178",
+        "created_at": "2026-05-22T04:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057676760280658178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPVnMuACfy",
+              "end": 58,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2057676760280658178/photo/1",
+              "media_key": "3_2057676742773608449",
+              "start": 35,
+              "url": "https://t.co/HPVnMuACfy"
+            },
+            {
+              "display_url": "pic.x.com/HPVnMuACfy",
+              "end": 58,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2057676760280658178/photo/1",
+              "media_key": "3_2057676742807134208",
+              "start": 35,
+              "url": "https://t.co/HPVnMuACfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057676760280658178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淅淅沥沥，滴滴答答，\n有一个女孩子说她喜欢绿色，不知可否投其所好呢。 https://t.co/HPVnMuACfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 85,
+          "like_count": 5061,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1309
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

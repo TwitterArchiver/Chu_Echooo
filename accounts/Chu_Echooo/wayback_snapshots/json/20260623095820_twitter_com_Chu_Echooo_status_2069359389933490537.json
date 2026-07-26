@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2069357204537237756",
+    "created_at": "2026-06-23T09:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069359389933490537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744053807602958336",
+          "start": 0,
+          "username": "Li1ntear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069359389933490537",
+    "in_reply_to_user_id": "1744053807602958336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069357204537237756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li1ntear 又是羡慕泉州女人的一天，她吃得真好啊🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069357166713090048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfVYRNXsAA9msZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069357166717210624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfVYROWkAABhrd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069357166931152897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfVYSBXEAEdMch.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2069357204537237756",
+        "created_at": "2026-06-23T09:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069359389933490537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744053807602958336",
+              "start": 0,
+              "username": "Li1ntear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069359389933490537",
+        "in_reply_to_user_id": "1744053807602958336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069357204537237756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li1ntear 又是羡慕泉州女人的一天，她吃得真好啊🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069357166713090048",
+            "3_2069357166717210624",
+            "3_2069357166931152897"
+          ]
+        },
+        "author_id": "1744053807602958336",
+        "conversation_id": "2069357204537237756",
+        "created_at": "2026-06-23T09:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069357204537237756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHmWovZK4y",
+              "end": 59,
+              "expanded_url": "https://x.com/Li1ntear/status/2069357204537237756/photo/1",
+              "media_key": "3_2069357166713090048",
+              "start": 36,
+              "url": "https://t.co/cHmWovZK4y"
+            },
+            {
+              "display_url": "pic.x.com/cHmWovZK4y",
+              "end": 59,
+              "expanded_url": "https://x.com/Li1ntear/status/2069357204537237756/photo/1",
+              "media_key": "3_2069357166717210624",
+              "start": 36,
+              "url": "https://t.co/cHmWovZK4y"
+            },
+            {
+              "display_url": "pic.x.com/cHmWovZK4y",
+              "end": 59,
+              "expanded_url": "https://x.com/Li1ntear/status/2069357204537237756/photo/1",
+              "media_key": "3_2069357166931152897",
+              "start": 36,
+              "url": "https://t.co/cHmWovZK4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069357204537237756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虎门ootd\n最后一天让我碰上搭讪的精神小伙是什么意思。真的对我很坏。 https://t.co/cHmWovZK4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 95,
+          "like_count": 7388,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2344
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T17:50:25.000Z",
+        "description": "我的世界除了你没人我想联络 https://t.co/eOV17J1rh9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lllightyear",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lllightyear",
+                "start": 14,
+                "url": "https://t.co/eOV17J1rh9"
+              }
+            ]
+          }
+        },
+        "id": "1744053807602958336",
+        "location": "天堂",
+        "name": "川郁砂澪_",
+        "pinned_tweet_id": "2055997051423342725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042153816855121920/jBKQz34x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 55,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "Li1ntear",
+        "verified": false
+      }
+    ]
+  }
+}

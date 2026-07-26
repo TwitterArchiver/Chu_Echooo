@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054520068877529114",
+    "created_at": "2026-05-13T11:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054524105861554469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932781488149499904",
+          "start": 0,
+          "username": "s_bond68661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054524105861554469",
+    "in_reply_to_user_id": "1932781488149499904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054522308312629599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s_bond68661 不给，我护食来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054520068877529114",
+        "created_at": "2026-05-13T11:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054524105861554469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932781488149499904",
+              "start": 0,
+              "username": "s_bond68661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054524105861554469",
+        "in_reply_to_user_id": "1932781488149499904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054522308312629599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s_bond68661 不给，我护食来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932781488149499904",
+        "conversation_id": "2054520068877529114",
+        "created_at": "2026-05-13T11:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054522308312629599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054522308312629599",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054520068877529114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好吃好吃好吃！阿楚我也想吃一个🤤🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 84,
+          "like_count": 4337,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1095
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T12:46:47.000Z",
+        "description": "衣带渐宽终不悔 为伊消得人憔悴",
+        "id": "1932781488149499904",
+        "location": "澳門",
+        "name": "Princess's disulfur bond",
+        "pinned_tweet_id": "1938755380626206810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932781710510555136/Zz8bn2F6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 350,
+          "like_count": 8044,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2407
+        },
+        "username": "s_bond68661",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2037016804095385875",
+    "created_at": "2026-03-26T04:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037024030365278228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000210956820066304",
+          "start": 0,
+          "username": "chocoredwine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037024030365278228",
+    "in_reply_to_user_id": "2000210956820066304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037016804095385875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chocoredwine 或许一个陌生人抱不到的拥抱会让你稍微不那么难过一点🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2037016804095385875",
+        "created_at": "2026-03-26T04:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037024030365278228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000210956820066304",
+              "start": 0,
+              "username": "chocoredwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037024030365278228",
+        "in_reply_to_user_id": "2000210956820066304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037016804095385875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chocoredwine 或许一个陌生人抱不到的拥抱会让你稍微不那么难过一点🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000210956820066304",
+        "conversation_id": "2037016804095385875",
+        "created_at": "2026-03-26T04:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037016804095385875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037016804095385875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我泪点真的特低 我哭得今天眼睛都痛 尤其眨眼的时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 52,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 239
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T14:27:21.000Z",
+        "description": "",
+        "id": "2000210956820066304",
+        "location": "1.19km",
+        "name": "chocoredwine",
+        "pinned_tweet_id": "2025526168389366206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000211219870101504/b8URiGpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 48,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 427
+        },
+        "username": "chocoredwine",
+        "verified": false
+      }
+    ]
+  }
+}

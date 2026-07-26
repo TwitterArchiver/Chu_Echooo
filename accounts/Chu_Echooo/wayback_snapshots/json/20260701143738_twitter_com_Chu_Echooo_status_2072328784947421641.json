@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2072321293777866997",
+    "created_at": "2026-07-01T14:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072328784947421641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3109718172",
+          "start": 0,
+          "username": "maimeng265372"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072328784947421641",
+    "in_reply_to_user_id": "3109718172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072325988558766549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maimeng265372 没买飞镖！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2072321293777866997",
+        "created_at": "2026-07-01T14:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072328784947421641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3109718172",
+              "start": 0,
+              "username": "maimeng265372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072328784947421641",
+        "in_reply_to_user_id": "3109718172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072325988558766549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maimeng265372 没买飞镖！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3109718172",
+        "conversation_id": "2072321293777866997",
+        "created_at": "2026-07-01T14:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072325988558766549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072325988558766549",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072321293777866997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 蒙眼飞镖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 92,
+          "like_count": 7573,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2628
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-27T10:35:23.000Z",
+        "description": "随缘吼两嗓子",
+        "id": "3109718172",
+        "name": "卖萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861840406516019200/iTzGLSim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 76,
+          "like_count": 1022,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "maimeng265372",
+        "verified": false
+      }
+    ]
+  }
+}

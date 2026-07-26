@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2034121728834867548",
+    "created_at": "2026-03-18T05:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034140512576553274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1620135489746669572",
+          "start": 0,
+          "username": "yiaoer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034140512576553274",
+    "in_reply_to_user_id": "1620135489746669572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034121728834867548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiaoer 休想骗我去麦当劳（真香"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034121695641145347",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDqm56qbEAMnrWD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2034121728834867548",
+        "created_at": "2026-03-18T05:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034140512576553274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1620135489746669572",
+              "start": 0,
+              "username": "yiaoer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034140512576553274",
+        "in_reply_to_user_id": "1620135489746669572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034121728834867548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiaoer 休想骗我去麦当劳（真香"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034121695641145347"
+          ]
+        },
+        "author_id": "1620135489746669572",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034121728834867548",
+        "created_at": "2026-03-18T04:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034121728834867548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDJbCDgJDb",
+              "end": 38,
+              "expanded_url": "https://x.com/yiaoer/status/2034121728834867548/photo/1",
+              "media_key": "3_2034121695641145347",
+              "start": 15,
+              "url": "https://t.co/NDJbCDgJDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034121728834867548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦快谢谢我，给你拍得那么大只 https://t.co/NDJbCDgJDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 50,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 62
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T19:03:09.000Z",
+        "description": "精神不正常且毫无逻辑的碎碎念日记",
+        "id": "1620135489746669572",
+        "name": "乖崽",
+        "pinned_tweet_id": "2033441267330478153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032528822147624961/dXuC1ojR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 520,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1382
+        },
+        "username": "yiaoer",
+        "verified": false
+      }
+    ]
+  }
+}

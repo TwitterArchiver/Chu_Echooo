@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050838811450699908",
+    "created_at": "2026-05-03T08:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050848683768545763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2026154754074972160",
+          "start": 0,
+          "username": "Lynn3289726786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050848683768545763",
+    "in_reply_to_user_id": "2026154754074972160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050838811450699908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lynn3289726786 ？这就不要我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050838786469482496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYLAq8bUAAxVn_.jpg",
+        "width": 1958
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050838786473709568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYLAq9b0AAoivh.jpg",
+        "width": 1824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050838811450699908",
+        "created_at": "2026-05-03T08:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050848683768545763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026154754074972160",
+              "start": 0,
+              "username": "Lynn3289726786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050848683768545763",
+        "in_reply_to_user_id": "2026154754074972160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050838811450699908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lynn3289726786 ？这就不要我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050838786469482496",
+            "3_2050838786473709568"
+          ]
+        },
+        "author_id": "2026154754074972160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050838811450699908",
+        "created_at": "2026-05-03T07:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050838811450699908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34i9Qmt8Bi",
+              "end": 45,
+              "expanded_url": "https://x.com/Lynn3289726786/status/2050838811450699908/photo/1",
+              "media_key": "3_2050838786469482496",
+              "start": 22,
+              "url": "https://t.co/34i9Qmt8Bi"
+            },
+            {
+              "display_url": "pic.x.com/34i9Qmt8Bi",
+              "end": 45,
+              "expanded_url": "https://x.com/Lynn3289726786/status/2050838811450699908/photo/1",
+              "media_key": "3_2050838786473709568",
+              "start": 22,
+              "url": "https://t.co/34i9Qmt8Bi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050838811450699908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友来玩，直接给我炒了六个菜，好想和她结婚 https://t.co/34i9Qmt8Bi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 70,
+          "like_count": 3373,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 843
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T04:38:45.000Z",
+        "description": "一些流水账，话很密/重度爱猫女/直的，不是男娘也不是女同/希望你天天开心",
+        "id": "2026154754074972160",
+        "name": "不为菠萝emo",
+        "pinned_tweet_id": "2039992412882575817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047695922738745344/fjqofFEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 19,
+          "like_count": 3294,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 275
+        },
+        "username": "Lynn3289726786",
+        "verified": false
+      }
+    ]
+  }
+}

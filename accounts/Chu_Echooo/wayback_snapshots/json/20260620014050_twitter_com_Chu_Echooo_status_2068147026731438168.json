@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068016277071995055",
+    "created_at": "2026-06-20T01:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068147026731438168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788026680889802752",
+          "start": 0,
+          "username": "suuulii99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068147026731438168",
+    "in_reply_to_user_id": "1788026680889802752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068016277071995055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suuulii99 我不信，让我康康"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2068016260013821952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMR1OfbEAAkqF9.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068016277071995055",
+        "created_at": "2026-06-20T01:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068147026731438168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788026680889802752",
+              "start": 0,
+              "username": "suuulii99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068147026731438168",
+        "in_reply_to_user_id": "1788026680889802752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068016277071995055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suuulii99 我不信，让我康康"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068016260013821952"
+          ]
+        },
+        "author_id": "1788026680889802752",
+        "conversation_id": "2068016277071995055",
+        "created_at": "2026-06-19T17:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068016277071995055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emvSZH43fe",
+              "end": 26,
+              "expanded_url": "https://x.com/suuulii99/status/2068016277071995055/photo/1",
+              "media_key": "3_2068016260013821952",
+              "start": 3,
+              "url": "https://t.co/emvSZH43fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068016277071995055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蒽对 https://t.co/emvSZH43fe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 89,
+          "like_count": 7114,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 2196
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T02:02:47.000Z",
+        "description": "只是我的废话空间 和其他社媒无差｜纯绿 请先阅读置顶｜提问箱⬇️\nhttps://t.co/Y9SHFTfK3H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suuuli25",
+                "end": 56,
+                "expanded_url": "https://ngl.link/suuuli25",
+                "start": 33,
+                "url": "https://t.co/Y9SHFTfK3H"
+              }
+            ]
+          }
+        },
+        "id": "1788026680889802752",
+        "location": "🐈",
+        "name": "椰蓉好塞牙",
+        "pinned_tweet_id": "2063307593536438679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646287497699328/9cuL0C6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 239,
+          "like_count": 7146,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1346
+        },
+        "url": "",
+        "username": "suuulii99",
+        "verified": false
+      }
+    ]
+  }
+}

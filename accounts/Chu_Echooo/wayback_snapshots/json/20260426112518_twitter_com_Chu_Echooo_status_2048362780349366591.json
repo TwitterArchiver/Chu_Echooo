@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048359118340292853",
+    "created_at": "2026-04-26T11:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048362780349366591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040589862504468480",
+          "start": 0,
+          "username": "ccbacat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048362780349366591",
+    "in_reply_to_user_id": "2040589862504468480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048360363792408603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccbacat 吃，吃大口的~！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048359118340292853",
+        "created_at": "2026-04-26T11:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048362780349366591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040589862504468480",
+              "start": 0,
+              "username": "ccbacat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048362780349366591",
+        "in_reply_to_user_id": "2040589862504468480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048360363792408603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccbacat 吃，吃大口的~！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040589862504468480",
+        "conversation_id": "2048359118340292853",
+        "created_at": "2026-04-26T11:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048360363792408603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048360363792408603",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048359118340292853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 好心的旅行者，可否施舍我一口，原你在5.1到来之时得到丰盛的晚餐。感谢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 61,
+          "like_count": 2836,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 544
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T00:38:39.000Z",
+        "description": "无所事事撸猫中",
+        "id": "2040589862504468480",
+        "location": "上海",
+        "name": "雨天看雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040953719009734656/eBeqGRob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "username": "ccbacat",
+        "verified": false
+      }
+    ]
+  }
+}

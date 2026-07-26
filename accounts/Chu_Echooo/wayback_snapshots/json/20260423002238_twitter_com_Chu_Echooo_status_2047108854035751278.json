@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2046892104136401278",
+    "created_at": "2026-04-23T00:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047108854035751278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722982314190471168",
+          "start": 0,
+          "username": "AiMorobosh15644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047108854035751278",
+    "in_reply_to_user_id": "1722982314190471168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047103609176031249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiMorobosh15644 你好，我不看陌生人私信，退一百二十步讲，就算看到我也有选择不回的权利，蟹蟹。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2046892104136401278",
+        "created_at": "2026-04-23T00:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047108854035751278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722982314190471168",
+              "start": 0,
+              "username": "AiMorobosh15644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047108854035751278",
+        "in_reply_to_user_id": "1722982314190471168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047103609176031249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiMorobosh15644 你好，我不看陌生人私信，退一百二十步讲，就算看到我也有选择不回的权利，蟹蟹。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722982314190471168",
+        "conversation_id": "2046892104136401278",
+        "created_at": "2026-04-23T00:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047103609176031249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047103609176031249",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046892104136401278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 私你从来不回我，他们人机有时候还回一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 63,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 455
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T14:19:48.000Z",
+        "description": "小生来此间",
+        "id": "1722982314190471168",
+        "location": "北京",
+        "name": "Ai Moroboshi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045680410383073281/XZ3hNiD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 12,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 114
+        },
+        "username": "AiMorobosh15644",
+        "verified": false
+      }
+    ]
+  }
+}

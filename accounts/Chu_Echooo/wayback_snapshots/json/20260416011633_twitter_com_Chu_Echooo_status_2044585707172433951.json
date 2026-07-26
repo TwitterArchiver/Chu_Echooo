@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044585703238221824"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2044585707172433951",
+    "created_at": "2026-04-16T01:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044585707172433951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f6DPQghSwL",
+          "end": 32,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2044585707172433951/photo/1",
+          "media_key": "3_2044585703238221824",
+          "start": 9,
+          "url": "https://t.co/f6DPQghSwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044585707172433951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "元。气。满。满。 https://t.co/f6DPQghSwL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2044585703238221824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_T3UpbQAAZ1cS.jpg",
+        "width": 440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044585703238221824"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2044585707172433951",
+        "created_at": "2026-04-16T01:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044585707172433951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6DPQghSwL",
+              "end": 32,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2044585707172433951/photo/1",
+              "media_key": "3_2044585703238221824",
+              "start": 9,
+              "url": "https://t.co/f6DPQghSwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044585707172433951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "元。气。满。满。 https://t.co/f6DPQghSwL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/猫叫楚点点/爱恨随意/亲疏随缘/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 50,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 404
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2070420112889307625",
+    "created_at": "2026-06-26T08:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070428623941902567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867025756842250240",
+          "start": 0,
+          "username": "jing560476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070428623941902567",
+    "in_reply_to_user_id": "1867025756842250240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070420112889307625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing560476 反正被掐脖子就是很爽啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2070420112889307625",
+        "created_at": "2026-06-26T08:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070428623941902567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867025756842250240",
+              "start": 0,
+              "username": "jing560476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070428623941902567",
+        "in_reply_to_user_id": "1867025756842250240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070420112889307625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing560476 反正被掐脖子就是很爽啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867025756842250240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2070420112889307625",
+        "created_at": "2026-06-26T08:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070420112889307625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070420112889307625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掐脖子这个xp永远也改不了了，看漫画别人被掐爽，看小说别人被掐也爽，看电视剧也爽，反正掐脖子就是很爽啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 96,
+          "like_count": 7567,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 2446
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T01:56:56.000Z",
+        "description": "叫我小骑&江江/les 0.5 DOM&M/中度焦虑症/此推持续更新女喘和碎碎念还有自己做的饭/不约炮 但是聊骚聊天都可以/赞赏码已经开通，🚪15r，可接专属定制本也可以聊天聊骚当树洞，不会有黄色照片掉落，只接受女孩子的赞赏/没有女人可同时做你的妻子，妈咪，情人，还有小狗的，但如果是小骑的话，全部可以哦ˆㅅˆ",
+        "id": "1867025756842250240",
+        "name": "骑士病",
+        "pinned_tweet_id": "2070278103826612506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068895843965603840/8H-d6xTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 12,
+          "like_count": 2421,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "jing560476",
+        "verified": false
+      }
+    ]
+  }
+}

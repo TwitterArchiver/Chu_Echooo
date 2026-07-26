@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064738688727429503",
+    "created_at": "2026-06-10T15:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064738688727429503"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064738688727429503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安。\n其实自己从来都是偏安一隅的人，胆小，脆弱。\n今天骂了好多人，也见识到了好多人性的扭曲和阴暗，愤恨之余，些许悲哀。\n最初只是想表达一下心情，没有想过言论会发酵到如此，但我也不后悔自己说过的话，我也依然永远喜欢猫猫狗狗。\n我也喜欢今天的阿楚。\n大家都好好休息哦，好梦，无梦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064738688727429503",
+        "created_at": "2026-06-10T15:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064738688727429503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064738688727429503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安。\n其实自己从来都是偏安一隅的人，胆小，脆弱。\n今天骂了好多人，也见识到了好多人性的扭曲和阴暗，愤恨之余，些许悲哀。\n最初只是想表达一下心情，没有想过言论会发酵到如此，但我也不后悔自己说过的话，我也依然永远喜欢猫猫狗狗。\n我也喜欢今天的阿楚。\n大家都好好休息哦，好梦，无梦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 90,
+          "like_count": 6073,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1824
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

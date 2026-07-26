@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2072618275486503255",
+    "created_at": "2026-07-02T12:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072662549099913667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945841417412124673",
+          "start": 0,
+          "username": "Gianni_Peng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072662549099913667",
+    "in_reply_to_user_id": "1945841417412124673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072626652576882709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gianni_Peng 全是字母我看不懂哇！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2072618275486503255",
+        "created_at": "2026-07-02T12:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072662549099913667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945841417412124673",
+              "start": 0,
+              "username": "Gianni_Peng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072662549099913667",
+        "in_reply_to_user_id": "1945841417412124673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072626652576882709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gianni_Peng 全是字母我看不懂哇！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945841417412124673",
+        "conversation_id": "2072618275486503255",
+        "created_at": "2026-07-02T10:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072626652576882709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072626652576882709",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072618275486503255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 有🙋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 100,
+          "like_count": 7643,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 2674
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T13:42:47.000Z",
+        "description": "",
+        "id": "1945841417412124673",
+        "name": "Gianni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068827869120196608/uzLpuw7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 142,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Gianni_Peng",
+        "verified": false
+      }
+    ]
+  }
+}

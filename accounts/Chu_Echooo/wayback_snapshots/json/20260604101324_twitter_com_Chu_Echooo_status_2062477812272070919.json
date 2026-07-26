@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062477812272070919",
+    "created_at": "2026-06-04T10:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062477812272070919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chu_Echooo/sta…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Chu_Echooo/status/2054487854999576728",
+          "start": 56,
+          "url": "https://t.co/ZswIua4CKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062477812272070919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054487854999576728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又要准备双取一些很久没有出现，很久没有联系，很久没有互动的人了。\n感谢曾经出现过的你，感谢你曾给过我的温柔。 https://t.co/ZswIua4CKW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062477812272070919",
+        "created_at": "2026-06-04T10:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062477812272070919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chu_Echooo/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Chu_Echooo/status/2054487854999576728",
+              "start": 56,
+              "url": "https://t.co/ZswIua4CKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062477812272070919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054487854999576728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又要准备双取一些很久没有出现，很久没有联系，很久没有互动的人了。\n感谢曾经出现过的你，感谢你曾给过我的温柔。 https://t.co/ZswIua4CKW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054487854999576728",
+        "created_at": "2026-05-13T09:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054487854999576728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054487854999576728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 543,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是想说，我实在是一个对社交质量要求很高的人。\n如果你的主页一片空白，如果你许久不曾出现在我的视野，如果你表达了评论了转发了我感觉到不干净的东西，我很抱歉。\n是我们无缘，或者缘已尽。\n当然，你亦可以如此。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 88,
+          "like_count": 5392,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1448
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

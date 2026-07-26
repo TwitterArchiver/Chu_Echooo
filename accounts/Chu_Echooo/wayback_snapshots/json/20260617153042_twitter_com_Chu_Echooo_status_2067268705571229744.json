@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067053744077050237",
+    "created_at": "2026-06-17T15:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067268705571229744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "882221747176480772",
+          "start": 0,
+          "username": "lo114_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067268705571229744",
+    "in_reply_to_user_id": "882221747176480772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067053744077050237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lo114_ 这是灵珠宝宝好叭！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067053732085592064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-mauibcAAQJd-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067053744077050237",
+        "created_at": "2026-06-17T15:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067268705571229744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "882221747176480772",
+              "start": 0,
+              "username": "lo114_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067268705571229744",
+        "in_reply_to_user_id": "882221747176480772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067053744077050237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lo114_ 这是灵珠宝宝好叭！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067053732085592064"
+          ]
+        },
+        "author_id": "882221747176480772",
+        "conversation_id": "2067053744077050237",
+        "created_at": "2026-06-17T01:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067053744077050237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BiSEXr1aiT",
+              "end": 48,
+              "expanded_url": "https://x.com/lo114_/status/2067053744077050237/photo/1",
+              "media_key": "3_2067053732085592064",
+              "start": 25,
+              "url": "https://t.co/BiSEXr1aiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067053744077050237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 631,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开到魔丸了\n第一天到家就开始跑酷\n人走到哪跟到哪 https://t.co/BiSEXr1aiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 88,
+          "like_count": 6867,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 2143
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-04T12:57:10.000Z",
+        "description": "",
+        "id": "882221747176480772",
+        "location": "Toronto, Ontario",
+        "name": "拳头硬了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807442133424488448/iqzRA1Bk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 753,
+          "like_count": 13733,
+          "listed_count": 5,
+          "media_count": 1632,
+          "tweet_count": 13855
+        },
+        "username": "lo114_",
+        "verified": false
+      }
+    ]
+  }
+}

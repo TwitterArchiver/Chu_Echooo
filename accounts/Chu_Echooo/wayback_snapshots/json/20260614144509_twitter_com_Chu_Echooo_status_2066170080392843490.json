@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066122028344918140",
+    "created_at": "2026-06-14T14:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066170080392843490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862727510720663552",
+          "start": 0,
+          "username": "aivCnjpgxg66595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066170080392843490",
+    "in_reply_to_user_id": "1862727510720663552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066122028344918140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aivCnjpgxg66595 看了一眼，开始困了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066122013236936704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxXBjWaQAALW3t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066122028344918140",
+        "created_at": "2026-06-14T14:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066170080392843490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862727510720663552",
+              "start": 0,
+              "username": "aivCnjpgxg66595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066170080392843490",
+        "in_reply_to_user_id": "1862727510720663552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066122028344918140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aivCnjpgxg66595 看了一眼，开始困了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066122013236936704"
+          ]
+        },
+        "author_id": "1862727510720663552",
+        "conversation_id": "2066122028344918140",
+        "created_at": "2026-06-14T11:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066122028344918140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plV4mjoHx4",
+              "end": 49,
+              "expanded_url": "https://x.com/aivCnjpgxg66595/status/2066122028344918140/photo/1",
+              "media_key": "3_2066122013236936704",
+              "start": 26,
+              "url": "https://t.co/plV4mjoHx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066122028344918140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要记单词更快 就只能先忘记自己的母语 用英语思维 https://t.co/plV4mjoHx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 90,
+          "like_count": 6482,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1938
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:17:20.000Z",
+        "description": "",
+        "id": "1862727510720663552",
+        "location": "一个美丽的地方",
+        "name": "恰咪果",
+        "pinned_tweet_id": "2053160579138011425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056402462026993664/xYLHOoyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 116,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 871
+        },
+        "username": "aivCnjpgxg66595",
+        "verified": false
+      }
+    ]
+  }
+}

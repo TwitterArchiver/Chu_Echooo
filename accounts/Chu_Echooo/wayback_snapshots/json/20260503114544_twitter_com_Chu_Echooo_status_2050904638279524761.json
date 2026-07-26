@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050896990725423260",
+    "created_at": "2026-05-03T11:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050904638279524761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862727510720663552",
+          "start": 0,
+          "username": "aivCnjpgxg66595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050904638279524761",
+    "in_reply_to_user_id": "1862727510720663552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050896990725423260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aivCnjpgxg66595 路过，偷吃一颗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050896979572727808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY_79JaoAAM-J9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050896990725423260",
+        "created_at": "2026-05-03T11:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050904638279524761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862727510720663552",
+              "start": 0,
+              "username": "aivCnjpgxg66595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050904638279524761",
+        "in_reply_to_user_id": "1862727510720663552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050896990725423260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aivCnjpgxg66595 路过，偷吃一颗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050896979572727808"
+          ]
+        },
+        "author_id": "1862727510720663552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050896990725423260",
+        "created_at": "2026-05-03T11:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050896990725423260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GgDUCsE0rH",
+              "end": 36,
+              "expanded_url": "https://x.com/aivCnjpgxg66595/status/2050896990725423260/photo/1",
+              "media_key": "3_2050896979572727808",
+              "start": 13,
+              "url": "https://t.co/GgDUCsE0rH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050896990725423260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事已至此 先吃点蓝莓吧！ https://t.co/GgDUCsE0rH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 70,
+          "like_count": 3393,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 850
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:17:20.000Z",
+        "description": "",
+        "id": "1862727510720663552",
+        "name": "恰迷果",
+        "pinned_tweet_id": "2045188246330863773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050467713232015362/fs_1MBdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 113,
+          "like_count": 1945,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 619
+        },
+        "username": "aivCnjpgxg66595",
+        "verified": false
+      }
+    ]
+  }
+}

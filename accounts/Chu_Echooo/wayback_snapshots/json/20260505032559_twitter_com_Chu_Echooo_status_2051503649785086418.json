@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051495476684623956",
+    "created_at": "2026-05-05T03:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T04:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051503649785086418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2026154754074972160",
+          "start": 0,
+          "username": "Lynn3289726786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051503649785086418",
+    "in_reply_to_user_id": "2026154754074972160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051501312337224052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lynn3289726786 小菠萝好坏，我好爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051495476684623956",
+        "created_at": "2026-05-05T03:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051503649785086418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026154754074972160",
+              "start": 0,
+              "username": "Lynn3289726786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051503649785086418",
+        "in_reply_to_user_id": "2026154754074972160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051501312337224052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lynn3289726786 小菠萝好坏，我好爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026154754074972160",
+        "conversation_id": "2051495476684623956",
+        "created_at": "2026-05-05T03:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051501312337224052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051501312337224052",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051500807946936584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 挟持楚点点做猫质，就能把小阿楚引过来了😏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 71,
+          "like_count": 3565,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 928
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T04:38:45.000Z",
+        "description": "一些流水账但是话很密/重度爱猫女/直的，不是男娘也不是女同/希望你天天开心",
+        "id": "2026154754074972160",
+        "name": "不为菠萝emo",
+        "pinned_tweet_id": "2039992412882575817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047695922738745344/fjqofFEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 20,
+          "like_count": 3474,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 308
+        },
+        "username": "Lynn3289726786",
+        "verified": false
+      }
+    ]
+  }
+}

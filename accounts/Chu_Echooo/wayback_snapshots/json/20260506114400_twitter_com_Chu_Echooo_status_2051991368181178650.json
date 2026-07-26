@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051988894246146549",
+    "created_at": "2026-05-06T11:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051991368181178650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622854553690607622",
+          "start": 0,
+          "username": "QwertyuioPedc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051991368181178650",
+    "in_reply_to_user_id": "1622854553690607622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051988894246146549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwertyuioPedc 哇靠，说出来你可能不信，我今天一整天脑袋里都是这句话..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051988871567605762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHohAbzXgAISqPG.jpg",
+        "width": 1589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051988894246146549",
+        "created_at": "2026-05-06T11:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051991368181178650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622854553690607622",
+              "start": 0,
+              "username": "QwertyuioPedc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051991368181178650",
+        "in_reply_to_user_id": "1622854553690607622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051988894246146549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwertyuioPedc 哇靠，说出来你可能不信，我今天一整天脑袋里都是这句话..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051988871567605762"
+          ]
+        },
+        "author_id": "1622854553690607622",
+        "conversation_id": "2051988894246146549",
+        "created_at": "2026-05-06T11:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051988894246146549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ODFyxFdfn",
+              "end": 32,
+              "expanded_url": "https://x.com/QwertyuioPedc/status/2051988894246146549/photo/1",
+              "media_key": "3_2051988871567605762",
+              "start": 9,
+              "url": "https://t.co/4ODFyxFdfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051988894246146549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至少我还拥有自由 https://t.co/4ODFyxFdfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 72,
+          "like_count": 3700,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 956
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T07:07:56.000Z",
+        "description": "我又一次梦到了那条龙",
+        "id": "1622854553690607622",
+        "name": "夫斯基也像你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828623581141676032/XwEAPmql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 256,
+          "like_count": 33443,
+          "listed_count": 4,
+          "media_count": 291,
+          "tweet_count": 1332
+        },
+        "username": "QwertyuioPedc",
+        "verified": false
+      }
+    ]
+  }
+}

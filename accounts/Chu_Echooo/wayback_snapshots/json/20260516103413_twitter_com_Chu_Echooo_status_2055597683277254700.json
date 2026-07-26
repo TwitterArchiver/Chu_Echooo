@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055597683277254700",
+    "created_at": "2026-05-16T10:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055597683277254700"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055597683277254700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我哭了 我的眼泪顺着我的天然双眼皮 我娇俏的鼻子 我饱满的苹果肌 一直流到我尖锐的下巴 然后啪嗒啪嗒落在我瘦削的锁骨上 滑进我36D的胸里 我的眼泪就这样流了下来 没有一点点防备"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055597683277254700",
+        "created_at": "2026-05-16T10:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055597683277254700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055597683277254700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我哭了 我的眼泪顺着我的天然双眼皮 我娇俏的鼻子 我饱满的苹果肌 一直流到我尖锐的下巴 然后啪嗒啪嗒落在我瘦削的锁骨上 滑进我36D的胸里 我的眼泪就这样流了下来 没有一点点防备"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 83,
+          "like_count": 4629,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1234
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

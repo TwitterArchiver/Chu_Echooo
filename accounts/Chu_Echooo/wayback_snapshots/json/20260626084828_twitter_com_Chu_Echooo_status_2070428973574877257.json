@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2070424717375541617",
+    "created_at": "2026-06-26T08:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070428973574877257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026154754074972160",
+          "start": 0,
+          "username": "linx2desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070428973574877257",
+    "in_reply_to_user_id": "2026154754074972160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070424717375541617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linx2desu 我也愿意对你好，宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2070424698958319616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLugS0ubEAAheMx.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2070424717375541617",
+        "created_at": "2026-06-26T08:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070428973574877257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026154754074972160",
+              "start": 0,
+              "username": "linx2desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070428973574877257",
+        "in_reply_to_user_id": "2026154754074972160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070424717375541617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linx2desu 我也愿意对你好，宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070424698958319616"
+          ]
+        },
+        "author_id": "2026154754074972160",
+        "conversation_id": "2070424717375541617",
+        "created_at": "2026-06-26T08:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070424717375541617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LUFFOWFZ8",
+              "end": 53,
+              "expanded_url": "https://x.com/linx2desu/status/2070424717375541617/photo/1",
+              "media_key": "3_2070424698958319616",
+              "start": 30,
+              "url": "https://t.co/4LUFFOWFZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070424717375541617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好恨我的回避和不配得感，胆小鬼连靠近幸福都小心翼翼，心好乱 https://t.co/4LUFFOWFZ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 96,
+          "like_count": 7570,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T04:38:45.000Z",
+        "description": "重度爱猫女/一些日常/慢热/希望你天天开心",
+        "id": "2026154754074972160",
+        "location": "呆胶布",
+        "name": "不为菠萝emo",
+        "pinned_tweet_id": "2046800926019891709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053022497495523328/GGMf8x10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 21,
+          "like_count": 4229,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "linx2desu",
+        "verified": false
+      }
+    ]
+  }
+}

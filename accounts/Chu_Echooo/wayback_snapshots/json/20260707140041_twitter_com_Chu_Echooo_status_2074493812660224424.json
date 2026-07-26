@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074485502091358567",
+    "created_at": "2026-07-07T14:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074493812660224424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1459176683920003074",
+          "start": 0,
+          "username": "SBehtzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074493812660224424",
+    "in_reply_to_user_id": "1459176683920003074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074490003124838675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SBehtzy 这个家就没有我楚点点去不到的地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074485502091358567",
+        "created_at": "2026-07-07T14:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074493812660224424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1459176683920003074",
+              "start": 0,
+              "username": "SBehtzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074493812660224424",
+        "in_reply_to_user_id": "1459176683920003074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074490003124838675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SBehtzy 这个家就没有我楚点点去不到的地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459176683920003074",
+        "conversation_id": "2074485502091358567",
+        "created_at": "2026-07-07T13:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074490003124838675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074490003124838675",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074485502091358567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 这孩子怎么东躲西藏的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 100,
+          "like_count": 8031,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2806
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T15:10:25.000Z",
+        "description": "我們一起離開吧.",
+        "id": "1459176683920003074",
+        "location": "Los Angeles, CA",
+        "name": "SB",
+        "pinned_tweet_id": "1877218798010290285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007673897957896197/fY_VZPxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 93,
+          "like_count": 10729,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "SBehtzy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068178214913016254",
+    "created_at": "2026-06-20T05:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068197769924563278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068197769924563278",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068178214913016254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 心疼🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2068178211628896256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOlIDRX0AAGKgn.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068178214913016254",
+        "created_at": "2026-06-20T05:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068197769924563278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068197769924563278",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068178214913016254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 心疼🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068178211628896256"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2068178214913016254",
+        "created_at": "2026-06-20T03:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068178214913016254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xVEKZFyM9",
+              "end": 135,
+              "expanded_url": "https://x.com/liujiayi1111/status/2068178214913016254/photo/1",
+              "media_key": "3_2068178211628896256",
+              "start": 112,
+              "url": "https://t.co/9xVEKZFyM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068178214913016254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跟游戏理解不在一个层面的队友真的没办法沟通的，开局我野怪都不刷，直接帮中单打掉对面半血和闪现，再去上路把对面上单抓个半血，然后开始刷野，我又没落后很多，前期把两路都打掉半血让你们轻松线杀，后面抓下不小心失误了就一直说我jg gap，说我cs没对面多，我打乱对面打野节奏保下路不被抓，我又控龙，每次路过中路骚扰得对面没办法补刀，牺牲自己打得这么团队还说我gap，还被队友一直针对ping信号，真是要气哭了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 662,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟游戏理解不在一个层面的队友真的没办法沟通的，开局我野怪都不刷，直接帮中单打掉对面半血和闪现，再去上路把对面上单抓个半血，然后开始刷野，我又没落后很多，前期把两路都打掉半血让你们轻松线杀，后面抓下不小心失误了就一直说我jg https://t.co/9xVEKZFyM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 89,
+          "like_count": 7125,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 2203
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYIHJ7"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9024,
+          "following_count": 96,
+          "like_count": 9808,
+          "listed_count": 23,
+          "media_count": 234,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/MsaRlYIHJ7",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

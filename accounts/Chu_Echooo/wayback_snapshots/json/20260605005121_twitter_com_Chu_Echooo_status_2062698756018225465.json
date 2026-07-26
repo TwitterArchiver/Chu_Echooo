@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062692404378153050",
+    "created_at": "2026-06-05T00:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062698756018225465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053114193222479874",
+          "start": 0,
+          "username": "zip_zip0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062698756018225465",
+    "in_reply_to_user_id": "2053114193222479874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062692404378153050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zip_zip0101 祝好，宝贝，希望你不要后悔这份迟到的错过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062692404378153050",
+        "created_at": "2026-06-05T00:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062698756018225465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053114193222479874",
+              "start": 0,
+              "username": "zip_zip0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062698756018225465",
+        "in_reply_to_user_id": "2053114193222479874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062692404378153050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zip_zip0101 祝好，宝贝，希望你不要后悔这份迟到的错过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053114193222479874",
+        "conversation_id": "2062692404378153050",
+        "created_at": "2026-06-05T00:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062692404378153050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062692404378153050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才知道有隐藏私信。一打开我错过了好多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 88,
+          "like_count": 5440,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1477
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:07:29.000Z",
+        "description": "",
+        "id": "2053114193222479874",
+        "name": "Cocoya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053115257418059778/qd9shK9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 91,
+          "like_count": 4934,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 400
+        },
+        "username": "zip_zip0101",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033512230185299969"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2033512233330991530",
+    "created_at": "2026-03-16T11:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033512233330991530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VxQOBnofqR",
+          "end": 41,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2033512233330991530/photo/1",
+          "media_key": "3_2033512230185299969",
+          "start": 18,
+          "url": "https://t.co/VxQOBnofqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033512233330991530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你也喜欢小猫咪，那我就喜欢你~ https://t.co/VxQOBnofqR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2033512230185299969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDh8mW6bcAEZU5g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033512230185299969"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2033512233330991530",
+        "created_at": "2026-03-16T11:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033512233330991530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VxQOBnofqR",
+              "end": 41,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2033512233330991530/photo/1",
+              "media_key": "3_2033512230185299969",
+              "start": 18,
+              "url": "https://t.co/VxQOBnofqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033512233330991530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你也喜欢小猫咪，那我就喜欢你~ https://t.co/VxQOBnofqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好，不接受任何反驳",
+        "id": "2033228136180219904",
+        "name": "阿楚",
+        "pinned_tweet_id": "2033237946355335334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

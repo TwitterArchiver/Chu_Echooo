@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067528455634448630",
+    "created_at": "2026-06-18T08:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067529287385948334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067529287385948334",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067528455634448630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywxqz_sy 555555555555555"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2067528447719768064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFWK0FaAAAXkW3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067528455634448630",
+        "created_at": "2026-06-18T08:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067529287385948334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067529287385948334",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067528455634448630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywxqz_sy 555555555555555"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067528447719768064"
+          ]
+        },
+        "author_id": "1635516217200099328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067528455634448630",
+        "created_at": "2026-06-18T08:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067528455634448630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tl0FAj7R3N",
+              "end": 29,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2067528455634448630/photo/1",
+              "media_key": "3_2067528447719768064",
+              "start": 6,
+              "url": "https://t.co/tl0FAj7R3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067528455634448630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤲🏻玩一下 https://t.co/tl0FAj7R3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 88,
+          "like_count": 6926,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2170
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/kuVq03QEYP"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000165241905401856/MYfFRFqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 551,
+          "like_count": 26307,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 8155
+        },
+        "url": "https://t.co/kuVq03QEYP",
+        "username": "ywxqz_sy",
+        "verified": true
+      }
+    ]
+  }
+}

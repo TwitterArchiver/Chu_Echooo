@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069022210841587712",
+        "3_2069022211026087936"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2069022213177848093",
+    "created_at": "2026-06-22T11:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069022213177848093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YbgHM8SLwj",
+          "end": 65,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2069022213177848093/photo/1",
+          "media_key": "3_2069022210841587712",
+          "start": 42,
+          "url": "https://t.co/YbgHM8SLwj"
+        },
+        {
+          "display_url": "pic.x.com/YbgHM8SLwj",
+          "end": 65,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2069022213177848093/photo/1",
+          "media_key": "3_2069022211026087936",
+          "start": 42,
+          "url": "https://t.co/YbgHM8SLwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069022213177848093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给孩子带了两根狗尾巴草回来，孩子玩得不亦乐乎，感觉以后买小玩具的钱可以省下来了呢~ https://t.co/YbgHM8SLwj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_2069022210841587712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLakvRWbMAASqer.jpg",
+        "width": 850
+      },
+      {
+        "height": 669,
+        "media_key": "3_2069022211026087936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLakvSCacAAgAFE.jpg",
+        "width": 855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069022210841587712",
+            "3_2069022211026087936"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2069022213177848093",
+        "created_at": "2026-06-22T11:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069022213177848093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbgHM8SLwj",
+              "end": 65,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2069022213177848093/photo/1",
+              "media_key": "3_2069022210841587712",
+              "start": 42,
+              "url": "https://t.co/YbgHM8SLwj"
+            },
+            {
+              "display_url": "pic.x.com/YbgHM8SLwj",
+              "end": 65,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2069022213177848093/photo/1",
+              "media_key": "3_2069022211026087936",
+              "start": 42,
+              "url": "https://t.co/YbgHM8SLwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069022213177848093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给孩子带了两根狗尾巴草回来，孩子玩得不亦乐乎，感觉以后买小玩具的钱可以省下来了呢~ https://t.co/YbgHM8SLwj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 93,
+          "like_count": 7272,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2300
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

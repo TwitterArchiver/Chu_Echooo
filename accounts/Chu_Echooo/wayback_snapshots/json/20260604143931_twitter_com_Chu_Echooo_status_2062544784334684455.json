@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2062535627040825731",
+    "created_at": "2026-06-04T14:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062544784334684455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957852552286060544",
+          "start": 0,
+          "username": "qi_si72468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062544784334684455",
+    "in_reply_to_user_id": "1957852552286060544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062535627040825731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si72468 撞我身上，我接住你~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062535623718920192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ZONRa4AAf7Uq.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062535623676973056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ZONHa0AAmtwY.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2062535627040825731",
+        "created_at": "2026-06-04T14:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062544784334684455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957852552286060544",
+              "start": 0,
+              "username": "qi_si72468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062544784334684455",
+        "in_reply_to_user_id": "1957852552286060544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062535627040825731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si72468 撞我身上，我接住你~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062535623718920192",
+            "3_2062535623676973056"
+          ]
+        },
+        "author_id": "1957852552286060544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062535627040825731",
+        "created_at": "2026-06-04T14:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062535627040825731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUSoVmNwvx",
+              "end": 43,
+              "expanded_url": "https://x.com/qi_si72468/status/2062535627040825731/photo/1",
+              "media_key": "3_2062535623718920192",
+              "start": 20,
+              "url": "https://t.co/gUSoVmNwvx"
+            },
+            {
+              "display_url": "pic.x.com/gUSoVmNwvx",
+              "end": 43,
+              "expanded_url": "https://x.com/qi_si72468/status/2062535627040825731/photo/1",
+              "media_key": "3_2062535623676973056",
+              "start": 20,
+              "url": "https://t.co/gUSoVmNwvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062535627040825731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵。恨不得一头撞在豆腐上和世界说再见 https://t.co/gUSoVmNwvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 88,
+          "like_count": 5417,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1460
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T17:10:51.000Z",
+        "description": "不为人知的少女日记本丨碎碎念丨08丨世界上最帅最萌之推丨欢迎投喂助力鱿鱿小吱的成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukomo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukomo",
+                "start": 0,
+                "url": "https://t.co/k0398NYtHU"
+              }
+            ]
+          }
+        },
+        "id": "1957852552286060544",
+        "location": "这里幸运女高碎碎念bot",
+        "name": "yukomo",
+        "pinned_tweet_id": "2048705021244817843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051961285441695744/gQKCSmHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 104,
+          "like_count": 8921,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 3033
+        },
+        "url": "https://t.co/k0398NYtHU",
+        "username": "qi_si72468",
+        "verified": false
+      }
+    ]
+  }
+}

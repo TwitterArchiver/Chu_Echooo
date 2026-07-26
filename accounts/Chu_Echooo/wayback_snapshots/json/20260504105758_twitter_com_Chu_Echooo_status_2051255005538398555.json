@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051239931641766325",
+    "created_at": "2026-05-04T10:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051255005538398555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1295640838182060033",
+          "start": 0,
+          "username": "pv_wen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051255005538398555",
+    "in_reply_to_user_id": "1295640838182060033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051244974294151398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pv_wen （呲牙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051239931641766325",
+        "created_at": "2026-05-04T10:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051255005538398555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1295640838182060033",
+              "start": 0,
+              "username": "pv_wen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051255005538398555",
+        "in_reply_to_user_id": "1295640838182060033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051244974294151398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pv_wen （呲牙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295640838182060033",
+        "conversation_id": "2051239931641766325",
+        "created_at": "2026-05-04T10:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051244974294151398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051244974294151398",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051239931641766325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 刚睡醒^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 70,
+          "like_count": 3502,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 894
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-18T08:37:09.000Z",
+        "description": "好想死啊",
+        "id": "1295640838182060033",
+        "name": "今天也要加油努力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837119933827928066/LUG9v1wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 2153,
+          "like_count": 2812,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 820
+        },
+        "username": "pv_wen",
+        "verified": false
+      }
+    ]
+  }
+}

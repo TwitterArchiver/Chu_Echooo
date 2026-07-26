@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2079842572852416725",
+    "created_at": "2026-07-22T08:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079842723482497484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1928337306202570752",
+          "start": 0,
+          "username": "950yyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079842723482497484",
+    "in_reply_to_user_id": "1928337306202570752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079842572852416725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@950yyds 有多高兴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2079842572852416725",
+        "created_at": "2026-07-22T08:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079842723482497484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1928337306202570752",
+              "start": 0,
+              "username": "950yyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079842723482497484",
+        "in_reply_to_user_id": "1928337306202570752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079842572852416725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@950yyds 有多高兴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928337306202570752",
+        "conversation_id": "2079842572852416725",
+        "created_at": "2026-07-22T08:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079842572852416725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079842572852416725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好呀！这里是950(老号是coco)，喜欢看一点碎碎念、分享日常和发表一些见解。很高兴认识你们，也希望你们天天开心！That’s all !"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 101,
+          "like_count": 8200,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T06:27:08.000Z",
+        "description": "00 |♍️| INTJ|碎碎念|Chiikawa粉|\nAI x 美股 x Crypto x 投研 x 生活\n随缘交易｜和飞鼠共用一账号\n匿名信箱：https://t.co/bKodY8PDHz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/950yyds",
+                "end": 97,
+                "expanded_url": "https://ngl.link/950yyds",
+                "start": 74,
+                "url": "https://t.co/bKodY8PDHz"
+              }
+            ]
+          }
+        },
+        "id": "1928337306202570752",
+        "location": "温柔贩卖机",
+        "name": "950",
+        "pinned_tweet_id": "2079842572852416725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074467999806021632/y-YA2_oQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 2201,
+          "like_count": 13289,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 2676
+        },
+        "url": "",
+        "username": "950yyds",
+        "verified": true
+      }
+    ]
+  }
+}

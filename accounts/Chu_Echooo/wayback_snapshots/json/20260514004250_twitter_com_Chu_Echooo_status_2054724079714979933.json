@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054629334657507548",
+    "created_at": "2026-05-14T00:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054724079714979933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981028047139876864",
+          "start": 0,
+          "username": "Misty4806095802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054724079714979933",
+    "in_reply_to_user_id": "1981028047139876864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054629334657507548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misty4806095802 只有帅萌占据了我的双眼，谁还看手机壳啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2054629327069982720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIOCfLEbMAAMO0s.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2054629327095173120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIOCfLKbkAAZIq0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054629334657507548",
+        "created_at": "2026-05-14T00:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054724079714979933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981028047139876864",
+              "start": 0,
+              "username": "Misty4806095802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054724079714979933",
+        "in_reply_to_user_id": "1981028047139876864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054629334657507548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misty4806095802 只有帅萌占据了我的双眼，谁还看手机壳啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054629327069982720",
+            "3_2054629327095173120"
+          ]
+        },
+        "author_id": "1981028047139876864",
+        "conversation_id": "2054629334657507548",
+        "created_at": "2026-05-13T18:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054629334657507548"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "les"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0ly0pd8TT",
+              "end": 50,
+              "expanded_url": "https://x.com/Misty4806095802/status/2054629334657507548/photo/1",
+              "media_key": "3_2054629327069982720",
+              "start": 27,
+              "url": "https://t.co/l0ly0pd8TT"
+            },
+            {
+              "display_url": "pic.x.com/l0ly0pd8TT",
+              "end": 50,
+              "expanded_url": "https://x.com/Misty4806095802/status/2054629334657507548/photo/1",
+              "media_key": "3_2054629327095173120",
+              "start": 27,
+              "url": "https://t.co/l0ly0pd8TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054629334657507548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当年是抽什么风买的这个手机壳。。？#les #wlw https://t.co/l0ly0pd8TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 84,
+          "like_count": 4404,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1131
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T16:01:25.000Z",
+        "description": "le 长发 sub 0 brat🐱 喜欢摇滚的漂亮小猫，欢迎女生给我发私信https://t.co/xf9GBmkcy8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiandanhuang",
+                "end": 60,
+                "expanded_url": "https://ngl.link/xiandanhuang",
+                "start": 37,
+                "url": "https://t.co/xf9GBmkcy8"
+              }
+            ]
+          }
+        },
+        "id": "1981028047139876864",
+        "location": "地球online",
+        "name": "世界第一咸蛋黄",
+        "pinned_tweet_id": "2054323317046141128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994120532569280517/el9HrHF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 83,
+          "like_count": 5101,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 931
+        },
+        "username": "Misty4806095802",
+        "verified": false
+      }
+    ]
+  }
+}

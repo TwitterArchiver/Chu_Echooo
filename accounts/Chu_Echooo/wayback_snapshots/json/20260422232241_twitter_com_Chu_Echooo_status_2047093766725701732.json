@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2046960669078311232",
+    "created_at": "2026-04-22T23:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047093766725701732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973806536293298178",
+          "start": 0,
+          "username": "514863bybohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047093766725701732",
+    "in_reply_to_user_id": "1973806536293298178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047027443354181863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@514863bybohy 我赫茨伯格双因素理论不配做你的ID吗（死去的知识突然攻击我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2046960669078311232",
+        "created_at": "2026-04-22T23:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047093766725701732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973806536293298178",
+              "start": 0,
+              "username": "514863bybohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047093766725701732",
+        "in_reply_to_user_id": "1973806536293298178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047027443354181863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@514863bybohy 我赫茨伯格双因素理论不配做你的ID吗（死去的知识突然攻击我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973806536293298178",
+        "conversation_id": "2046960669078311232",
+        "created_at": "2026-04-22T18:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047027443354181863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047027443354181863",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046960669078311232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 遇到特别特别喜欢想夸夸的人就会私信，其他时候不会，因为感觉很容易冒犯到别人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 63,
+          "like_count": 2283,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 451
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T17:45:50.000Z",
+        "description": "性别女  爱好男   是真人   机器人全部给我亖",
+        "id": "1973806536293298178",
+        "location": "Loddon, England",
+        "name": "马斯洛需求层次理论",
+        "pinned_tweet_id": "2045089420119023634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023849115734679552/Bgcsx-Gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 46,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 264
+        },
+        "username": "514863bybohy",
+        "verified": false
+      }
+    ]
+  }
+}

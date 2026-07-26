@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2043553380027801892",
+    "created_at": "2026-04-13T04:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043553933306843173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1279008399695286272",
+          "start": 0,
+          "username": "xF4Ner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043553933306843173",
+    "in_reply_to_user_id": "1279008399695286272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043553380027801892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xF4Ner 这个世界没有奥特曼！没有！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043553356321521664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwo80saAAAlA6V.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043553356803874816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwo82faIAAST1H.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2043553356317396992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwo80rbEAAKDbr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2043553356321550336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwo80sacAAB0CP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2043553380027801892",
+        "created_at": "2026-04-13T04:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043553933306843173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1279008399695286272",
+              "start": 0,
+              "username": "xF4Ner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043553933306843173",
+        "in_reply_to_user_id": "1279008399695286272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043553380027801892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xF4Ner 这个世界没有奥特曼！没有！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043553356321521664",
+            "3_2043553356803874816",
+            "3_2043553356317396992",
+            "3_2043553356321550336"
+          ]
+        },
+        "author_id": "1279008399695286272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043553380027801892",
+        "created_at": "2026-04-13T04:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043553380027801892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gYOWllAew",
+              "end": 38,
+              "expanded_url": "https://x.com/xF4Ner/status/2043553380027801892/photo/1",
+              "media_key": "3_2043553356321521664",
+              "start": 15,
+              "url": "https://t.co/7gYOWllAew"
+            },
+            {
+              "display_url": "pic.x.com/7gYOWllAew",
+              "end": 38,
+              "expanded_url": "https://x.com/xF4Ner/status/2043553380027801892/photo/1",
+              "media_key": "3_2043553356803874816",
+              "start": 15,
+              "url": "https://t.co/7gYOWllAew"
+            },
+            {
+              "display_url": "pic.x.com/7gYOWllAew",
+              "end": 38,
+              "expanded_url": "https://x.com/xF4Ner/status/2043553380027801892/photo/1",
+              "media_key": "3_2043553356317396992",
+              "start": 15,
+              "url": "https://t.co/7gYOWllAew"
+            },
+            {
+              "display_url": "pic.x.com/7gYOWllAew",
+              "end": 38,
+              "expanded_url": "https://x.com/xF4Ner/status/2043553380027801892/photo/1",
+              "media_key": "3_2043553356321550336",
+              "start": 15,
+              "url": "https://t.co/7gYOWllAew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043553380027801892",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Take me higher https://t.co/7gYOWllAew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 46,
+          "like_count": 1488,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 315
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-03T11:05:48.000Z",
+        "description": "梦一样开始 梦一样结束/点赞bot/crud工程师/不是gay/特摄厨",
+        "id": "1279008399695286272",
+        "location": "🌍",
+        "name": "小饭= ⩌_⩌.",
+        "pinned_tweet_id": "1967921533596340511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967658028511174656/Gw0qv8vO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3281,
+          "following_count": 643,
+          "like_count": 32101,
+          "listed_count": 8,
+          "media_count": 1335,
+          "tweet_count": 6334
+        },
+        "username": "xF4Ner",
+        "verified": false
+      }
+    ]
+  }
+}

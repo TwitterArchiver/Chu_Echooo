@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064515297634357372",
+    "created_at": "2026-06-10T07:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064613034900005130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1717731379155460096",
+          "start": 0,
+          "username": "Lzl032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064613034900005130",
+    "in_reply_to_user_id": "1717731379155460096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064611780501098801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lzl032 你瞎吗？我说的是，我永远喜欢猫猫狗狗，我要求你喜欢了吗？去挂个眼科吧，顺便挂个脑科，去查一下，真的不贵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T07:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064613034900005130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1717731379155460096",
+              "start": 0,
+              "username": "Lzl032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064613034900005130",
+        "in_reply_to_user_id": "1717731379155460096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064611780501098801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lzl032 你瞎吗？我说的是，我永远喜欢猫猫狗狗，我要求你喜欢了吗？去挂个眼科吧，顺便挂个脑科，去查一下，真的不贵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717731379155460096",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T07:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064611780501098801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064611780501098801",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064515297634357372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 凭什么你喜欢猫狗，就要求其他人和你一样，我还喜欢摩托呢，我希望立法不允许别人骑，这是虐待摩托"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 89,
+          "like_count": 6016,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1795
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T02:34:22.000Z",
+        "description": "一个真正的爱国者\n民族主义者",
+        "id": "1717731379155460096",
+        "name": "车轮滚滚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991316715351994368/Q87yJRAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 216
+        },
+        "username": "Lzl032",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064678173414146048",
+    "created_at": "2026-06-10T12:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064682721579012315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062557406442487808",
+          "start": 0,
+          "username": "linsez680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064682721579012315",
+    "in_reply_to_user_id": "2062557406442487808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064681378248364193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linsez680 实则贪吃小学喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064678173414146048",
+        "created_at": "2026-06-10T12:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064682721579012315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062557406442487808",
+              "start": 0,
+              "username": "linsez680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064682721579012315",
+        "in_reply_to_user_id": "2062557406442487808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064681378248364193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linsez680 实则贪吃小学喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062557406442487808",
+        "conversation_id": "2064678173414146048",
+        "created_at": "2026-06-10T12:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064681378248364193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064681378248364193",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064678173414146048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 白袜体育生吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 89,
+          "like_count": 6041,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1813
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T15:32:00.000Z",
+        "description": "菠萝宇宙繁殖中……",
+        "id": "2062557406442487808",
+        "location": "空气里的纤维粒",
+        "name": "菠萝菠萝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064005278056787968/EH43p3fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 13,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "username": "linsez680",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2068295266210619754",
+    "created_at": "2026-06-20T11:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068296149468057829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040589862504468480",
+          "start": 0,
+          "username": "ccbacat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068296149468057829",
+    "in_reply_to_user_id": "2040589862504468480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068295663754846524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccbacat 他最好不是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2068295266210619754",
+        "created_at": "2026-06-20T11:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068296149468057829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040589862504468480",
+              "start": 0,
+              "username": "ccbacat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068296149468057829",
+        "in_reply_to_user_id": "2040589862504468480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068295663754846524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccbacat 他最好不是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040589862504468480",
+        "conversation_id": "2068295266210619754",
+        "created_at": "2026-06-20T11:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068295663754846524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068295663754846524",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068295266210619754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 他不会是以为你在奖励他这么能爬吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 89,
+          "like_count": 7148,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 2219
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T00:38:39.000Z",
+        "description": "无所事事撸猫中",
+        "id": "2040589862504468480",
+        "location": "上海",
+        "name": "雨天看雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040953719009734656/eBeqGRob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 37,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "ccbacat",
+        "verified": false
+      }
+    ]
+  }
+}

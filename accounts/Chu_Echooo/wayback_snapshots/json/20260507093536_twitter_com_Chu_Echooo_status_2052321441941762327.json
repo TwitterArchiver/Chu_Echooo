@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052309266128887816",
+    "created_at": "2026-05-07T09:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052321441941762327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2042802770059890690",
+          "start": 0,
+          "username": "o3oD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052321441941762327",
+    "in_reply_to_user_id": "2042802770059890690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052318772464419085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3oD7 呜呜呜你先等等我，我的脑袋里，要脸和大餐两个小人在疯狂打架，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052309266128887816",
+        "created_at": "2026-05-07T09:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052321441941762327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2042802770059890690",
+              "start": 0,
+              "username": "o3oD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052321441941762327",
+        "in_reply_to_user_id": "2042802770059890690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052318772464419085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3oD7 呜呜呜你先等等我，我的脑袋里，要脸和大餐两个小人在疯狂打架，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042802770059890690",
+        "conversation_id": "2052309266128887816",
+        "created_at": "2026-05-07T09:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052318772464419085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052318772464419085",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052318454695469307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我要笑死了。。但是宝宝真的困难的话我可以请你吃一顿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 74,
+          "like_count": 3792,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 952
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T03:13:52.000Z",
+        "description": "",
+        "id": "2042802770059890690",
+        "name": "o3o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044400892263489536/0DU-F-8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 85,
+          "like_count": 6575,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 497
+        },
+        "username": "o3oD7",
+        "verified": false
+      }
+    ]
+  }
+}

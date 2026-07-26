@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2075240665592762876",
+    "created_at": "2026-07-10T08:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075498496954867968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1536308137057062912",
+          "start": 0,
+          "username": "xm77cooky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075498496954867968",
+    "in_reply_to_user_id": "1536308137057062912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075455263189160266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xm77cooky 这个也就很有故事🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2075240665592762876",
+        "created_at": "2026-07-10T08:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075498496954867968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1536308137057062912",
+              "start": 0,
+              "username": "xm77cooky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075498496954867968",
+        "in_reply_to_user_id": "1536308137057062912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075455263189160266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm77cooky 这个也就很有故事🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536308137057062912",
+        "conversation_id": "2075240665592762876",
+        "created_at": "2026-07-10T05:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075455263189160266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075455263189160266",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075240665592762876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我也要埋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 100,
+          "like_count": 8155,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 2875
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T11:23:13.000Z",
+        "description": "🌈les /04/h偏p/推上发日常或发些弹唱片段🎶/私信对女孩子开放，可以分享、倾诉/兔兔教🐰\n⚠蝻打扰直接蔽\n提问箱➡️ https://t.co/WLZKOoMiER",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xlin43119",
+                "end": 86,
+                "expanded_url": "https://ngl.link/xlin43119",
+                "start": 63,
+                "url": "https://t.co/WLZKOoMiER"
+              }
+            ]
+          }
+        },
+        "id": "1536308137057062912",
+        "name": "小林选手",
+        "pinned_tweet_id": "2071220359979057651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033926746857476099/nSHvWC4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4023,
+          "following_count": 156,
+          "like_count": 9969,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "xm77cooky",
+        "verified": false
+      }
+    ]
+  }
+}

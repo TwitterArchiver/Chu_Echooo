@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2074162082434740432",
+    "created_at": "2026-07-07T01:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074304177933803880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2051919325490274304",
+          "start": 0,
+          "username": "Sye2z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074304177933803880",
+    "in_reply_to_user_id": "2051919325490274304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074162082434740432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sye2z1 可爱，我啃一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2074162061249216512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjnZ8NaAAAaF9F.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2074162082434740432",
+        "created_at": "2026-07-07T01:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074304177933803880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2051919325490274304",
+              "start": 0,
+              "username": "Sye2z1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074304177933803880",
+        "in_reply_to_user_id": "2051919325490274304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074162082434740432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sye2z1 可爱，我啃一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074162061249216512"
+          ]
+        },
+        "author_id": "2051919325490274304",
+        "conversation_id": "2074162082434740432",
+        "created_at": "2026-07-06T16:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074162082434740432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBm1fN7w0M",
+              "end": 43,
+              "expanded_url": "https://x.com/Sye2z1/status/2074162082434740432/photo/1",
+              "media_key": "3_2074162061249216512",
+              "start": 20,
+              "url": "https://t.co/CBm1fN7w0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074162082434740432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自拍真好，还很清晰，下次多自拍几张😔😔 https://t.co/CBm1fN7w0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 100,
+          "like_count": 7970,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 2776
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T06:58:16.000Z",
+        "description": "云",
+        "id": "2051919325490274304",
+        "name": "朔云小号（大小号都不能评论版）",
+        "pinned_tweet_id": "2052135162889269423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052138115125678080/tdv9VnXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 187,
+          "like_count": 2776,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1149
+        },
+        "url": "",
+        "username": "Sye2z1",
+        "verified": false
+      }
+    ]
+  }
+}

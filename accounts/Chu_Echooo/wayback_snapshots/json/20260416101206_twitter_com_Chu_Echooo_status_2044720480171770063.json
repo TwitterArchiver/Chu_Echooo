@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2044377837495554145",
+    "created_at": "2026-04-16T10:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044720480171770063"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044720480171770063",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044377837495554145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以你们既然偷看了我的蛋炒饭那么有没有那种可爱的善良的温柔的女孩子男孩子要跟我互关一下我们可以一起丸~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1723,
+        "media_key": "3_2044377833385123840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8WztGaYAAEYx1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2044377837495554145",
+        "created_at": "2026-04-16T10:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044720480171770063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044720480171770063",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044377837495554145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以你们既然偷看了我的蛋炒饭那么有没有那种可爱的善良的温柔的女孩子男孩子要跟我互关一下我们可以一起丸~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044377833385123840"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044377837495554145",
+        "created_at": "2026-04-15T11:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044377837495554145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HR4Yk5ZiNT",
+              "end": 56,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2044377837495554145/photo/1",
+              "media_key": "3_2044377833385123840",
+              "start": 33,
+              "url": "https://t.co/HR4Yk5ZiNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044377837495554145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4282,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 69,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问，蛋炒饭放黄瓜很小众吗，为什么我朋友说我是邪教 ⦁֊⦁꧞ https://t.co/HR4Yk5ZiNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/猫叫楚点点/爱恨随意/亲疏随缘/间歇性人格分裂/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 51,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 321
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/猫叫楚点点/爱恨随意/亲疏随缘/间歇性人格分裂/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 51,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

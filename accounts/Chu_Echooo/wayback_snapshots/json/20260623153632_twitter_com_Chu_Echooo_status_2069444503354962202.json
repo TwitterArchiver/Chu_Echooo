@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2069437738747871254",
+    "created_at": "2026-06-23T15:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069444503354962202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "954917722273566721",
+          "start": 0,
+          "username": "QiYue_w1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069444503354962202",
+    "in_reply_to_user_id": "954917722273566721",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069437738747871254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiYue_w1989 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2069437738747871254",
+        "created_at": "2026-06-23T15:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069444503354962202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "954917722273566721",
+              "start": 0,
+              "username": "QiYue_w1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069444503354962202",
+        "in_reply_to_user_id": "954917722273566721",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069437738747871254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiYue_w1989 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954917722273566721",
+        "conversation_id": "2069437738747871254",
+        "created_at": "2026-06-23T15:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069437738747871254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069437738747871254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是因为快生理期了吗 伤心 我要盖着厚厚的被子像是姐姐抱着我睡觉 睡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 95,
+          "like_count": 7417,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2357
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-21T03:25:01.000Z",
+        "description": "stay in unreality ｜胡言乱语日记本 废话垃圾桶",
+        "id": "954917722273566721",
+        "name": "吃点好的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035908389071712256/KkRKRLJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 263,
+          "like_count": 9236,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1804
+        },
+        "url": "",
+        "username": "QiYue_w1989",
+        "verified": false
+      }
+    ]
+  }
+}

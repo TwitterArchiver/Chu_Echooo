@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064515297634357372",
+    "created_at": "2026-06-10T03:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064549662351360293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "897278862756851716",
+          "start": 0,
+          "username": "JONTRVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064549662351360293",
+    "in_reply_to_user_id": "897278862756851716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064548928931168486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JONTRVK 我用證明給你看？你他媽在這裡叫什麼。我純口嗨你咬我啊，白癡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T03:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064549662351360293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "897278862756851716",
+              "start": 0,
+              "username": "JONTRVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064549662351360293",
+        "in_reply_to_user_id": "897278862756851716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064548928931168486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JONTRVK 我用證明給你看？你他媽在這裡叫什麼。我純口嗨你咬我啊，白癡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897278862756851716",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T03:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064548928931168486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064548928931168486",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064515297634357372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 你他媽動物跟警察真刀真槍的幹呀，在這鬼扯什麼。用行動證明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 89,
+          "like_count": 6009,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1769
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-15T02:08:46.000Z",
+        "description": "日本人的認知完全扭曲。大和民族與斯堪尼亞半島上賀蘭有什麼關係，為什麼滿清晚年與賀蘭簽署的不平等條約是以大和為國名，與日本大和民族之間有什麼關聯。\n對日本採取鐵木真政策 車輪斬。",
+        "id": "897278862756851716",
+        "location": "Indiana, USA",
+        "name": "格物致知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1437136821905883136/vdwTdrxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 58,
+          "like_count": 4989,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "JONTRVK",
+        "verified": false
+      }
+    ]
+  }
+}

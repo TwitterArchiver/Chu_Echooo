@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051511163956158720",
+    "created_at": "2026-05-05T06:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051553374534017493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1059714127852036102",
+          "start": 0,
+          "username": "yX1rYSSkDye1nnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051553374534017493",
+    "in_reply_to_user_id": "1059714127852036102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051544421834035317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yX1rYSSkDye1nnq 甜瓜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051511163956158720",
+        "created_at": "2026-05-05T06:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051553374534017493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1059714127852036102",
+              "start": 0,
+              "username": "yX1rYSSkDye1nnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051553374534017493",
+        "in_reply_to_user_id": "1059714127852036102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051544421834035317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yX1rYSSkDye1nnq 甜瓜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1059714127852036102",
+        "conversation_id": "2051511163956158720",
+        "created_at": "2026-05-05T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051544421834035317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051544421834035317",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051511163956158720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 绿的是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 71,
+          "like_count": 3596,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 936
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-06T07:48:31.000Z",
+        "description": "欢迎来到我的主页 ❤️",
+        "id": "1059714127852036102",
+        "location": "我爱三秦套餐",
+        "name": "南犀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050978582495993856/j8FBH8R0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 119,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 162
+        },
+        "username": "yX1rYSSkDye1nnq",
+        "verified": false
+      }
+    ]
+  }
+}

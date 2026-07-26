@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2049869926782189834",
+    "created_at": "2026-04-30T15:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049879262728179950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515165033398820866",
+          "start": 0,
+          "username": "mzbsjtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049879262728179950",
+    "in_reply_to_user_id": "1515165033398820866",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049875269859905816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzbsjtb dei！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2049869926782189834",
+        "created_at": "2026-04-30T15:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049879262728179950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515165033398820866",
+              "start": 0,
+              "username": "mzbsjtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049879262728179950",
+        "in_reply_to_user_id": "1515165033398820866",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049875269859905816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzbsjtb dei！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515165033398820866",
+        "conversation_id": "2049869926782189834",
+        "created_at": "2026-04-30T15:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049875269859905816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049875269859905816",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049869926782189834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 放假就该好好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/先天性心疾随时会死掉别可怜我也别心疼我/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 65,
+          "like_count": 3145,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 729
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T03:08:06.000Z",
+        "description": "男的/INFP/不定时上线/二游基本都玩/分享些奇奇怪怪的日常/到处评论 在哪都可能见到我",
+        "id": "1515165033398820866",
+        "location": "500m",
+        "name": "板烧鸡腿堡🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017680994367864832/0LhoEazs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 62,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 647
+        },
+        "username": "mzbsjtb",
+        "verified": false
+      }
+    ]
+  }
+}

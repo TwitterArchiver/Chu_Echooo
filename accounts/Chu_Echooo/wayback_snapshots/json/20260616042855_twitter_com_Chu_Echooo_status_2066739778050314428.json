@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066738190795538870",
+    "created_at": "2026-06-16T04:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066739778050314428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907430109747011584",
+          "start": 0,
+          "username": "meowww_ni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066739778050314428",
+    "in_reply_to_user_id": "1907430109747011584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066738190795538870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowww_ni 这小笨蛋，放假都不惦记的，我半个月前就在倒数端午假了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066738190795538870",
+        "created_at": "2026-06-16T04:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066739778050314428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907430109747011584",
+              "start": 0,
+              "username": "meowww_ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066739778050314428",
+        "in_reply_to_user_id": "1907430109747011584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066738190795538870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowww_ni 这小笨蛋，放假都不惦记的，我半个月前就在倒数端午假了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907430109747011584",
+        "conversation_id": "2066738190795538870",
+        "created_at": "2026-06-16T04:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066738190795538870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekocatts/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/nekocatts/status/2062362955803664728",
+              "start": 25,
+              "url": "https://t.co/rTXXV1pZL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066738190795538870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062362955803664728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朝週末飛奔~~~\n剛才意識到再上兩天班就能休假🤭 https://t.co/rTXXV1pZL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 87,
+          "like_count": 6621,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2013
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T13:49:20.000Z",
+        "description": "𝑰𝑵𝑻𝑱 \n妮的嘰哩咕嚕日常",
+        "id": "1907430109747011584",
+        "name": "Nini♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028522109295878144/T7aRBzx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 209
+        },
+        "username": "meowww_ni",
+        "verified": false
+      }
+    ]
+  }
+}

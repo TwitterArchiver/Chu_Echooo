@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2064515297634357372",
+    "created_at": "2026-06-10T03:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064549202127208472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983126372987101184",
+          "start": 0,
+          "username": "PhanLong49916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064549202127208472",
+    "in_reply_to_user_id": "1983126372987101184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064548080175997043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhanLong49916 别阴阳了，根本就不冲突，但凡有脑子都问不出这样的问题，我还是高估你了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T03:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064549202127208472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983126372987101184",
+              "start": 0,
+              "username": "PhanLong49916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064549202127208472",
+        "in_reply_to_user_id": "1983126372987101184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064548080175997043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhanLong49916 别阴阳了，根本就不冲突，但凡有脑子都问不出这样的问题，我还是高估你了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983126372987101184",
+        "conversation_id": "2064515297634357372",
+        "created_at": "2026-06-10T03:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064548080175997043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064548080175997043",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064515297634357372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我有个问题想问你，你更爱你爸妈一点还是更爱那些猫猫狗狗呢？没其他意思我就是想问问你哪个更重要一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 89,
+          "like_count": 6009,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1768
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T10:59:21.000Z",
+        "description": "煌汉，爱汉爱中国",
+        "id": "1983126372987101184",
+        "name": "星汉灿烂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987211391359750144/dD5mCbdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 25,
+          "like_count": 9596,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 632
+        },
+        "username": "PhanLong49916",
+        "verified": false
+      }
+    ]
+  }
+}

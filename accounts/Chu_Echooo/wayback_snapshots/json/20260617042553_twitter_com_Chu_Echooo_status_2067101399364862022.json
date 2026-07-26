@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067088644662542522",
+    "created_at": "2026-06-17T04:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067101399364862022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788026680889802752",
+          "start": 0,
+          "username": "suuulii99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067101399364862022",
+    "in_reply_to_user_id": "1788026680889802752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067088644662542522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suuulii99 能不能放开早早，让我来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067088616388771841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_GJQsbQAEU3Sl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067088616430723072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_GJQ2bYAAUJ5b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067088644662542522",
+        "created_at": "2026-06-17T04:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067101399364862022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788026680889802752",
+              "start": 0,
+              "username": "suuulii99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067101399364862022",
+        "in_reply_to_user_id": "1788026680889802752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067088644662542522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suuulii99 能不能放开早早，让我来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067088616388771841",
+            "3_2067088616430723072"
+          ]
+        },
+        "author_id": "1788026680889802752",
+        "conversation_id": "2067088644662542522",
+        "created_at": "2026-06-17T03:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067088644662542522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXVUX5RacF",
+              "end": 31,
+              "expanded_url": "https://x.com/suuulii99/status/2067088644662542522/photo/1",
+              "media_key": "3_2067088616388771841",
+              "start": 8,
+              "url": "https://t.co/zXVUX5RacF"
+            },
+            {
+              "display_url": "pic.x.com/zXVUX5RacF",
+              "end": 31,
+              "expanded_url": "https://x.com/suuulii99/status/2067088644662542522/photo/1",
+              "media_key": "3_2067088616430723072",
+              "start": 8,
+              "url": "https://t.co/zXVUX5RacF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067088644662542522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我舍不得起床呀 https://t.co/zXVUX5RacF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 88,
+          "like_count": 6741,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2094
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T02:02:47.000Z",
+        "description": "只是我的废话空间 和其他社媒无差｜纯绿 请先阅读置顶｜提问箱⬇️\nhttps://t.co/Y9SHFTfK3H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suuuli25",
+                "end": 56,
+                "expanded_url": "https://ngl.link/suuuli25",
+                "start": 33,
+                "url": "https://t.co/Y9SHFTfK3H"
+              }
+            ]
+          }
+        },
+        "id": "1788026680889802752",
+        "location": "🐈",
+        "name": "椰蓉好塞牙",
+        "pinned_tweet_id": "2063307593536438679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646287497699328/9cuL0C6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 228,
+          "like_count": 6309,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1220
+        },
+        "username": "suuulii99",
+        "verified": false
+      }
+    ]
+  }
+}

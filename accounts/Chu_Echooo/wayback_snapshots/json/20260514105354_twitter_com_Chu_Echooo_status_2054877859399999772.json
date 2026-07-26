@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054877859399999772",
+    "created_at": "2026-05-14T10:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054877859399999772"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054877859399999772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真艹了\n我在别人推文底下的评论，如果你想回我，能不能取消@帖主啊，人家跟你很熟吗，真不觉得会打扰到人家吗？\n我谢谢你愿意跟我互动，但是能不能有点边界感啊，一个二个的，我真的很反感！\n你要是不会，我教你，你回的时候，点一下「回复给」那一行，把帖主后边的对钩取消掉，好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054877859399999772",
+        "created_at": "2026-05-14T10:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054877859399999772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054877859399999772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真艹了\n我在别人推文底下的评论，如果你想回我，能不能取消@帖主啊，人家跟你很熟吗，真不觉得会打扰到人家吗？\n我谢谢你愿意跟我互动，但是能不能有点边界感啊，一个二个的，我真的很反感！\n你要是不会，我教你，你回的时候，点一下「回复给」那一行，把帖主后边的对钩取消掉，好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 86,
+          "like_count": 4435,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1146
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

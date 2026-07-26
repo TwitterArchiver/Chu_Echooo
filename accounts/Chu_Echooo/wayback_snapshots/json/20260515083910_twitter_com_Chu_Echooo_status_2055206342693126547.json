@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055205024851185799",
+    "created_at": "2026-05-15T08:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055206342693126547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055206342693126547",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055205024851185799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@22wbxsx 天空它懂个p，阴晴不定的，比我都善变。来我怀里，我懂你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16370,
+        "height": 1280,
+        "media_key": "13_2055204925177774081",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055204925177774081/img/PGM1bSCfZFK_5CnK.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055204925177774081/vid/avc1/320x568/3sjMIDgD7_dR0e6U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055204925177774081/vid/avc1/480x852/9cMfqdgDBlyPdMfX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055204925177774081/vid/avc1/720x1280/4DRDcXuHBwo_I-M7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055204925177774081/pl/RthVtELcrAdQJKOa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055205024851185799",
+        "created_at": "2026-05-15T08:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055206342693126547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055206342693126547",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055205024851185799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@22wbxsx 天空它懂个p，阴晴不定的，比我都善变。来我怀里，我懂你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055204925177774081"
+          ]
+        },
+        "author_id": "1788642156111863808",
+        "conversation_id": "2055205024851185799",
+        "created_at": "2026-05-15T08:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055205024851185799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OK3hBxFn7P",
+              "end": 34,
+              "expanded_url": "https://x.com/22wbxsx/status/2055205024851185799/video/1",
+              "media_key": "13_2055204925177774081",
+              "start": 11,
+              "url": "https://t.co/OK3hBxFn7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055205024851185799",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "天空你是否懂我的迷惘 https://t.co/OK3hBxFn7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 84,
+          "like_count": 4539,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1194
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 300,
+          "like_count": 15532,
+          "listed_count": 2,
+          "media_count": 1193,
+          "tweet_count": 9985
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

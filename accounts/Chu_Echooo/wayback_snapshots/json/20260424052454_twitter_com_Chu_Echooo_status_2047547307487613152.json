@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2047547307487613152",
+    "created_at": "2026-04-24T05:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047547307487613152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047547307487613152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "周一不想上班，因为刚放完假，心没收回来\n周二不想上班，因为还有三天，事情又不着急做\n周三不想上班，因为已经上了两天班了\n周四不想上班，因为马上周五了，拖延症犯了\n周五不想上班，因为满脑子都是周末睡大觉吃什么去哪玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2047547307487613152",
+        "created_at": "2026-04-24T05:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047547307487613152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047547307487613152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周一不想上班，因为刚放完假，心没收回来\n周二不想上班，因为还有三天，事情又不着急做\n周三不想上班，因为已经上了两天班了\n周四不想上班，因为马上周五了，拖延症犯了\n周五不想上班，因为满脑子都是周末睡大觉吃什么去哪玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/爱恨随意/亲疏随缘/超爱删帖/间歇性人格分裂/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 61,
+          "like_count": 2337,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 407
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

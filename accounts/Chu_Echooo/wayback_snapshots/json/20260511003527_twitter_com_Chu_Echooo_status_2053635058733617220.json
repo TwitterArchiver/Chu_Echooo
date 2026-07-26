@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053635051796205568"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2053635058733617220",
+    "created_at": "2026-05-11T00:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053635058733617220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nF7t65Ewbt",
+          "end": 49,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2053635058733617220/photo/1",
+          "media_key": "3_2053635051796205568",
+          "start": 26,
+          "url": "https://t.co/nF7t65Ewbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053635058733617220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我服了，怎么能一直倒霉一直水逆，到底要干嘛啊！！！ https://t.co/nF7t65Ewbt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053635058733617220].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053635058733617220",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053635058733617220"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2053635051796205568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_6MvCakAAEWRt.jpg",
+        "width": 1129
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 79,
+          "like_count": 4088,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 947
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

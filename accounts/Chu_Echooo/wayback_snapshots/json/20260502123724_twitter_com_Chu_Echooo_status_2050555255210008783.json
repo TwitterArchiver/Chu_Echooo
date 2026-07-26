@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2050508796175544822",
+    "created_at": "2026-05-02T12:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050555255210008783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2026154754074972160",
+          "start": 0,
+          "username": "Lynn3289726786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050555255210008783",
+    "in_reply_to_user_id": "2026154754074972160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050508796175544822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lynn3289726786 抱抱小菠萝~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2050508786104954880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTe4HyacAAnIJR.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2050508796175544822",
+        "created_at": "2026-05-02T12:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050555255210008783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026154754074972160",
+              "start": 0,
+              "username": "Lynn3289726786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050555255210008783",
+        "in_reply_to_user_id": "2026154754074972160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050508796175544822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lynn3289726786 抱抱小菠萝~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050508786104954880"
+          ]
+        },
+        "author_id": "2026154754074972160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2050508796175544822",
+        "created_at": "2026-05-02T09:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050508796175544822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/coPDqSkkeU",
+              "end": 133,
+              "expanded_url": "https://x.com/Lynn3289726786/status/2050508796175544822/photo/1",
+              "media_key": "3_2050508786104954880",
+              "start": 110,
+              "url": "https://t.co/coPDqSkkeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050508796175544822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前总觉得自己不幸福，17岁信誓旦旦说等30岁活够了就去死，直到去年出车祸受伤加上朋友自杀和生病离世，整理遗物这几个自私的家伙都说希望我能健康幸福活下去。现在偶尔会有点寂寞，但会这样淡淡地活着，再也说不出17岁时的话了 https://t.co/coPDqSkkeU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 65,
+          "like_count": 3339,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 817
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T04:38:45.000Z",
+        "description": "一些流水账罢了/重度爱猫女/直的，不是男娘也不是女同/希望你天天开心",
+        "id": "2026154754074972160",
+        "name": "不为菠萝emo",
+        "pinned_tweet_id": "2039992412882575817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047695922738745344/fjqofFEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 19,
+          "like_count": 3249,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 267
+        },
+        "username": "Lynn3289726786",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2053790599489449987",
+    "created_at": "2026-05-11T15:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053860806048260111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049330128988037120",
+          "start": 0,
+          "username": "Longrc7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053860806048260111",
+    "in_reply_to_user_id": "2049330128988037120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053858770795802710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Longrc7x 好看是P的，人好是装的😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2053790599489449987",
+        "created_at": "2026-05-11T15:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053860806048260111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049330128988037120",
+              "start": 0,
+              "username": "Longrc7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053860806048260111",
+        "in_reply_to_user_id": "2049330128988037120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053858770795802710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longrc7x 好看是P的，人好是装的😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049330128988037120",
+        "conversation_id": "2053790599489449987",
+        "created_at": "2026-05-11T15:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053858770795802710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053858770795802710",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053790599489449987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 阿楚姐真的很好看呀,而且人还特别好😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/爱每一个女孩/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 79,
+          "like_count": 4175,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1018
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T03:30:02.000Z",
+        "description": "小号善良人格，防被封\n大号@longlongp97w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "longlongp97w"
+              }
+            ]
+          }
+        },
+        "id": "2049330128988037120",
+        "name": "龙（2.0)",
+        "pinned_tweet_id": "2051332179662422472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330433830096896/7gWHHcgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 85,
+          "like_count": 1692,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 182
+        },
+        "username": "Longrc7x",
+        "verified": false
+      }
+    ]
+  }
+}

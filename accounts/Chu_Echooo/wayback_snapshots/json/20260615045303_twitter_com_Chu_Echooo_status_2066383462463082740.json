@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2066347747121279214",
+    "created_at": "2026-06-15T04:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066383462463082740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1860364507236757504",
+          "start": 0,
+          "username": "w2014ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066383462463082740",
+    "in_reply_to_user_id": "1860364507236757504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066347747121279214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w2014ai 芥末可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066347729802928128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0kT_FWoAAy-d2.jpg",
+        "width": 1490
+      },
+      {
+        "height": 1868,
+        "media_key": "3_2066347729786208256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0kT_BXgAAs0Ny.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066347747121279214",
+        "created_at": "2026-06-15T04:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066383462463082740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1860364507236757504",
+              "start": 0,
+              "username": "w2014ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066383462463082740",
+        "in_reply_to_user_id": "1860364507236757504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066347747121279214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w2014ai 芥末可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066347729802928128",
+            "3_2066347729786208256"
+          ]
+        },
+        "author_id": "1860364507236757504",
+        "conversation_id": "2066347747121279214",
+        "created_at": "2026-06-15T02:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066347747121279214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2NoYdNzJk3",
+              "end": 39,
+              "expanded_url": "https://x.com/w2014ai/status/2066347747121279214/photo/1",
+              "media_key": "3_2066347729802928128",
+              "start": 16,
+              "url": "https://t.co/2NoYdNzJk3"
+            },
+            {
+              "display_url": "pic.x.com/2NoYdNzJk3",
+              "end": 39,
+              "expanded_url": "https://x.com/w2014ai/status/2066347747121279214/photo/1",
+              "media_key": "3_2066347729786208256",
+              "start": 16,
+              "url": "https://t.co/2NoYdNzJk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066347747121279214",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☆*:.｡. o .｡.:*☆ https://t.co/2NoYdNzJk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 87,
+          "like_count": 6520,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1959
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T16:47:29.000Z",
+        "description": "🫧☁️只想静静地过完一生\n画｜碎碎念｜bdsm\n前世@w2013ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "w2013ai"
+              }
+            ]
+          }
+        },
+        "id": "1860364507236757504",
+        "location": "月球",
+        "name": "落月",
+        "pinned_tweet_id": "2064990833518973122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063200569745915904/cPffrdy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 124,
+          "like_count": 2813,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "w2014ai",
+        "verified": false
+      }
+    ]
+  }
+}

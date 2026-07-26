@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2053495481402368372",
+    "created_at": "2026-05-10T15:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053499928257949919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644985773488320512",
+          "start": 0,
+          "username": "HLay127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053499928257949919",
+    "in_reply_to_user_id": "1644985773488320512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053497659491823648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLay127 晚安咖啡豆~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2053495481402368372",
+        "created_at": "2026-05-10T15:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053499928257949919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644985773488320512",
+              "start": 0,
+              "username": "HLay127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053499928257949919",
+        "in_reply_to_user_id": "1644985773488320512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053497659491823648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLay127 晚安咖啡豆~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644985773488320512",
+        "conversation_id": "2053495481402368372",
+        "created_at": "2026-05-10T15:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053497659491823648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053497659491823648",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053495481402368372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 79,
+          "like_count": 4083,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 938
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T08:49:15.000Z",
+        "description": "咖啡爱好者，不是在喝咖啡就是在喝咖啡的路上，我的好大儿叫咖啡豆是个虎斑美短白手套 我和我的儿子都是异性恋",
+        "id": "1644985773488320512",
+        "name": "浮笙",
+        "pinned_tweet_id": "2045206524084244704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039349599006277632/eavCWhy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 89,
+          "like_count": 28668,
+          "listed_count": 5,
+          "media_count": 1465,
+          "tweet_count": 11573
+        },
+        "username": "HLay127",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2051926994225651947",
+    "created_at": "2026-05-06T07:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051929732699349419"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051929732699349419",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051926994225651947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为有个互关被封啦，如果什么都没留下，如果会有遗憾，如果不想丢了你，丢了我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051926994225651947",
+        "created_at": "2026-05-06T07:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051929732699349419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051929732699349419",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051926994225651947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为有个互关被封啦，如果什么都没留下，如果会有遗憾，如果不想丢了你，丢了我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2051926994225651947",
+        "created_at": "2026-05-06T07:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051926994225651947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051926994225651947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【长期有效】\n互关可以找我要vx，但是请先不要加我，除非：\n你或者我的账号被冻结；\n你打算销号了；\n我好久没上线了而你真的很想我。\n以上。\n『叠甲，并不觉得自己的vx很珍贵，也没有觉得自己很重要别人都要求着你加联系方式这种想法，只是很贪心并且珍惜目前还能互相打趣的每一段缘分』"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 71,
+          "like_count": 3675,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 935
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

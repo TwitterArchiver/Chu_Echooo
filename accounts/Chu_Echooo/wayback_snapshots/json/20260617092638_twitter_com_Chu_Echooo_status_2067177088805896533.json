@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067173331787456977",
+    "created_at": "2026-06-17T09:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067177088805896533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785303923538161664",
+          "start": 0,
+          "username": "marci7639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067177088805896533",
+    "in_reply_to_user_id": "1785303923538161664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067173331787456977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marci7639 这个我是真馋啊！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067173311919104000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLATLMIbIAAr887.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067173331787456977",
+        "created_at": "2026-06-17T09:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067177088805896533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785303923538161664",
+              "start": 0,
+              "username": "marci7639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067177088805896533",
+        "in_reply_to_user_id": "1785303923538161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067173331787456977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marci7639 这个我是真馋啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067173311919104000"
+          ]
+        },
+        "author_id": "1785303923538161664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067173331787456977",
+        "created_at": "2026-06-17T09:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067173331787456977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iz9v3T70lq",
+              "end": 43,
+              "expanded_url": "https://x.com/marci7639/status/2067173331787456977/photo/1",
+              "media_key": "3_2067173311919104000",
+              "start": 20,
+              "url": "https://t.co/iz9v3T70lq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067173331787456977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "榴莲烤着吃又香又甜😋😋再加芝士更是美味 https://t.co/iz9v3T70lq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 88,
+          "like_count": 6775,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2110
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:43:30.000Z",
+        "description": "这是什么？我吃一下谢谢😋\n小星星@xiaoxingxing90",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "xiaoxingxing90"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marci7639",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marci7639",
+                "start": 0,
+                "url": "https://t.co/m0aPE8aCfl"
+              }
+            ]
+          }
+        },
+        "id": "1785303923538161664",
+        "location": "肠粉国",
+        "name": "一颗星星🌟",
+        "pinned_tweet_id": "1936131439839629378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004854393662029824/b9YDZKsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 411,
+          "like_count": 35815,
+          "listed_count": 1,
+          "media_count": 1187,
+          "tweet_count": 6025
+        },
+        "url": "https://t.co/m0aPE8aCfl",
+        "username": "marci7639",
+        "verified": false
+      }
+    ]
+  }
+}

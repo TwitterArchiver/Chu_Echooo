@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067098864495349760"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2067098869956256147",
+    "created_at": "2026-06-17T04:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067098869956256147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fso0BU7DCR",
+          "end": 31,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2067098869956256147/photo/1",
+          "media_key": "3_2067098864495349760",
+          "start": 8,
+          "url": "https://t.co/Fso0BU7DCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067098869956256147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你就说御不御叭 https://t.co/Fso0BU7DCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_2067098864495349760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_Pdx3b0AA4GiV.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067098864495349760"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2067098869956256147",
+        "created_at": "2026-06-17T04:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067098869956256147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fso0BU7DCR",
+              "end": 31,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2067098869956256147/photo/1",
+              "media_key": "3_2067098864495349760",
+              "start": 8,
+              "url": "https://t.co/Fso0BU7DCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067098869956256147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你就说御不御叭 https://t.co/Fso0BU7DCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 88,
+          "like_count": 6727,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 2086
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

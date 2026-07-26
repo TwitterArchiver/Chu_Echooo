@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2070068696396226928",
+    "created_at": "2026-06-26T10:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070447026085695525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957852552286060544",
+          "start": 0,
+          "username": "qi_si72468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070447026085695525",
+    "in_reply_to_user_id": "1957852552286060544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070068696396226928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_si72468 你只是玩，你又没吃！（憋笑ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2070068696396226928",
+        "created_at": "2026-06-26T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070447026085695525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957852552286060544",
+              "start": 0,
+              "username": "qi_si72468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070447026085695525",
+        "in_reply_to_user_id": "1957852552286060544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070068696396226928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_si72468 你只是玩，你又没吃！（憋笑ing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957852552286060544",
+        "conversation_id": "2070068696396226928",
+        "created_at": "2026-06-25T08:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070068696396226928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070068696396226928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃我捏了个粉色冰淇淋然后同学都说是大便。\n我好伤心！\n想到生物课把这个冰淇淋套在手指上当着老师面玩了一节课，被大家当成了玩了一节课粉色大便就更伤心了，。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 96,
+          "like_count": 7571,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T17:10:51.000Z",
+        "description": "不为人知的少女日记本丨碎碎念丨08丨世界上最帅最萌之推丨欢迎投喂助力鱿鱿小吱的成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukomo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukomo",
+                "start": 0,
+                "url": "https://t.co/k0398NYtHU"
+              }
+            ]
+          }
+        },
+        "id": "1957852552286060544",
+        "location": "这里幸运女高碎碎念bot",
+        "name": "yukomo",
+        "pinned_tweet_id": "2065758306006618549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051961285441695744/gQKCSmHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 122,
+          "like_count": 10050,
+          "listed_count": 0,
+          "media_count": 467,
+          "tweet_count": 3454
+        },
+        "url": "https://t.co/k0398NYtHU",
+        "username": "qi_si72468",
+        "verified": false
+      }
+    ]
+  }
+}

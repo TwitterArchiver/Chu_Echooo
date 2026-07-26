@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2035561320683311327",
+    "created_at": "2026-03-22T04:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035568329130455425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938246407225532416",
+          "start": 0,
+          "username": "Haze591200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035568329130455425",
+    "in_reply_to_user_id": "1938246407225532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035561320683311327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haze591200 装哑讨饭（天才"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2035561313863450624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_EOudbwAAZv9R.jpg",
+        "width": 226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2035561320683311327",
+        "created_at": "2026-03-22T04:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035568329130455425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938246407225532416",
+              "start": 0,
+              "username": "Haze591200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035568329130455425",
+        "in_reply_to_user_id": "1938246407225532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035561320683311327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haze591200 装哑讨饭（天才"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035561313863450624"
+          ]
+        },
+        "author_id": "1938246407225532416",
+        "conversation_id": "2035561320683311327",
+        "created_at": "2026-03-22T03:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035561320683311327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZ61D9YNEE",
+              "end": 40,
+              "expanded_url": "https://x.com/Haze591200/status/2035561320683311327/photo/1",
+              "media_key": "3_2035561313863450624",
+              "start": 17,
+              "url": "https://t.co/VZ61D9YNEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035561320683311327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这辈子应该找个不用说话的职业。 https://t.co/VZ61D9YNEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/骨科/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 34,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 138
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T14:42:28.000Z",
+        "description": "此处太短无法说明｜有喜欢的人^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hazel24154",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hazel24154",
+                "start": 0,
+                "url": "https://t.co/Db8DtXcjNC"
+              }
+            ]
+          }
+        },
+        "id": "1938246407225532416",
+        "name": "Mia",
+        "pinned_tweet_id": "1998015978366800109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370092884246528/WkxIY6rY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 256,
+          "like_count": 5830,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 3745
+        },
+        "url": "https://t.co/Db8DtXcjNC",
+        "username": "Haze591200",
+        "verified": false
+      }
+    ]
+  }
+}

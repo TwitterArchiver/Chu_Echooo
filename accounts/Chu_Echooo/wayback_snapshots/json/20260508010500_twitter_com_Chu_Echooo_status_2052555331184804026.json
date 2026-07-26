@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052347920440303713",
+    "created_at": "2026-05-08T01:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T02:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052555331184804026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744053807602958336",
+          "start": 0,
+          "username": "Li1ntear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052555331184804026",
+    "in_reply_to_user_id": "1744053807602958336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052422551956058469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li1ntear 我看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052347920440303713",
+        "created_at": "2026-05-08T01:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052555331184804026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744053807602958336",
+              "start": 0,
+              "username": "Li1ntear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052555331184804026",
+        "in_reply_to_user_id": "1744053807602958336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052422551956058469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li1ntear 我看！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744053807602958336",
+        "conversation_id": "2052347920440303713",
+        "created_at": "2026-05-07T16:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052422551956058469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422551956058469",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052347920440303713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 感觉除了自己就没人看了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 76,
+          "like_count": 3873,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 982
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T17:50:25.000Z",
+        "description": "从此一生都算我月圆",
+        "id": "1744053807602958336",
+        "location": "天堂",
+        "name": "川郁砂澪_",
+        "pinned_tweet_id": "1744545430472409376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042153816855121920/jBKQz34x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 51,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 66
+        },
+        "username": "Li1ntear",
+        "verified": false
+      }
+    ]
+  }
+}

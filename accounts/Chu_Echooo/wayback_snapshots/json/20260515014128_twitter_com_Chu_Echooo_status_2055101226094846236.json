@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2055099717374394394",
+    "created_at": "2026-05-15T01:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T02:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055101226094846236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2042802770059890690",
+          "start": 0,
+          "username": "o3oD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055101226094846236",
+    "in_reply_to_user_id": "2042802770059890690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055099717374394394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3oD7 笑，小笨蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2055099717374394394",
+        "created_at": "2026-05-15T01:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055101226094846236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2042802770059890690",
+              "start": 0,
+              "username": "o3oD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055101226094846236",
+        "in_reply_to_user_id": "2042802770059890690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055099717374394394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3oD7 笑，小笨蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042802770059890690",
+        "conversation_id": "2055099717374394394",
+        "created_at": "2026-05-15T01:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055099717374394394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055099717374394394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是推到底怎么看别人具体给自己评论了哪条推文啊。我有时候不知道是哪条推我都不知道怎么回评论，只能一个一个点开我推文看谁评论了，我不行了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 85,
+          "like_count": 4507,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1168
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T03:13:52.000Z",
+        "description": "",
+        "id": "2042802770059890690",
+        "name": "o3o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044400892263489536/0DU-F-8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 90,
+          "like_count": 8663,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 501
+        },
+        "username": "o3oD7",
+        "verified": false
+      }
+    ]
+  }
+}

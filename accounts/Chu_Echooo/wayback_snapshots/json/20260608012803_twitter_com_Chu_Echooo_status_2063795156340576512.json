@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2063782095626047882",
+    "created_at": "2026-06-08T01:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063795156340576512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814459969342976003",
+          "start": 0,
+          "username": "kirinCenter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063795156340576512",
+    "in_reply_to_user_id": "1814459969342976003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063794433905353033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirinCenter 那不治了，摆烂了🤕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2063782095626047882",
+        "created_at": "2026-06-08T01:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063795156340576512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814459969342976003",
+              "start": 0,
+              "username": "kirinCenter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063795156340576512",
+        "in_reply_to_user_id": "1814459969342976003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063794433905353033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirinCenter 那不治了，摆烂了🤕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814459969342976003",
+        "conversation_id": "2063782095626047882",
+        "created_at": "2026-06-08T01:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063794433905353033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063794433905353033",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063782095626047882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 必须用手才可以治疗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 86,
+          "like_count": 5795,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1672
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T00:39:32.000Z",
+        "description": "不言人间烟火，只修长生决",
+        "id": "1814459969342976003",
+        "name": "黄葭宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931723067879034880/Swb1K_BO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 1098,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 3540
+        },
+        "username": "kirinCenter",
+        "verified": false
+      }
+    ]
+  }
+}

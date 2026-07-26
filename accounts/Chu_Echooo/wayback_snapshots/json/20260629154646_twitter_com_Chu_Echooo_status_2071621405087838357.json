@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2071608978979881252",
+    "created_at": "2026-06-29T15:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071621405087838357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1043818398612893696",
+          "start": 0,
+          "username": "oodoII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071621405087838357",
+    "in_reply_to_user_id": "1043818398612893696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071612753165562268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oodoII 我也很好奇..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2071608978979881252",
+        "created_at": "2026-06-29T15:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071621405087838357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1043818398612893696",
+              "start": 0,
+              "username": "oodoII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071621405087838357",
+        "in_reply_to_user_id": "1043818398612893696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071612753165562268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oodoII 我也很好奇..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1043818398612893696",
+        "conversation_id": "2071608978979881252",
+        "created_at": "2026-06-29T15:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071612753165562268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071612753165562268",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071608978979881252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 豆汁真的能喝吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 92,
+          "like_count": 7617,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2505
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-23T11:04:34.000Z",
+        "description": "",
+        "id": "1043818398612893696",
+        "name": "🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044422297902338048/UJ5fPeVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 59,
+          "like_count": 1826,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "oodoII",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2079808856742641798",
+    "created_at": "2026-07-22T06:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079809887455133802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644985773488320512",
+          "start": 0,
+          "username": "HLay127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079809887455133802",
+    "in_reply_to_user_id": "1644985773488320512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079808856742641798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLay127 你能不能把裤子穿上，看给咖啡豆嫌弃的😒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2079808805316292608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNz3FtGbcAAphoe.jpg",
+        "width": 4038
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079808822546419712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNz3GtSaUAAEZig.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079808842142257152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNz3H2SbEAAjuq_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2079808856742641798",
+        "created_at": "2026-07-22T06:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079809887455133802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644985773488320512",
+              "start": 0,
+              "username": "HLay127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079809887455133802",
+        "in_reply_to_user_id": "1644985773488320512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079808856742641798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLay127 你能不能把裤子穿上，看给咖啡豆嫌弃的😒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079808805316292608",
+            "3_2079808822546419712",
+            "3_2079808842142257152"
+          ]
+        },
+        "author_id": "1644985773488320512",
+        "conversation_id": "2079808856742641798",
+        "created_at": "2026-07-22T06:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079808856742641798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luBimE88fM",
+              "end": 31,
+              "expanded_url": "https://x.com/HLay127/status/2079808856742641798/photo/1",
+              "media_key": "3_2079808805316292608",
+              "start": 8,
+              "url": "https://t.co/luBimE88fM"
+            },
+            {
+              "display_url": "pic.x.com/luBimE88fM",
+              "end": 31,
+              "expanded_url": "https://x.com/HLay127/status/2079808856742641798/photo/1",
+              "media_key": "3_2079808822546419712",
+              "start": 8,
+              "url": "https://t.co/luBimE88fM"
+            },
+            {
+              "display_url": "pic.x.com/luBimE88fM",
+              "end": 31,
+              "expanded_url": "https://x.com/HLay127/status/2079808856742641798/photo/1",
+              "media_key": "3_2079808842142257152",
+              "start": 8,
+              "url": "https://t.co/luBimE88fM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079808856742641798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看镜头（强制） https://t.co/luBimE88fM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 101,
+          "like_count": 8188,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 3044
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T08:49:15.000Z",
+        "description": "咖啡爱好者，不是在喝咖啡就是在喝咖啡的路上，我的好大儿叫咖啡豆是个虎斑美短白手套 我和我的儿子都是异性恋",
+        "id": "1644985773488320512",
+        "name": "浮笙",
+        "pinned_tweet_id": "2045206524084244704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039349599006277632/eavCWhy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 88,
+          "like_count": 30477,
+          "listed_count": 4,
+          "media_count": 1544,
+          "tweet_count": 11863
+        },
+        "url": "",
+        "username": "HLay127",
+        "verified": false
+      }
+    ]
+  }
+}

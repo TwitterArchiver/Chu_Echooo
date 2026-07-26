@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2054776937286107155",
+    "created_at": "2026-05-14T04:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054778177827000405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2042802770059890690",
+          "start": 0,
+          "username": "o3oD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054778177827000405",
+    "in_reply_to_user_id": "2042802770059890690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054776937286107155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3oD7 这条不点，不可以！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2054776937286107155",
+        "created_at": "2026-05-14T04:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054778177827000405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2042802770059890690",
+              "start": 0,
+              "username": "o3oD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054778177827000405",
+        "in_reply_to_user_id": "2042802770059890690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054776937286107155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3oD7 这条不点，不可以！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042802770059890690",
+        "conversation_id": "2054776937286107155",
+        "created_at": "2026-05-14T04:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054776937286107155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054776937286107155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香菜可不可以灭绝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/不看不回陌生人私信介意请取关/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 86,
+          "like_count": 4413,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1136
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T03:13:52.000Z",
+        "description": "",
+        "id": "2042802770059890690",
+        "name": "o3o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044400892263489536/0DU-F-8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 88,
+          "like_count": 8230,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 485
+        },
+        "username": "o3oD7",
+        "verified": false
+      }
+    ]
+  }
+}

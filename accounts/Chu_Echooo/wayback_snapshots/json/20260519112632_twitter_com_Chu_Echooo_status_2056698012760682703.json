@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2056687575084216800",
+    "created_at": "2026-05-19T11:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056698012760682703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771457845592203264",
+          "start": 0,
+          "username": "ezzz_467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056698012760682703",
+    "in_reply_to_user_id": "1771457845592203264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056687575084216800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezzz_467 我好遗憾这句话里的你不是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2056687572873846784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrSc2MbIAAocUT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2056687575084216800",
+        "created_at": "2026-05-19T11:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056698012760682703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771457845592203264",
+              "start": 0,
+              "username": "ezzz_467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056698012760682703",
+        "in_reply_to_user_id": "1771457845592203264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056687575084216800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezzz_467 我好遗憾这句话里的你不是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056687572873846784"
+          ]
+        },
+        "author_id": "1771457845592203264",
+        "conversation_id": "2056687575084216800",
+        "created_at": "2026-05-19T10:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056687575084216800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mrnybuIWh",
+              "end": 44,
+              "expanded_url": "https://x.com/ezzz_467/status/2056687575084216800/photo/1",
+              "media_key": "3_2056687572873846784",
+              "start": 21,
+              "url": "https://t.co/6mrnybuIWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056687575084216800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "：天呐我好想和你聊天但我不知道该说什么！ https://t.co/6mrnybuIWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 82,
+          "like_count": 4751,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1226
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T08:44:10.000Z",
+        "description": "♀｜喜欢女孩｜https://t.co/3hugTtSGhO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/difference85614",
+                "end": 30,
+                "expanded_url": "https://ngl.link/difference85614",
+                "start": 7,
+                "url": "https://t.co/3hugTtSGhO"
+              }
+            ]
+          }
+        },
+        "id": "1771457845592203264",
+        "name": "ExCusEmi",
+        "pinned_tweet_id": "2052064242900336680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037901494838800384/QAB5MWpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 125,
+          "like_count": 6099,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1029
+        },
+        "username": "ezzz_467",
+        "verified": false
+      }
+    ]
+  }
+}

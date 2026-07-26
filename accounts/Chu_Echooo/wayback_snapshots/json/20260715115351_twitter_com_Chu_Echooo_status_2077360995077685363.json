@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077360992473014272"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2077360995077685363",
+    "created_at": "2026-07-15T11:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077360995077685363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZWmIGwr3H",
+          "end": 29,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2077360995077685363/photo/1",
+          "media_key": "3_2077360992473014272",
+          "start": 6,
+          "url": "https://t.co/LZWmIGwr3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077360995077685363",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好辛苦的 https://t.co/LZWmIGwr3H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2077360992473014272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRE0PqbYAA8Gyu.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077360992473014272"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2077360995077685363",
+        "created_at": "2026-07-15T11:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077360995077685363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZWmIGwr3H",
+              "end": 29,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2077360995077685363/photo/1",
+              "media_key": "3_2077360992473014272",
+              "start": 6,
+              "url": "https://t.co/LZWmIGwr3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077360995077685363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好辛苦的 https://t.co/LZWmIGwr3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 101,
+          "like_count": 8150,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 2937
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

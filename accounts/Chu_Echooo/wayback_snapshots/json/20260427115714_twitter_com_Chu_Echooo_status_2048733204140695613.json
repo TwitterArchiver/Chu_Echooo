@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2048705826219770247",
+    "created_at": "2026-04-27T11:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048733204140695613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3192913952",
+          "start": 0,
+          "username": "cboob77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048733204140695613",
+    "in_reply_to_user_id": "3192913952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048722334392131688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cboob77 你字多，跟你混！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2048705826219770247",
+        "created_at": "2026-04-27T11:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048733204140695613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3192913952",
+              "start": 0,
+              "username": "cboob77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048733204140695613",
+        "in_reply_to_user_id": "3192913952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048722334392131688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cboob77 你字多，跟你混！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3192913952",
+        "conversation_id": "2048705826219770247",
+        "created_at": "2026-04-27T11:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048722334392131688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048722334392131688",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048705826219770247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 白天能看到月亮主要有以下原因：1)月亮本身不发光，靠反射太阳光被我们看到；2)月球绕地球公转，每天升起时间比前一天晚约50分钟；3)在农历上半月(初七初八左右)或下半月(二十二三左右)，月亮与太阳的角度较大，能在白天同时出现在天空；4)晴朗天气时，月亮反射的光足够强，能穿透明亮的大气被我们看到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/楚娇娇已回喵星/超爱删帖/间歇性人格分裂/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 65,
+          "like_count": 2904,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 629
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-12T07:18:43.000Z",
+        "description": "不要因为互联网而失去了人与人之间的尊重",
+        "id": "3192913952",
+        "location": "Fujian",
+        "name": "某葬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018858273538228224/kmxQczhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 53,
+          "like_count": 507,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 401
+        },
+        "username": "cboob77",
+        "verified": false
+      }
+    ]
+  }
+}

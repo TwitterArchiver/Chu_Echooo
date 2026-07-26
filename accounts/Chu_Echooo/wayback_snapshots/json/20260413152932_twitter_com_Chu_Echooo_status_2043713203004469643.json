@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2043704806058185018",
+    "created_at": "2026-04-13T15:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043713203004469643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1094132353058783232",
+          "start": 0,
+          "username": "ONCBBLHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043713203004469643",
+    "in_reply_to_user_id": "1094132353058783232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043704806058185018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ONCBBLHH ！我也嚼！还有排骨，每次我都要把那块绵绵的骨头嚼到变成碎渣渣..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_2043704793508851712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyyroLbsAAbZwU.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2043704806058185018",
+        "created_at": "2026-04-13T15:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043713203004469643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1094132353058783232",
+              "start": 0,
+              "username": "ONCBBLHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043713203004469643",
+        "in_reply_to_user_id": "1094132353058783232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043704806058185018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ONCBBLHH ！我也嚼！还有排骨，每次我都要把那块绵绵的骨头嚼到变成碎渣渣..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043704793508851712"
+          ]
+        },
+        "author_id": "1094132353058783232",
+        "conversation_id": "2043704806058185018",
+        "created_at": "2026-04-13T14:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043704806058185018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjHl65ydzI",
+              "end": 48,
+              "expanded_url": "https://x.com/ONCBBLHH/status/2043704806058185018/photo/1",
+              "media_key": "3_2043704793508851712",
+              "start": 25,
+              "url": "https://t.co/BjHl65ydzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043704806058185018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家吃鸡翅鸡腿的时候都不嚼骨头的嘛(´°‐°｀) https://t.co/BjHl65ydzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 43,
+          "like_count": 1542,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 327
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-09T07:14:15.000Z",
+        "description": "坐标上海 | 大四在读 | 数学专业 | 是个超i的enfj | 欢迎扩列 | 纯碎碎念里推: @LKZYYIEE | ngl: https://t.co/DGpkqyT28s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "LKZYYIEE"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hlbbc",
+                "end": 88,
+                "expanded_url": "https://ngl.link/hlbbc",
+                "start": 65,
+                "url": "https://t.co/DGpkqyT28s"
+              }
+            ]
+          }
+        },
+        "id": "1094132353058783232",
+        "location": "Shanghai",
+        "name": "HHLBBCNO",
+        "pinned_tweet_id": "1874372558738575847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778997715495755776/VlWPkcq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3042,
+          "following_count": 1194,
+          "like_count": 63850,
+          "listed_count": 11,
+          "media_count": 2064,
+          "tweet_count": 11190
+        },
+        "username": "ONCBBLHH",
+        "verified": false
+      }
+    ]
+  }
+}

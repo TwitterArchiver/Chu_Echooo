@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052256834929807360",
+        "3_2052256842743697408",
+        "3_2052256838813700096",
+        "3_2052256834929750016"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2052256855334977891",
+    "created_at": "2026-05-07T05:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052256855334977891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Svic9hyDf",
+          "end": 146,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2052256855334977891/photo/1",
+          "media_key": "3_2052256834929807360",
+          "start": 123,
+          "url": "https://t.co/9Svic9hyDf"
+        },
+        {
+          "display_url": "pic.x.com/9Svic9hyDf",
+          "end": 146,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2052256855334977891/photo/1",
+          "media_key": "3_2052256842743697408",
+          "start": 123,
+          "url": "https://t.co/9Svic9hyDf"
+        },
+        {
+          "display_url": "pic.x.com/9Svic9hyDf",
+          "end": 146,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2052256855334977891/photo/1",
+          "media_key": "3_2052256838813700096",
+          "start": 123,
+          "url": "https://t.co/9Svic9hyDf"
+        },
+        {
+          "display_url": "pic.x.com/9Svic9hyDf",
+          "end": 146,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2052256855334977891/photo/1",
+          "media_key": "3_2052256834929750016",
+          "start": 123,
+          "url": "https://t.co/9Svic9hyDf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052256855334977891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兄弟萌，我纯清水推，比清汤火锅都清好的伐！\n我也不看陌生人私信，每天虽然很闲但也没有很多天想聊，\n我只是一个纯废话多，正在努力经营自己二逼生活，跟互关们插科打诨卖萌撒娇的小透明罢了，\n谢谢喜欢的，谢谢夸赞的，\n如果怠慢了你冷漠了你，建议取关喵~ https://t.co/9Svic9hyDf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2246,
+        "media_key": "3_2052256834929807360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsUt9Hb0AAOq6D.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2246,
+        "media_key": "3_2052256842743697408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsUuaOaUAAqMQm.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2252,
+        "media_key": "3_2052256838813700096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsUuLlbUAA8Oiq.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2248,
+        "media_key": "3_2052256834929750016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsUt9Ha8AAr2ww.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052256834929807360",
+            "3_2052256842743697408",
+            "3_2052256838813700096",
+            "3_2052256834929750016"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2052256855334977891",
+        "created_at": "2026-05-07T05:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052256855334977891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Svic9hyDf",
+              "end": 146,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2052256855334977891/photo/1",
+              "media_key": "3_2052256834929807360",
+              "start": 123,
+              "url": "https://t.co/9Svic9hyDf"
+            },
+            {
+              "display_url": "pic.x.com/9Svic9hyDf",
+              "end": 146,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2052256855334977891/photo/1",
+              "media_key": "3_2052256842743697408",
+              "start": 123,
+              "url": "https://t.co/9Svic9hyDf"
+            },
+            {
+              "display_url": "pic.x.com/9Svic9hyDf",
+              "end": 146,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2052256855334977891/photo/1",
+              "media_key": "3_2052256838813700096",
+              "start": 123,
+              "url": "https://t.co/9Svic9hyDf"
+            },
+            {
+              "display_url": "pic.x.com/9Svic9hyDf",
+              "end": 146,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2052256855334977891/photo/1",
+              "media_key": "3_2052256834929750016",
+              "start": 123,
+              "url": "https://t.co/9Svic9hyDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052256855334977891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟萌，我纯清水推，比清汤火锅都清好的伐！\n我也不看陌生人私信，每天虽然很闲但也没有很多天想聊，\n我只是一个纯废话多，正在努力经营自己二逼生活，跟互关们插科打诨卖萌撒娇的小透明罢了，\n谢谢喜欢的，谢谢夸赞的，\n如果怠慢了你冷漠了你，建议取关喵~ https://t.co/9Svic9hyDf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/超爱删帖/间歇性人格分裂/一个拥抱能代替所有/不定时轰炸互关/不看也不回陌生人私信介意请取关/嫌我话多可以随意单取/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 73,
+          "like_count": 3766,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

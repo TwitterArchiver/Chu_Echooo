@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2033228136180219904",
+    "conversation_id": "2044582773135233282",
+    "created_at": "2026-04-16T01:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044585028966138295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1969243292367011840",
+          "start": 0,
+          "username": "wwenwann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044585028966138295",
+    "in_reply_to_user_id": "1969243292367011840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044582773135233282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwenwann 宝宝真的别太内耗，上班哪有不犯错的嘛，我现在领导喷我我都左耳朵进右耳朵出（也可能是我脸皮厚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044582760086679552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_RMAjasAADKj4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2044582773135233282",
+        "created_at": "2026-04-16T01:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044585028966138295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1969243292367011840",
+              "start": 0,
+              "username": "wwenwann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044585028966138295",
+        "in_reply_to_user_id": "1969243292367011840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044582773135233282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwenwann 宝宝真的别太内耗，上班哪有不犯错的嘛，我现在领导喷我我都左耳朵进右耳朵出（也可能是我脸皮厚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044582760086679552"
+          ]
+        },
+        "author_id": "1969243292367011840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044582773135233282",
+        "created_at": "2026-04-16T01:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044582773135233282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYC0VIjIRJ",
+              "end": 89,
+              "expanded_url": "https://x.com/wwenwann/status/2044582773135233282/photo/1",
+              "media_key": "3_2044582760086679552",
+              "start": 66,
+              "url": "https://t.co/UYC0VIjIRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044582773135233282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烧饼煎蛋🍳\n油倒多了，蛋黄也没全熟，心神不宁的。等会儿到了公司，不解释，别争辩，听着，说以后注意。专心做事，让这种羞耻的情绪翻页。 https://t.co/UYC0VIjIRJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一坏/猫叫楚点点/爱恨随意/亲疏随缘/嫌我话多可以随意单取",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 50,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 402
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T03:32:55.000Z",
+        "description": "少女的祈祷📜",
+        "id": "1969243292367011840",
+        "name": "温婉",
+        "pinned_tweet_id": "2009516668507074731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041034794319155200/saBmOQh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 16,
+          "like_count": 9049,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 940
+        },
+        "username": "wwenwann",
+        "verified": false
+      }
+    ]
+  }
+}

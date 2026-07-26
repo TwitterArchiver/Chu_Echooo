@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077981507667509248"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2077981517754905080",
+    "created_at": "2026-07-17T04:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077981517754905080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Otg15cVwR",
+          "end": 38,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2077981517754905080/photo/1",
+          "media_key": "3_2077981507667509248",
+          "start": 15,
+          "url": "https://t.co/7Otg15cVwR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077981517754905080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷我零食，猫赃俱获，铁证如山 https://t.co/7Otg15cVwR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2077981507667509248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ5K-5aQAAMEk8.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077981507667509248"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2077981517754905080",
+        "created_at": "2026-07-17T04:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077981517754905080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Otg15cVwR",
+              "end": 38,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2077981517754905080/photo/1",
+              "media_key": "3_2077981507667509248",
+              "start": 15,
+              "url": "https://t.co/7Otg15cVwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077981517754905080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷我零食，猫赃俱获，铁证如山 https://t.co/7Otg15cVwR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 100,
+          "like_count": 8150,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 2942
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}
