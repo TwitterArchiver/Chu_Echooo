@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081008832206295040"
+      ]
+    },
+    "author_id": "2033228136180219904",
+    "conversation_id": "2081008834894836092",
+    "created_at": "2026-07-25T13:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081008834894836092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbj8Ji5SDG",
+          "end": 53,
+          "expanded_url": "https://x.com/Chu_Echooo/status/2081008834894836092/photo/1",
+          "media_key": "3_2081008832206295040",
+          "start": 30,
+          "url": "https://t.co/jbj8Ji5SDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081008834894836092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "我的小蝴蝶，好看吗？\n请记得我明媚的样子，请忘记我的迷惘。 https://t.co/jbj8Ji5SDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1507,
+        "media_key": "3_2081008832206295040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE6gdobUAAL0Hc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081008832206295040"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "conversation_id": "2081008834894836092",
+        "created_at": "2026-07-25T13:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081008834894836092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbj8Ji5SDG",
+              "end": 53,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2081008834894836092/photo/1",
+              "media_key": "3_2081008832206295040",
+              "start": 30,
+              "url": "https://t.co/jbj8Ji5SDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081008834894836092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我的小蝴蝶，好看吗？\n请记得我明媚的样子，请忘记我的迷惘。 https://t.co/jbj8Ji5SDG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 102,
+          "like_count": 8245,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2801
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}
